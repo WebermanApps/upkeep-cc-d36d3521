@@ -36,20 +36,33 @@ li{overflow-wrap:anywhere}
 .upd{color:#737373;font-size:.8rem;text-align:center;margin-top:20px}
 .rpt{border:2px solid #171717;border-radius:.75rem;padding:14px 16px;margin:0 0 16px;background:#fff}
 .rpt .lbl{color:#171717}.rpt dl{margin:8px 0 0;display:grid;gap:6px}.rpt dt{font-weight:600;font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:#737373;margin-top:4px}.rpt dd{margin:0}
+.urg{border:2px solid #171717;border-radius:.75rem;margin:0 0 16px;background:#fff}
+.urg:not([open])>.body{display:none}
+.urg>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:12px 14px;min-height:48px}
+.urg>summary::-webkit-details-marker{display:none}
+.urg>summary .lbl{color:#171717;font-size:.85rem;letter-spacing:.1em}
+.urg .body{padding:0 14px 14px}
+.urg ul{margin:0;padding:0;list-style:none}
+.urg li{padding:8px 0;border-top:1px solid #f0f0f0}
+.urg li:first-child{border-top:0}
 @media(min-width:1200px){.rpt dl{grid-template-columns:200px 1fr;gap:8px 16px}.rpt dt{margin-top:2px}}
 @media(min-width:1800px){main{max-width:1720px;padding:5vh 5vw}body{font-size:20px}h1{font-size:3rem}summary h2{font-size:1.6rem}.tag{font-size:.8rem}}
 @media(min-width:1800px){.rpt dd{font-size:1.2em}.rpt dt,.lbl,.sub{font-size:.95rem}.k b{font-size:1.7rem}}
 @media(min-width:2400px){main{max-width:2200px}body{font-size:24px}h1{font-size:3.6rem}}
 :focus-visible{outline:3px solid #171717;outline-offset:3px}
 </style></head><body><main>
-<div class="lbl">Smart UpKeep</div><h1>Command Center</h1><p class="sub">Project status, open items and decisions. Updated <span id="u">Oct 13, 2026, 3:20 PM ICT</span>.</p>
+<div class="lbl">Smart UpKeep</div><h1>Command Center</h1><p class="sub">Project status, open items and decisions. Updated <span id="u">Oct 13, 2026, 5:16 PM ICT</span>.</p>
 <section class="rpt" aria-label="Morning Report"><div class="lbl">Morning Report · Oct 13, 2026</div><dl>
-<dt>App</dt><dd>V.2 live. Welcome offer moved to a Plans tag. Byline removed. HTTPS on smartupkeep.ai pending.</dd>
-<dt>Video</dt><dd>V.2 awaiting Max's approval. Both videos are in the Videos section below.</dd>
-<dt>SMART Visa</dt><dd>Nov 8: US letters of intent. Nov 9: SMART-S filing.</dd>
-<dt>Decisions Max Owes</dt><dd>7 app questions, video V.2 approval, lawn bi-weekly, app builder.</dd>
-<dt>Next</dt><dd>Label scan plus warranty and recall check, Deck 5 picks, LLC registered agent, Stripe, lawyer, trademark.</dd>
+<dt>App</dt><dd>V.2 live. Welcome offer on Plans tag. Byline removed.</dd>
+<dt>Video</dt><dd>V.2 awaiting Max's approval. Both videos are in Videos below.</dd>
+<dt>Next</dt><dd>Label scan, Deck 5 picks, LLC registered agent, Stripe, lawyer, trademark.</dd>
 </dl></section>
+<details class="urg"><summary><span class="lbl">4 Urgent</span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul>
+<li><span class="tag">Nov 8</span>SMART-S: US letters of intent.</li>
+<li><span class="tag">Nov 9</span>SMART-S visa filing.</li>
+<li><span class="tag m">Pending</span>HTTPS for smartupkeep.ai.</li>
+<li><span class="tag">Decisions</span>7 app questions, video V.2 approval, lawn bi-weekly, Deck 5 picks, app builder.</li>
+</ul></div></details>
 <div class="kpi"><div class="k"><span class="lbl">App</span><b>V.2 Live</b></div><div class="k"><span class="lbl">HTTPS</span><b>Pending</b></div><div class="k"><span class="lbl">Video</span><b>V.2 For Review</b></div><div class="k"><span class="lbl">Next Deadline</span><b>Nov 8</b></div></div>
 
 <div class="secs"><details open><summary><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m10 9 5 3-5 3z"/></svg><h2>Videos</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body vids">
@@ -90,6 +103,7 @@ li{overflow-wrap:anywhere}
 <li>Label scan plus warranty and recall check before launch</li><li>LLC registered agent</li><li>Stripe setup</li><li>Lawyer</li><li>Trademark</li><li>HTTPS on smartupkeep.ai</li></ul></div></details>
 
 <details><summary><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><h2>Recent Work</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul>
+<li><span class="tag m">Oct 13</span>Urgent items moved into a collapsed 4 Urgent dropdown (deadlines, HTTPS, decisions).</li>
 <li><span class="tag m">aff50a7</span>App condensed: short labels, icons, one welcome offer per page, legal text in drop-downs (home 274 to 179 words, quote 331 to 92, sign-up 1,062 to 224).</li>
 <li><span class="tag m">885e2a3</span>Deck upkeep-7: lawn Every 2 Weeks and One-Time, gift icon, Stay Offer on cancel, watch page Get Started.</li>
 <li><span class="tag m">Oct 13</span>Collapsed section bodies use display:none so they take no layout space (dashboard).</li>
@@ -102,10 +116,10 @@ li{overflow-wrap:anywhere}
 <li><span class="tag m">Oct 13</span>This command center launched.</li></ul></div></details>
 </div>
 <div class="bar"><button class="btn mw-hover" id="s"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v7h14v-7"/></svg><span id="st">Share</span></button></div>
-<footer class="upd">Last updated Oct 13, 2026, 5:04 PM ICT</footer>
+<footer class="upd">Last updated Oct 13, 2026, 5:16 PM ICT</footer>
 </main>
 <script>
-if(matchMedia('(min-width:1200px)').matches)document.querySelectorAll('details').forEach(d=>d.open=true);
+if(matchMedia('(min-width:1200px)').matches)document.querySelectorAll('.secs details').forEach(d=>d.open=true);
 document.getElementById('s').onclick=async()=>{const url=location.href,text='Smart UpKeep Command Center';
 if(navigator.share){try{await navigator.share({title:text,text,url});return}catch(e){return}}
 if(/iPhone|Android/i.test(navigator.userAgent)){location.href='sms:?&body='+encodeURIComponent(text+' '+url);return}
