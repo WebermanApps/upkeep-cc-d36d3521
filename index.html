@@ -124,4 +124,4 @@ document.getElementById('s').onclick=async()=>{const url=location.href,text='Sma
 if(navigator.share){try{await navigator.share({title:text,text,url});return}catch(e){return}}
 if(/iPhone|Android/i.test(navigator.userAgent)){location.href='sms:?&body='+encodeURIComponent(text+' '+url);return}
 try{await navigator.clipboard.writeText(url);document.getElementById('st').textContent='Copied';setTimeout(()=>document.getElementById('st').textContent='Share',1600)}catch(e){}};
-</script><script src="ptr.js"></script></body></html>
+</script><script src="ptr.js" defer></script></body></html>
