@@ -1,0 +1,71 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="color-scheme" content="light">
+<title>Smart UpKeep Command Center</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@700&family=Hind:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="brand-tokens.css">
+<style>
+*{box-sizing:border-box}body{margin:0;background:#fff;color:#0a0a0a;font:16px/1.5 var(--mw-font-body);padding-bottom:96px}
+main{max-width:880px;margin:0 auto;padding:20px 16px}
+h1,h2{font-family:var(--mw-font-heading);font-weight:700;line-height:1.1;letter-spacing:-.01em;margin:0}
+h1{font-size:2.1rem}.sub{color:#737373;margin:4px 0 16px;font-size:.95rem}
+.lbl{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:#737373;font-weight:600}
+details{border:1px solid #e5e5e5;border-radius:.75rem;margin:12px 0;background:#fff}
+summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:12px 14px;min-height:48px}
+summary::-webkit-details-marker{display:none}summary h2{font-size:1.35rem;flex:1}
+summary .chev{transition:transform .18s}details[open] .chev{transform:rotate(180deg)}
+.body{padding:0 14px 14px}ul{margin:0;padding-left:0;list-style:none}li{padding:8px 0;border-top:1px solid #f0f0f0}li:first-child{border-top:0}
+.tag{display:inline-block;font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;border:1px solid #171717;padding:1px 7px;margin-right:6px;font-weight:600}
+.tag.m{border-color:#e5e5e5;color:#737373}
+.links{display:grid;gap:10px}@media(min-width:700px){.links{grid-template-columns:repeat(3,1fr)}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:0 12px}}
+a.card{display:flex;gap:10px;align-items:center;padding:12px;border:1px solid #e5e5e5;border-radius:.75rem;color:inherit;text-decoration:none;min-height:56px}
+a.card b{display:block;font-weight:600}a.card small{color:#737373}
+svg{flex:none}.kpi{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-bottom:4px}@media(min-width:700px){.kpi{grid-template-columns:repeat(4,1fr)}}
+.k{background:#f5f5f5;border-radius:.75rem;padding:10px 12px}.k b{font-family:var(--mw-font-heading);font-size:1.3rem;display:block}
+.bar{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:1px solid #e5e5e5;padding:10px 16px;display:flex;justify-content:center}
+.btn{font:600 .8rem var(--mw-font-body);text-transform:uppercase;letter-spacing:.1em;border:2px solid #171717;background:#fff;color:#171717;min-height:44px;padding:0 28px;display:flex;align-items:center;gap:8px;cursor:pointer}
+.upd{color:#737373;font-size:.8rem;text-align:center;margin-top:20px}
+</style></head><body><main>
+<div class="lbl">Smart UpKeep</div><h1>Command Center</h1><p class="sub">Project status, open items and decisions. Updated <span id="u">Oct 13, 2026</span>.</p>
+<div class="kpi"><div class="k"><span class="lbl">App</span><b>V.2 Live</b></div><div class="k"><span class="lbl">HTTPS</span><b>Pending</b></div><div class="k"><span class="lbl">Video</span><b>V.2 For Review</b></div><div class="k"><span class="lbl">Next Deadline</span><b>Nov 8</b></div></div>
+
+<details open><summary><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><h2>Links</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body links">
+<a class="card mw-hover" href="http://smartupkeep.ai"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M3 11 12 4l9 7"/><path d="M5 10v10h14V10"/></svg><span><b>Smart UpKeep App</b><small>Password-gated preview</small></span></a>
+<a class="card mw-hover" href="http://smartupkeep.ai/watch/"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m10 9 5 3-5 3z"/></svg><span><b>Watch Page</b><small>Explainer video</small></span></a>
+<a class="card mw-hover" href="https://github.com/WebermanApps/smart-upkeep"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M8 7 3 12l5 5M16 7l5 5-5 5"/></svg><span><b>GitHub Repo</b><small>WebermanApps/smart-upkeep</small></span></a>
+</div></details>
+
+<details open><summary><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg><h2>Current Status</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul>
+<li><span class="tag">Live</span>App V.2 (tag SmartUpKeep-V.2). Pre-launch gate: password-gated and noindex.</li>
+<li><span class="tag m">Pending</span>HTTPS for smartupkeep.ai (routine watching).</li>
+<li><span class="tag m">Review</span>Video V.2 awaiting Max's approval.</li>
+<li><span class="tag m">Watch</span>smartupkeep.com drop-watch routine running.</li></ul></div></details>
+
+<details open><summary><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><h2>Deadlines</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul>
+<li><span class="tag">Nov 8</span>SMART-S: US letters of intent.</li>
+<li><span class="tag">Nov 9</span>SMART-S visa filing.</li></ul></div></details>
+
+<details><summary><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 1 1 3.5 2.3c-.6.3-1 .9-1 1.6V14M12 17.5v.01"/></svg><h2>Decisions Max Owes</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul>
+<li><span class="tag">App</span>7 open questions on the SmartKeep app feature list: tier names, which price bands to show, beta date, who answers Text A Human, accent color, in-app payment, photo label capture service.</li>
+<li><span class="tag">Video</span>Approve video V.2.</li>
+<li><span class="tag">Lawn</span>Bi-weekly lawn decision.</li>
+<li><span class="tag">Deck</span>Deck 5 picks.</li></ul></div></details>
+
+<details><summary><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M9 6h11M9 12h11M9 18h11"/><path d="m3 6 1 1 2-2M3 12l1 1 2-2M3 18l1 1 2-2"/></svg><h2>Open Items</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul class="grid2">
+<li>Label scan plus warranty and recall check before launch</li><li>LLC registered agent</li><li>Stripe setup</li><li>Lawyer</li><li>Trademark</li><li>HTTPS on smartupkeep.ai</li></ul></div></details>
+
+<details><summary><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><h2>Recent Work</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul>
+<li><span class="tag m">b793c0b</span>Welcome offer moved to a Plans tag.</li>
+<li><span class="tag m">4a33f1d</span>Byline removed.</li>
+<li><span class="tag m">bbc3969</span>Plans placed above services.</li>
+<li><span class="tag m">Oct 13</span>Reorg: UpKeep is now Head of Smart UpKeep (absorbed UpKeep Content and SMART work).</li>
+<li><span class="tag m">Oct 13</span>This command center launched.</li></ul></div></details>
+<p class="upd">Last updated Oct 13, 2026 (ICT)</p>
+</main>
+<div class="bar"><button class="btn mw-hover" id="s"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v7h14v-7"/></svg><span id="st">Share</span></button></div>
+<script>
+document.getElementById('s').onclick=async()=>{const url=location.href,text='Smart UpKeep Command Center';
+if(navigator.share){try{await navigator.share({title:text,text,url});return}catch(e){return}}
+if(/iPhone|Android/i.test(navigator.userAgent)){location.href='sms:?&body='+encodeURIComponent(text+' '+url);return}
+try{await navigator.clipboard.writeText(url);document.getElementById('st').textContent='Copied';setTimeout(()=>document.getElementById('st').textContent='Share',1600)}catch(e){}};
+</script></body></html>
