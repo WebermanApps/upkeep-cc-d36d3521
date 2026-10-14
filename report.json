@@ -1,1 +1,1 @@
-{"dashboard":"upkeep-cc","report_type":"Morning","posted_at":"2026-10-14T04:52:00+07:00","due_by":"05:00 ICT","next":{"report_type":"Evening","due_at":"18:00 ICT"}}
+{"dashboard": "upkeep-cc", "report_type": "Evening Report", "type": "Evening Report", "date": "2026-10-14", "posted_at": "2026-10-14T18:08:11+07:00", "posted_ict": "Oct 14, 2026, 6:08 PM ICT", "due_by": "18:00 ICT", "late": true, "late_min": 8, "next": {"report_type": "Morning", "due_at": "by 5:00 AM ICT"}}
