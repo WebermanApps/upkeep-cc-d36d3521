@@ -1,172 +1,130 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,nofollow"><meta name="color-scheme" content="light">
-<title>Smart UpKeep Command Center</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@700&family=Hind:wght@400;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="brand-tokens.css">
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
+<title>UpKeep</title><link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@600&family=Hind:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-*{box-sizing:border-box}body{margin:0;background:#fff;color:#0a0a0a;font:16px/1.5 var(--mw-font-body)}
-main{max-width:880px;width:100%;margin:0 auto;padding:20px 16px}
-h1,h2{font-family:var(--mw-font-heading);font-weight:700;line-height:1.1;letter-spacing:-.01em;margin:0}
-h1{font-size:2.1rem}.sub{color:#737373;margin:4px 0 16px;font-size:.95rem}
-.lbl{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:#737373;font-weight:600}
-details{border:1px solid #e5e5e5;border-radius:.75rem;margin:12px 0;background:#fff}
-details:not([open])>.body{display:none}
-summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:12px 14px;min-height:48px}
-summary::-webkit-details-marker{display:none}summary h2{font-size:1.35rem;flex:1}
-summary .chev{transition:transform .18s}details[open] .chev{transform:rotate(180deg)}
-.body{padding:0 14px 14px}ul{margin:0;padding-left:0;list-style:none}li{padding:8px 0;border-top:1px solid #f0f0f0}li:first-child{border-top:0}
-.tag{display:inline-block;font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;border:1px solid #171717;padding:1px 7px;margin-right:6px;font-weight:600}
-.tag.m{border-color:#e5e5e5;color:#737373}
-.links{display:grid;gap:10px}@media(min-width:700px){.links{grid-template-columns:repeat(3,1fr)}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:0 12px}}
-a.card{display:flex;gap:10px;align-items:center;padding:12px;border:1px solid #e5e5e5;border-radius:.75rem;color:inherit;text-decoration:none;min-height:56px}
-a.card b{display:block;font-weight:600}a.card small{color:#737373}
-svg{flex:none}.kpi{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-bottom:4px}@media(min-width:700px){.kpi{grid-template-columns:repeat(4,1fr)}}
-.k{background:#f5f5f5;border-radius:.75rem;padding:10px 12px}.k b{font-family:var(--mw-font-heading);font-size:1.3rem;display:block}
-.bar{position:static;display:flex;justify-content:center;margin:28px 0 8px;padding:0;border:0;background:transparent}
-.btn{font:600 .8rem var(--mw-font-body);text-transform:uppercase;letter-spacing:.1em;border:2px solid #171717;background:#fff;color:#171717;min-height:44px;padding:0 28px;display:flex;align-items:center;gap:8px;cursor:pointer}
-@media(min-width:1200px){main{max-width:1440px;padding:32px 32px}.secs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 16px;align-items:start}.secs>details:first-child{grid-column:1/-1}.secs details{margin:8px 0}}
-@media(min-width:2000px){main{max-width:2080px;padding:48px}body{font-size:17px}h1{font-size:2.6rem}.secs{grid-template-columns:repeat(3,minmax(0,1fr))}.links{grid-template-columns:repeat(3,1fr)}}
-.vids{display:grid;gap:16px}@media(min-width:700px){.vids{grid-template-columns:1fr 1fr}}
-.vid video{width:100%;display:block;border:1px solid #e5e5e5;border-radius:.75rem;background:#fff}
-.vid .v916{max-width:360px;margin:0 auto}.vid .v169{display:none}
-@media(min-width:700px){.vid .v916{display:none}.vid .v169{display:block}}
-.vid h3{font-family:var(--mw-font-heading);font-size:1.15rem;margin:0 0 6px;display:flex;align-items:center;gap:8px}.vid p{margin:6px 0 0;color:#737373;font-size:.85rem}
-li{overflow-wrap:anywhere}
-.upd{color:#737373;font-size:.8rem;text-align:center;margin-top:20px}
-.rpt{border:2px solid #171717;border-radius:.75rem;padding:14px 16px;margin:0 0 16px;background:#fff}
-.rpt .lbl{color:#171717}.rpt dl{margin:8px 0 0;display:grid;gap:6px}.rpt dt{font-weight:600;font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:#737373;margin-top:4px}.rpt dd{margin:0}
-.urg{border:2px solid #171717;border-radius:.75rem;margin:0 0 16px;background:#fff}
-.urg:not([open])>.body{display:none}
-.urg>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:12px 14px;min-height:48px}
-.urg>summary::-webkit-details-marker{display:none}
-.urg>summary .lbl{color:#171717;font-size:.85rem;letter-spacing:.1em}
-.urg .body{padding:0 14px 14px}
-.urg ul{margin:0;padding:0;list-style:none}
-.urg li{padding:8px 0;border-top:1px solid #f0f0f0}
-.urg li:first-child{border-top:0}
-@media(min-width:1200px){.rpt dl{grid-template-columns:200px 1fr;gap:8px 16px}.rpt dt{margin-top:2px}}
-@media(min-width:1800px){main{max-width:1720px;padding:5vh 5vw}body{font-size:20px}h1{font-size:3rem}summary h2{font-size:1.6rem}.tag{font-size:.8rem}}
-@media(min-width:1800px){.rpt dd{font-size:1.2em}.rpt dt,.lbl,.sub{font-size:.95rem}.k b{font-size:1.7rem}}
-@media(min-width:2400px){main{max-width:2200px}body{font-size:24px}h1{font-size:3.6rem}}
-:focus-visible{outline:3px solid #171717;outline-offset:3px}
-.open-app{display:flex;align-items:center;justify-content:center;width:100%;min-height:52px;margin:0 0 14px;padding:12px 18px;border-radius:.75rem;background:#C1502E;color:#fff;font-weight:700;font-size:1.1rem;text-decoration:none;box-sizing:border-box}.open-app:hover{background:#a8421f}@media(min-width:1200px){.open-app{width:auto;display:inline-flex;min-width:320px}}
-.v3{border:1px solid #e5e5e5;border-radius:.75rem;padding:12px 14px;margin:0 0 16px;background:#fff}.v3 h2{font-size:1.15rem;margin:0 0 8px;display:flex;align-items:center;gap:8px}.v3 video{width:100%;display:block;border:1px solid #e5e5e5;border-radius:.5rem;background:#fff}.v3 .v916{max-width:240px}.v3 .v169{display:none;max-width:560px}@media(min-width:700px){.v3 .v916{display:none}.v3 .v169{display:block}}.v3 p{margin:6px 0 0;color:#737373;font-size:.85rem}
-:root{--lagoon:#0E7C86;--saffron:#E3A008;--terra:#C1502E}
-main{padding-top:12px}
-.tb{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:10px;padding:6px 12px;background:#fff;border-bottom:1px solid #e5e5e5}
-.tb .apps-home{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 14px 0 10px;border:1px solid #d9d9d9;border-radius:999px;background:#f7f7f7;color:#171717;text-decoration:none;font:700 14px/1 var(--mw-font-body);white-space:nowrap;flex:none}
-.tb .nm{font:700 1.05rem var(--mw-font-heading);letter-spacing:.12em;text-transform:uppercase;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.tb .tu{color:#737373;font-size:.75rem;white-space:nowrap}
-.apps2{display:grid;gap:10px;margin:0 0 14px}@media(min-width:700px){.apps2{grid-template-columns:1fr 1fr}}
-.open-app{margin:0 0 10px}
-.rpt2{border:1px solid #e5e5e5;border-left:4px solid var(--saffron);border-radius:.75rem;margin:0 0 10px;background:#fff}
-.rpt2>summary{min-height:48px;padding:10px 14px}.rpt2 .one{flex:1;min-width:0;font-size:.95rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.rpt2 .one b{font-weight:600;color:#171717;margin-right:6px}
-ol.nr{list-style:none;margin:0;padding:0 14px 12px;counter-reset:n}ol.nr li{counter-increment:n;display:flex;gap:10px;align-items:flex-start;border-top:1px solid #f0f0f0;padding:8px 0}
-ol.nr li:before{content:counter(n);flex:none;width:24px;height:24px;border-radius:50%;background:var(--saffron);color:#171717;font:700 .8rem/24px var(--mw-font-body);text-align:center}
-.dec{border:0;border-left:4px solid var(--terra);border-radius:0;margin:0 0 10px;background:#fff}
-.dec>summary{background:#fbeee9;padding:10px 14px}.dec>summary .lbl{color:#171717;letter-spacing:.14em}
-.strip{display:flex;gap:8px;overflow-x:auto;margin:0 0 10px;padding-bottom:2px}.strip .k{flex:1 1 0;min-width:0;padding:8px 10px}.strip .k b{font-size:1.05rem;line-height:1.15}.strip .k .lbl{font-size:.65rem}
-details{margin:8px 0}
-.rows li{display:flex;gap:10px;align-items:baseline;cursor:pointer}.rows li .t{flex:1;min-width:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.rows li.x .t{display:block}.rows li .d{margin-left:auto;flex:none;color:#737373;font-size:.8rem;white-space:nowrap}
-.rows li.more{display:none}.rows.all li.more{display:flex}
-.seeall{font:600 .85rem var(--mw-font-body);background:none;border:0;color:var(--lagoon);min-height:44px;padding:0;cursor:pointer;text-decoration:underline}
-.edge{display:grid;gap:8px}@media(min-width:700px){.edge{grid-template-columns:1fr 1fr}}
-.edge div{border:1px solid #e5e5e5;border-left:4px solid var(--lagoon);padding:10px 12px;font-size:.92rem}
-.feed{border:1px solid #d4d4d4;border-radius:.75rem;padding:10px 14px;margin:8px 0}.feed a{color:var(--lagoon)}
-.feed p{margin:4px 0;font-size:.88rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.bar{margin:16px 0 6px}
+:root{--bg:#FDFBF6;--card:#fff;--line:#ECE6DA;--div:#EFEAE0;--ink:#1F2A2E;--mut:#6B7378;--lag:#2F8FA3;--ter:#C8664A;--jun:#3E7D55;--sh:0 1px 2px rgba(0,0,0,.04)}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.45 Hind,system-ui,sans-serif;font-variant-numeric:tabular-nums;overflow-x:hidden}
+h1,h2,.k{font-family:Khand,sans-serif;font-weight:600;margin:0}
+h1{font-size:28px;line-height:1.1}h2{font-size:18px;margin:0 0 8px}
+a{color:var(--lag)}
+.wrap{max-width:1200px;margin:0 auto;padding:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:var(--sh);padding:14px 16px;min-width:0}
+.meta{font-size:13px;color:var(--mut)}
+header{display:flex;align-items:center;gap:12px}
+.logo{width:40px;height:40px;border-radius:10px;background:var(--lag);display:grid;place-items:center;flex:none}
+header .t{flex:1;min-width:0}
+.ib{width:44px;height:44px;border-radius:10px;border:1px solid var(--line);background:#fff;display:grid;place-items:center;cursor:pointer;flex:none}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;padding:0 16px;border-radius:10px;background:var(--lag);color:#fff;font:500 15px Hind,sans-serif;text-decoration:none;border:0;white-space:nowrap}
+.btn.s{background:#fff;color:var(--ink);border:1px solid var(--line)}
+details.urg{margin:12px 0;background:#fff;border:1px solid var(--line);border-left:3px solid var(--ter);border-radius:12px;box-shadow:var(--sh)}
+details.urg summary{list-style:none;cursor:pointer;min-height:44px;display:flex;align-items:center;gap:10px;padding:0 14px;font-weight:500;white-space:nowrap;overflow:hidden}
+details.urg summary::-webkit-details-marker{display:none}
+details.urg summary .x{overflow:hidden;text-overflow:ellipsis;flex:1;min-width:0}
+.chev{flex:none;transition:transform .18s}details[open]>summary .chev{transform:rotate(180deg)}
+.dot{width:8px;height:8px;border-radius:50%;flex:none;background:var(--lag)}.dot.m{background:var(--ter)}.dot.ok{background:var(--jun)}
+ul.rows{list-style:none;margin:0;padding:0}ul.rows li{display:flex;align-items:center;gap:10px;padding:10px 0;border-top:1px solid var(--div);min-width:0}ul.rows li:first-child{border-top:0}
+.urg ul{padding:0 14px 8px}
+.rows .tt{flex:1;min-width:0}
+.pill{flex:none;font-size:13px;font-weight:500;padding:2px 10px;border-radius:999px;border:1px solid var(--line);color:var(--mut);white-space:nowrap}
+.pill.m{border-color:#E9C3B7;color:var(--ter)}.pill.u{border-color:#BFDDE4;color:var(--lag)}.pill.ok{border-color:#C3DBCB;color:var(--jun)}
+.decks{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:2px 2px 6px;margin:0 -2px 12px;scrollbar-width:thin}
+.deck{flex:0 0 min(300px,82%);scroll-snap-align:start;display:flex;align-items:center;gap:12px;border-left:3px solid var(--lag)}
+.deck b{display:block;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.deck .tx{flex:1;min-width:0}
+.grid{display:grid;gap:12px;grid-template-columns:minmax(0,1fr)}
+.col{display:grid;gap:12px;align-content:start;min-width:0}
+details.tk summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;min-height:44px;padding:6px 0;border-top:1px solid var(--div)}
+details.tk:first-of-type summary{border-top:0}details.tk summary::-webkit-details-marker{display:none}
+details.tk .tt{flex:1;min-width:0;font-weight:500}
+.tkb{padding:0 0 10px 18px;font-size:14px;color:var(--mut)}.tkb ol{margin:4px 0 0;padding-left:18px}.tkb p{margin:0}
+.app{text-decoration:none;color:var(--ink);display:flex;align-items:center;gap:12px;border-left:3px solid var(--jun)}.app .tx{flex:1;min-width:0}
+.fun{list-style:none;margin:0;padding:0;display:grid;gap:8px;counter-reset:f}
+.fun li{display:flex;align-items:center;gap:12px;padding:8px 10px;border:1px solid var(--div);border-radius:10px}
+.fun .k{font-size:24px;line-height:1;color:var(--lag);width:22px;text-align:center}
+.fun .tx{flex:1;min-width:0}.fun .bar{height:3px;background:var(--div);border-radius:2px;margin-top:4px;overflow:hidden}.fun .bar i{display:block;height:100%;width:0;background:var(--lag)}
+.rg{font-size:13px;color:var(--mut);text-transform:uppercase;letter-spacing:.08em;margin:10px 0 2px}.rg:first-of-type{margin-top:0}
+.rpt ol{margin:6px 0 0;padding-left:20px}.rpt li{padding:3px 0}
+.car{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:6px}
+.car>*{flex:0 0 100%;scroll-snap-align:start;min-width:0}
+.cnav{display:flex;gap:6px;justify-content:center;margin-top:6px}.cnav button{width:28px;height:28px;border:0;background:none;display:grid;place-items:center;cursor:pointer;padding:0}.cnav button i{width:8px;height:8px;border-radius:50%;background:var(--line)}.cnav button.on i{background:var(--lag)}
+video{width:100%;border-radius:10px;background:#000;display:block;aspect-ratio:16/9}
+footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}footer a{color:var(--ink);font-weight:500}
+.hide{display:none!important}
+@media(min-width:900px){h1{font-size:32px}.wrap{padding:24px}.grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+ .fun{grid-template-columns:repeat(3,minmax(0,1fr))}.fun li{flex-direction:column;align-items:flex-start;gap:6px}.fun .tx{width:100%}}
+@media(min-width:900px) and (max-width:1799px){.grid{grid-template-areas:"a b" "c b";align-items:start}.grid>.col:nth-child(1){grid-area:a}.grid>.col:nth-child(2){grid-area:b}.c3{grid-area:c}}
+@media(min-width:1800px){.wrap{max-width:1600px}.grid{grid-template-columns:repeat(3,minmax(0,1fr))}.fun{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style></head><body><div class="wrap">
+<header><span class="logo"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg></span>
+<div class="t"><h1>UpKeep</h1><div class="meta">Updated <span id="upd">Oct 14, 2:30 PM ICT</span></div></div>
+<button class="ib" id="share" aria-label="Share"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2" stroke-linecap="round"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v7h14v-7"/></svg></button></header>
 
-/* Board Deck v4 (Oct 14): compact, lagoon leads, white cards on cream, centred three columns */
-body{background:#FBF7EF;font-size:15px;line-height:1.4}.tb{background:#FBF7EF}
-main{max-width:880px;padding:10px 14px}
-details,.rpt2,.dec,.v3,.feed,a.card,.strip .k{background:#fff}
-summary{min-height:44px;padding:8px 12px}.body{padding:0 12px 10px}li{padding:6px 0}details{margin:6px 0}
-.open-app{background:var(--lagoon);min-height:56px;font-size:1.15rem;margin:0 0 8px}.open-app:hover{background:#0a646c}
-@media(min-width:1200px){.open-app{width:100%;display:flex}}
-.apps2{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0 0 10px}
-.apps2 a.card{border:1.5px solid var(--lagoon);min-height:52px;padding:8px 10px}.apps2 a.card svg{stroke:var(--lagoon)}
-@media(max-width:699px){.apps2{grid-template-columns:1fr}}
-.rpt2{border:1px solid #e5e5e5;border-top:0;overflow:hidden}
-.rpt2 .rh{background:var(--saffron);padding:8px 14px}.rpt2 .rh .lbl{color:#171717;font-size:.8rem}
-.rpt2 ol.nr{padding:2px 14px 4px}.rpt2 ol.nr li:first-child{border-top:0}
-.rpt2 details.more{border:0;border-top:1px solid #f0f0f0;border-radius:0;margin:0}.rpt2 details.more>summary{min-height:44px;padding:4px 14px;color:var(--lagoon);font-weight:600;font-size:.88rem;gap:6px}
-.rpt2 details.more:not([open])>ol{display:none}
-.dec{display:inline-block;max-width:100%;border:1px solid #e5e5e5;border-radius:999px;margin:0 0 10px}.dec[open]{display:block;border-radius:.75rem}
-.dec>summary{background:#fff;border-radius:999px;min-height:44px;padding:6px 16px}.dec>summary .lbl{font-size:.78rem}
-.v3.vrow{display:flex;gap:12px;align-items:center;padding:8px 12px}.v3.vrow video{flex:none;width:96px}.v3.vrow .v169{width:200px;max-width:200px}.v3.vrow .vm{min-width:0}.v3.vrow h2{display:none}
-.v3.vrow .vm:before{content:"Video V4 (Official)";display:block;font:700 1.05rem var(--mw-font-heading)}
-.ic{flex:none;width:32px;height:32px;border-radius:8px;background:#e3f2f3;display:inline-flex;align-items:center;justify-content:center}.ic svg{width:18px;height:18px}
-summary h2{font-size:1.2rem}
-a,.seeall{color:var(--lagoon)}.mwf{color:#171717;font-weight:600}
-@media(min-width:1200px){main{max-width:1280px;margin:0 auto;padding:20px 28px}.secs{grid-template-columns:repeat(3,minmax(0,1fr))}}
-@media(min-width:1800px){main{max-width:1600px;padding:28px 32px}body{font-size:18px}}
-@media(min-width:2400px){main{max-width:1800px}body{font-size:20px}}
-@media(min-width:1200px){.secs .links{grid-template-columns:1fr}}
+<details class="urg" id="urgent"><summary><span class="dot m"></span><span class="x">Needs Max · 5 decisions · 2 warnings</span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7378" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary>
+<ul class="rows">
+<li><span class="dot m"></span><span class="tt">Retire Video V.2? (V4 is official)</span><span class="pill">Video</span></li>
+<li><span class="dot m"></span><span class="tt">Base lawn prices and bi-weekly lawn</span><span class="pill">Lawn</span></li>
+<li><span class="dot m"></span><span class="tt">Pause policy</span><span class="pill">Policy</span></li>
+<li><span class="dot m"></span><span class="tt">App questions: beta date, Text A Human, accent, payment, label capture</span><span class="pill">App</span></li>
+<li><span class="dot m"></span><span class="tt">Choose the app builder</span><span class="pill">Build</span></li>
+<li><span class="dot"></span><span class="tt">Freeze on: overnight submissions held until cleanup</span><span class="pill u">Warning</span></li>
+<li><span class="dot"></span><span class="tt">Check link preview card before sharing smartupkeep.ai</span><span class="pill u">Warning</span></li>
+</ul></details>
 
-/* Mixed Deck: Agent Dashboards (Oct 13 22:58) */
-.strip .k{border-radius:1.25rem;border:1px solid #e5e5e5;padding:6px 12px}@media(min-width:700px){.strip .k{border-radius:999px}}
-.edge div{border-radius:0;background:#fff}
-.btabs{display:none}
-@media(max-width:699px){.btabs{position:fixed;left:0;right:0;bottom:0;z-index:60;display:grid;grid-template-columns:repeat(3,1fr);background:#fff;border-top:1px solid #e5e5e5;padding-bottom:env(safe-area-inset-bottom)}
-.btabs a{min-height:52px;display:flex;align-items:center;justify-content:center;gap:6px;color:var(--lagoon);font:700 .72rem var(--mw-font-body);text-transform:uppercase;letter-spacing:.1em;text-decoration:none}
-body{padding-bottom:64px}}
+<div class="decks" id="decks" aria-label="Unfinished Decks"></div>
 
-/* R63 Unfinished Decks strip */
-.udk{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:0 0 8px}.udk[hidden]{display:none}
-.udk .lbl{font-size:.7rem;margin-right:2px}
-.udk .pill{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 14px;border:1.5px solid var(--lagoon);border-radius:999px;background:#fff;color:#171717;text-decoration:none;font-weight:600;font-size:.88rem}
-.udk .pill small{color:var(--lagoon);font-weight:700}.udk span.pill{border-style:dashed;border-color:#bdbdbd;color:#737373}.udk span.pill small{color:#737373}
-.rpt2 .rh{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline}.rpm{font-size:.72rem;color:#171717}
-
-/* Open Tasks */
-.otk{background:#fff;border:1px solid #e5e5e5;border-radius:.75rem;margin:0 0 10px;padding:4px 0}.otk[hidden]{display:none}
-.otk>.lbl{display:block;padding:6px 14px 2px}
-.otk details{border:0;border-top:1px solid #f0f0f0;border-radius:0;margin:0}.otk details:first-of-type{border-top:0}
-.otk summary{min-height:44px;padding:6px 14px;gap:8px}.otk summary .tt{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600;font-size:.92rem}
-.otk .tg{flex:none;font-size:.66rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;padding:2px 8px;border-radius:999px;border:1px solid var(--saffron);color:#171717;background:#fdf3d8}
-.otk .tg.u{border-color:var(--lagoon);background:#e3f2f3}
-.otk .tb2{padding:0 14px 10px;font-size:.88rem}.otk .tb2 p{margin:0 0 6px;color:#525252}.otk .tb2 ol{margin:0;padding-left:20px}.otk .tb2 li{border:0;padding:2px 0}
-</style></head><body><div class="tb"><a class="apps-home" href="https://webermanapps.github.io/a-o956qercs5ubd57y/"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#C1502E" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Apps Home</a><span class="nm">UpKeep Command Center</span><span class="tu">Updated 1:20 PM</span></div><main>
-<nav class="udk" id="udk" aria-label="Unfinished Decks" hidden></nav>
-<section class="otk" id="otk" aria-label="Open Tasks" hidden></section>
-<a class="open-app mw-hover" href="https://smartupkeep.ai/">Open Smart Upkeep App</a>
-<div class="apps2" aria-label="Apps"><a class="card mw-hover" href="https://webermanapps.github.io/smart-upkeep-review-ujbfu8ni/"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M2 12s4-7 10-7 10 7 10 7-4 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg><span><b>Review Build</b><small>Private review copy, same 8-password gate</small></span></a>
-<a class="card mw-hover" href="https://webermanapps.github.io/smart-upkeep-ideas/"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.8.8 1 1.5 1 2.5h6c0-1 .2-1.7 1-2.5A6 6 0 0 0 12 3z"/></svg><span><b>Smart Upkeep Ideas</b><small>Swipe deck with Submit</small></span></a></div>
-<p class="sub">UpKeep Command Center. Project status, open items and decisions. Updated <span id="u">Oct 14, 2026, 1:20 PM ICT</span>.</p>
-<section class="rpt2" id="report" aria-label="Morning Report"><div class="rh"><span class="lbl">Morning Report · Wed Oct 14</span><span class="rpm">Posted 4:52 AM · due by 5:00 · Evening at 18:00</span></div><ol class="nr"><li>Freeze: holding all overnight submissions and notes until Max's cleanup; no changes from them.</li><li>Link Preview: check the smartupkeep.ai text-message preview card and send Max a picture before he shares the link.</li><li>Legal: follow up on the offer-term stacking review (prepay and referral free months).</li></ol><details class="more"><summary><span>More (3)</span><svg class="chev" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><ol class="nr" start="4" style="counter-reset:n 3"><li>Launch Prep: gate and noindex stay on; unlock events tracked by code only.</li><li>SMART-S: start the US letters of intent (Nov 8) and visa filing (Nov 9).</li><li>Waiting On Max: the 5 decisions below, plus whether the app and Review Build get the team Submit password.</li></ol></details></section>
-<details class="urg dec" id="decisions"><summary><span class="lbl">Decisions Max Owes · 5</span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body" style="padding-top:8px"><ul class="rows"><li><span class="t">Video V.2 approval (V3 is now the official landing video; retire V.2?)</span><span class="d">Video</span></li><li><span class="t">Base lawn prices and bi-weekly lawn decision</span><span class="d">Lawn</span></li><li><span class="t">Pause policy</span><span class="d">Policy</span></li><li><span class="t">Open app questions: beta date, who answers Text A Human, accent color, in-app payment, photo label capture service</span><span class="d">App</span></li><li><span class="t">Choose the app builder</span><span class="d">Build</span></li></ul></div></details>
-<section class="v3 vrow" aria-label="Video V4 (Official)"><h2>Video V4 (Official)</h2><video class="v916" controls playsinline preload="metadata" poster="media/SmartKeep_V4_9x16_poster.jpg?v=v4o"><source src="media/SmartKeep_V4_9x16.mp4?v=v4o" type="video/mp4"></video><video class="v169" controls playsinline preload="metadata" poster="media/SmartKeep_V4_16x9_poster.jpg?v=v4o"><source src="media/SmartKeep_V4_16x9.mp4?v=v4o" type="video/mp4"></video>
-<div class="vm"><p>45s Explainer With $99 / $164 / $312 Prices. Live on smartupkeep.ai (home and /watch/). V4.1 pending Max's approval.</p></div></section>
-
-<div class="strip"><div class="k"><span class="lbl">App</span><b>Live, Gated</b></div><div class="k"><span class="lbl">HTTPS</span><b>Live</b></div><div class="k"><span class="lbl">Video</span><b>V3 Official</b></div><div class="k"><span class="lbl">Next Deadline</span><b>Nov 8</b></div></div>
-<div class="secs">
-<details open><summary><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0E7C86" stroke-width="2"><path d="M9 6h11M9 12h11M9 18h11"/><path d="m3 6 1 1 2-2M3 12l1 1 2-2M3 18l1 1 2-2"/></svg></span><h2>Latest Open Items</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><div class="edge"><div>Label scan plus warranty and recall check before launch</div><div>LLC registered agent</div><div>Stripe setup</div><div>Lawyer</div><div>Trademark</div><div>Legal offer terms (stacking)</div></div></div></details>
-<details open><summary><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0E7C86" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></span><h2>Deadlines</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul class="rows"><li><span class="t">SMART-S: US letters of intent</span><span class="d">Nov 8</span></li><li><span class="t">SMART-S visa filing</span><span class="d">Nov 9</span></li></ul></div></details>
-<details><summary><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0E7C86" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg></span><h2>Current Status</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul class="rows"><li><span class="t">App live at https://smartupkeep.ai/, pre-launch gate (8 passwords), noindex</span><span class="d">Live</span></li><li><span class="t">HTTPS enforced, cert expires Jan 11, 2027</span><span class="d">Live</span></li><li><span class="t">Review Build, same gate, unlisted</span><span class="d">Live</span></li><li><span class="t">smartupkeep.com drop-watch routine running</span><span class="d">Watch</span></li></ul></div></details>
-<details><summary><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0E7C86" stroke-width="2"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg></span><h2>Links</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><div class="links"><a class="card mw-hover" href="https://smartupkeep.ai/watch/"><span><b>Watch Page</b><small>Explainer video</small></span></a><a class="card mw-hover" href="https://smartupkeep.ai/faq/"><span><b>FAQ Page</b><small>Sales FAQ</small></span></a><a class="card mw-hover" href="https://github.com/WebermanApps/smart-upkeep"><span><b>GitHub Repo</b><small>WebermanApps/smart-upkeep</small></span></a></div></div></details>
-<details><summary><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0E7C86" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m10 9 5 3-5 3z"/></svg></span><h2>Videos</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><div class="vids"><div class="vid"><h3>Video V.2<span class="tag">For Review</span></h3>
-<video class="v916" controls playsinline preload="none" poster="media/SmartKeep_V2_9x16_poster.jpg"><source src="media/SmartKeep_V2_9x16_720.mp4" type="video/mp4"></video>
-<video class="v169" controls playsinline preload="none" poster="media/SmartKeep_V2_poster.jpg"><source src="media/SmartKeep_V2_720.mp4" type="video/mp4"></video>
-<p>New Explainer, Awaiting Approval. Oct 13, 2026.</p></div>
-<div class="vid"><h3>Video V.1<span class="tag m">Live</span></h3>
-<video class="v916" controls playsinline preload="none" poster="media/SmartKeep_V1_9x16_poster.jpg"><source src="media/SmartKeep_V1_9x16_720.mp4" type="video/mp4"></video>
-<video class="v169" controls playsinline preload="none" poster="media/SmartKeep_V1_poster.jpg"><source src="media/SmartKeep_V1_720.mp4" type="video/mp4"></video>
-<p>Current Live Explainer. Oct 12, 2026.</p></div></div></div></details>
-<details><summary><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0E7C86" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><h2>Recent Work</h2><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="body"><ul class="rows"><li><span class="t">Dashboard: Agent Dashboards mixed deck picks (pill status chips, phone bottom tabs, lagoon refresh cue)</span><span class="d">Oct 14</span></li><li><span class="t">Dashboard: UpKeep Board Deck picks applied (lagoon lead, open report card, three columns)</span><span class="d">Oct 14</span></li><li><span class="t">Gate: 8th password added as code u8 on smartupkeep.ai and Review Build</span><span class="d">Oct 13</span></li><li><span class="t">Dashboard: layout round 1 (shared top bar, one-line report, stat strip, condensed rows) and apps on top</span><span class="d">Oct 13</span></li><li><span class="t">HTTPS live on smartupkeep.ai</span><span class="d">Oct 13</span></li><li><span class="t">Review Build published with Warm Waitlist Card and Softer Pill Share</span><span class="d">Oct 13</span></li><li><span class="t">V3 (Official) landing intro; tiers renamed Essentials / Plus / Complete</span><span class="d">Oct 13</span></li><li class=more><span class="t">Quote flow redesign: one question per screen</span><span class="d">Oct 13</span></li><li class=more><span class="t">App condensed: short labels, icons, legal text in drop-downs</span><span class="d">Oct 13</span></li><li class=more><span class="t">Deck upkeep-7: lawn Every 2 Weeks and One-Time, Stay Offer on cancel</span><span class="d">Oct 13</span></li><li class=more><span class="t">Reorg: UpKeep is now Head of Smart UpKeep</span><span class="d">Oct 13</span></li><li class=more><span class="t">This command center launched</span><span class="d">Oct 13</span></li></ul><button type="button" class="seeall">See All (10)</button></div></details>
+<div class="grid">
+<div class="col">
+ <section class="card" id="tasks"><h2>Open Tasks</h2><div id="tl"></div></section>
+ <a class="card app" href="https://smartupkeep.ai/"><div class="tx"><b>smartupkeep.ai</b><div class="meta">Live app · gated · HTTPS</div></div><span class="btn">Open App</span></a>
 </div>
-<div class="feed" aria-label="Team Feed"><div class="lbl">Team Feed</div><p>Oct 14 12:47 Max submitted the UpKeep Board Deck (18 of 20 answered); picks applied here.</p><p>Oct 13 23:37 Grok Bot directive: thorough dashboard review, layout round 1 on every dashboard.</p><p>Oct 13 22:20 smartupkeep.ai HTTPS live.</p><a class="seeall" href="https://webermanapps.github.io/a-o956qercs5ubd57y/">More</a></div>
-<div class="bar"><button class="btn mw-hover" id="s"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#171717" stroke-width="2"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v7h14v-7"/></svg><span id="st">Share</span></button></div>
-<footer class="upd">Last updated Oct 14, 2026, 1:20 PM ICT<br><a href="https://maxweberman.com" class="mwf">Built by Max Weberman</a></footer>
-</main><nav class="btabs" aria-label="Tabs"><a href="https://webermanapps.github.io/a-o956qercs5ubd57y/">Apps Home</a><a href="#report">Report</a><a href="#decisions">Decisions</a></nav>
-
-<script src="tasks.js"></script><script>(function(){var t=window.OPEN_TASKS||[],n=document.getElementById('otk');if(!t.length)return;function e(x){return String(x).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
-var h='<span class="lbl">Open Tasks · '+t.length+'</span>';t.forEach(function(x){h+='<details><summary><span class="tt">'+e(x.title)+'</span><span class="tg'+(x.tag=='upkeep'?' u':'')+'">'+(x.tag=='upkeep'?'UpKeep working':'Waiting on Max')+'</span><svg class="chev" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="tb2">'+(x.note?'<p>'+e(x.note)+'</p>':'')+(x.steps&&x.steps.length?'<ol>'+x.steps.map(function(s){return'<li>'+e(s)+'</li>'}).join('')+'</ol>':'')+(x.link?'<p><a href="'+x.link+'">Open</a></p>':'')+'</div></details>'});n.innerHTML=h;n.hidden=false})();</script><script src="decks.js"></script><script>(function(){var d=window.UNFINISHED_DECKS||[],n=document.getElementById('udk');if(!d.length)return;var h='<span class="lbl">Unfinished Decks</span>';d.forEach(function(x){var t=x.name+' <small>'+x.progress+'</small>';h+=x.url?'<a class="pill mw-hover" href="'+x.url+'">'+t+'</a>':'<span class="pill">'+x.name+', <small>'+x.progress+'</small></span>'});n.innerHTML=h;n.hidden=false})();</script><script>
-if(matchMedia('(min-width:1200px)').matches)document.querySelectorAll('.secs details').forEach(d=>d.open=true);
-document.getElementById('s').onclick=async()=>{const url=location.href,text='Smart UpKeep Command Center';
-if(navigator.share){try{await navigator.share({title:text,text,url});return}catch(e){return}}
-if(/iPhone|Android/i.test(navigator.userAgent)){location.href='sms:?&body='+encodeURIComponent(text+' '+url);return}
-try{await navigator.clipboard.writeText(url);document.getElementById('st').textContent='Copied';setTimeout(()=>document.getElementById('st').textContent='Share',1600)}catch(e){}};
-</script><script>document.querySelectorAll('.seeall').forEach(b=>b.onclick=()=>{const u=b.previousElementSibling;u.classList.toggle('all');b.textContent=u.classList.contains('all')?'Show Less':'See All ('+u.children.length+')'});document.querySelectorAll('.rows li').forEach(l=>l.onclick=()=>l.classList.toggle('x'));</script><script src="ptr.js" defer></script></body></html>
+<div class="col">
+ <section class="card"><h2>Funnel</h2><ol class="fun">
+ <li><span class="k">1</span><span class="tx">Marketing<span class="bar"><i></i></span></span></li>
+ <li><span class="k">2</span><span class="tx">Video/Catch<span class="bar"><i></i></span></span></li>
+ <li><span class="k">3</span><span class="tx">Home Page<span class="bar"><i></i></span></span></li>
+ <li><span class="k">4</span><span class="tx">Info Gather<span class="bar"><i></i></span></span></li>
+ <li><span class="k">5</span><span class="tx">Price Offer<span class="bar"><i></i></span></span></li>
+ <li><span class="k">6</span><span class="tx">Make The Sale<span class="bar"><i></i></span></span></li></ol>
+ <div class="meta" style="margin-top:8px">Counts start at launch.</div></section>
+ <section class="card"><h2>Routines</h2>
+ <div class="rg">Reports</div><ul class="rows">
+ <li><span class="dot ok"></span><span class="tt">Morning Report<div class="meta">Daily 4:43 ICT</div></span><span class="pill ok">On</span></li>
+ <li><span class="dot ok"></span><span class="tt">Evening Report<div class="meta">Daily 18:02 ICT</div></span><span class="pill ok">On</span></li></ul>
+ <div class="rg">Daily</div><ul class="rows">
+ <li><span class="dot ok"></span><span class="tt">Watch smartupkeep.com Drop<div class="meta">Daily 9:17 ICT</div></span><span class="pill ok">On</span></li></ul></section>
+</div>
+<div class="col c3">
+ <section class="card rpt" id="report"><h2 id="rt">Morning Report</h2><div class="meta" id="rm"></div>
+ <ol><li>Freeze: overnight submissions held until Max's cleanup.</li><li>Link preview: check the smartupkeep.ai text card, send Max a picture.</li><li>Legal: follow up on offer-term stacking.</li><li>Launch prep: gate and noindex stay on.</li><li>SMART-S: US letters of intent (Nov 8), visa filing (Nov 9).</li></ol></section>
+ <section class="card"><h2>More</h2><div class="car" id="car">
+  <div><video controls playsinline preload="metadata" poster="media/SmartKeep_V4_16x9_poster.jpg?v=v4o"><source src="media/SmartKeep_V4_16x9.mp4?v=v4o" type="video/mp4"></video><div class="meta" style="margin-top:6px">Video V4 · official · live</div></div>
+  <div><ul class="rows"><li><span class="tt">US letters of intent</span><span class="pill m">Nov 8</span></li><li><span class="tt">Visa filing</span><span class="pill m">Nov 9</span></li><li><span class="tt">HTTPS cert</span><span class="pill">Jan 11</span></li></ul></div>
+  <div><ul class="rows"><li><a class="tt" href="https://smartupkeep.ai/watch/">Watch Page</a></li><li><a class="tt" href="https://smartupkeep.ai/faq/">FAQ</a></li><li><a class="tt" href="https://webermanapps.github.io/smart-upkeep-review-ujbfu8ni/">Review Build</a></li><li><a class="tt" href="https://webermanapps.github.io/smart-upkeep-ideas/">Ideas Deck</a></li><li><a class="tt" href="https://webermanapps.github.io/a-o956qercs5ubd57y/">Apps Home</a></li></ul></div>
+ </div><div class="cnav" id="cnav"></div></section>
+</div></div>
+<footer><a href="https://maxweberman.com">Built by Max Weberman</a></footer>
+</div>
+<script src="tasks.js"></script><script src="decks.js"></script>
+<script>
+(function(){
+function e(x){return String(x).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+var C='<svg class="chev" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#6B7378" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>';
+var t=window.OPEN_TASKS||[],h='';
+t.forEach(function(x){var m=x.tag!='upkeep';h+='<details class="tk"><summary><span class="dot'+(m?' m':'')+'"></span><span class="tt">'+e(x.title)+'</span><span class="pill '+(m?'m':'u')+'">'+(m?'Waiting on Max':'UpKeep working')+'</span>'+C+'</summary><div class="tkb">'+(x.note?'<p>'+e(x.note)+'</p>':'')+(x.steps&&x.steps.length?'<ol>'+x.steps.map(function(s){return'<li>'+e(s)+'</li>'}).join('')+'</ol>':'')+(x.link?'<p><a href="'+e(x.link)+'">Open</a></p>':'')+'</div></details>'});
+if(t.length)document.getElementById('tl').innerHTML=h;else document.getElementById('tasks').classList.add('hide');
+var d=window.UNFINISHED_DECKS||[],g='';
+d.forEach(function(x){g+='<div class="card deck"><div class="tx"><b>'+e(x.name)+'</b><div class="meta">'+e(x.progress)+'</div></div>'+(x.url?'<a class="btn" href="'+e(x.url)+'">Open</a>':'<span class="pill">Soon</span>')+'</div>'});
+var D=document.getElementById('decks');if(d.length)D.innerHTML=g;else D.classList.add('hide');
+fetch('report.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(j){
+ var p=new Date(j.posted_at),tf=p.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',timeZone:'Asia/Bangkok'});
+ document.getElementById('rt').textContent=(j.report_type||'Morning')+' Report';
+ document.getElementById('report').setAttribute('aria-label',(j.report_type||'Morning')+' Report');
+ document.getElementById('rm').textContent='Posted '+tf+' ICT'+(j.next?' · '+j.next.report_type+' '+j.next.due_at:'');
+}).catch(function(){});
+var car=document.getElementById('car'),n=document.getElementById('cnav'),k=car.children.length;
+for(var i=0;i<k;i++){(function(i){var b=document.createElement('button');b.setAttribute('aria-label','Slide '+(i+1));b.innerHTML='<i></i>';b.onclick=function(){car.scrollTo({left:car.clientWidth*i,behavior:'smooth'})};n.appendChild(b)})(i)}
+function on(){var a=Math.round(car.scrollLeft/car.clientWidth);[].forEach.call(n.children,function(b,i){b.className=i==a?'on':''})}car.addEventListener('scroll',on);on();
+document.getElementById('share').onclick=function(){var u=location.href;if(navigator.share)navigator.share({title:'UpKeep',url:u}).catch(function(){});else if(navigator.clipboard)navigator.clipboard.writeText(u)};
+})();
+</script><script src="ptr.js" defer></script></body></html>
