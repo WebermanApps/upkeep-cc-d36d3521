@@ -7,7 +7,7 @@
   var y0=null,x0=0,dx=0,d=0,T=70,ind=document.createElement('div');
   ind.setAttribute('aria-hidden','true');
   ind.style.cssText='position:fixed;top:0;left:50%;z-index:99999;width:36px;height:36px;margin-left:-18px;border-radius:50%;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.15);display:flex;align-items:center;justify-content:center;transform:translateY(-48px);transition:none;pointer-events:none';
-  ind.innerHTML='<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg>';
+  ind.innerHTML='<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0E7C86" stroke-width="2" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg>';
   function add(){document.body.appendChild(ind);}
   document.body?add():document.addEventListener('DOMContentLoaded',add);
   function inner(t){for(var e=t;e&&e!==document.body&&e!==html;e=e.parentElement){if(e.scrollTop>0)return true;}return false;}
