@@ -1,5 +1,5 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
-<title>UpKeep</title><link rel="icon" href="data:,">
+<title>UpKeep</title><link rel="icon" href="data:,"><link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/deck-launcher.css?v=1">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@600&family=Hind:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#FDFBF6;--card:#fff;--line:#ECE6DA;--div:#EFEAE0;--ink:#1F2A2E;--mut:#6B7378;--lag:#2F8FA3;--sa:#E3A008;--sad:#B97F00;--ter:#C8664A;--jun:#3E7D55;--sh:0 1px 2px rgba(0,0,0,.04)}
@@ -57,10 +57,17 @@ footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}foot
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 .app.top{margin-top:14px;padding:18px 20px}.app.top b{font:600 22px Khand,sans-serif}.app.top .btn{min-height:48px;padding:0 22px;font-size:16px}
 .vtop{margin-top:12px;padding:10px}.vtop video{max-width:960px;margin:0 auto}.vtop .meta{text-align:center}
+.nd{min-height:44px;padding:0 14px;font-size:14px}@media(max-width:480px){.nd{padding:0 10px;font-size:13px}}
+#deck-launcher.dl-sec{border-color:var(--line);margin:0 0 12px;box-shadow:var(--sh)}
+.dl-sec .dl-btn{background:var(--sa)!important;color:var(--ink)!important}
+.dl-sec .dl-cat[aria-pressed=true]{border-color:var(--sad)!important;background:#FDF3D8!important;box-shadow:inset 0 0 0 1px var(--sad)!important}
+.dl-sec h2{color:var(--sad)}.dl-sec .dl-pill{background:#E3F1F4!important;color:var(--lag)!important}.dl-sec a.dl-urow{color:var(--ink)}
+#decks:has(+ .dl-sec){display:none}
+@media(max-width:899px){.dl-sec .dl-unf{order:-1}}
 </style></head><body><div class="wrap">
 <header><span class="logo"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg></span>
 <div class="t"><h1>UpKeep</h1><div class="meta">Updated <span id="upd">Oct 14, 2:30 PM ICT</span></div></div>
-<button class="ib" id="share" aria-label="Share"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2" stroke-linecap="round"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v7h14v-7"/></svg></button></header>
+<a class="btn nd" href="#deck-launcher">Open a New Deck</a><button class="ib" id="share" aria-label="Share"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2" stroke-linecap="round"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v7h14v-7"/></svg></button></header>
 
 <a class="card app top" href="https://smartupkeep.ai/"><div class="tx"><b>smartupkeep.ai</b><div class="meta">Live app · gated · HTTPS</div></div><span class="btn">Open App</span></a>
 <section class="card vtop" aria-label="Video V4"><video controls playsinline preload="metadata" poster="media/SmartKeep_V4_16x9_poster.jpg?v=v4o"><source src="media/SmartKeep_V4_16x9.mp4?v=v4o" type="video/mp4"></video><div class="meta" style="margin-top:6px">Video V4 · official · live</div></section>
@@ -76,6 +83,7 @@ footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}foot
 </ul></details>
 
 <div class="decks" id="decks" aria-label="Unfinished Decks"></div>
+<div id="deck-launcher" data-launcher="launcher.json"></div>
 
 <div class="grid">
 <div class="col">
@@ -129,4 +137,4 @@ for(var i=0;i<k;i++){(function(i){var b=document.createElement('button');b.setAt
 function on(){var a=Math.round(car.scrollLeft/car.clientWidth);[].forEach.call(n.children,function(b,i){b.className=i==a?'on':''})}car.addEventListener('scroll',on);on();
 document.getElementById('share').onclick=function(){var u=location.href;if(navigator.share)navigator.share({title:'UpKeep',url:u}).catch(function(){});else if(navigator.clipboard)navigator.clipboard.writeText(u)};
 })();
-</script><script src="ptr.js" defer></script></body></html>
+</script><script src="https://webermanapps.github.io/style-swipe/submit.js" defer></script><script src="https://webermanapps.github.io/style-swipe/kit/deck-launcher.js?v=1" defer></script><script src="ptr.js" defer></script></body></html>
