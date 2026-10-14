@@ -1,11 +1,58 @@
-{"agent":"upkeep",
-"categories":[
-{"id":"app-design","label":"App Design Deck","blurb":"Screens, flow and look of smartupkeep.ai"},
-{"id":"funnel","label":"Funnel Deck","blurb":"Marketing, Video/Catch, Home Page, Info Gather, Price Offer, Make The Sale"},
-{"id":"plans-pricing","label":"Plans & Pricing Deck","blurb":"Tiers, prices, offers and terms"},
-{"id":"video","label":"Video Deck","blurb":"Explainer and catch videos"},
-{"id":"dashboard","label":"Dashboard Deck","blurb":"This command center"}],
-"unfinished":[
-{"name":"Info Gather Deck","url":"https://webermanapps.github.io/style-swipe/info-gather-c8smzt/","answered":0,"total":20},
-{"name":"UpKeep Board Deck 2","url":"https://webermanapps.github.io/style-swipe/?date=upkeep-board-2","answered":0,"total":20}],
-"ready":null}
+{
+ "agent": "upkeep",
+ "categories": [
+  {
+   "id": "app-design",
+   "label": "App Design Deck",
+   "blurb": "Screens, flow and look of smartupkeep.ai"
+  },
+  {
+   "id": "funnel",
+   "label": "Funnel Deck",
+   "blurb": "Marketing, Video/Catch, Home Page, Info Gather, Price Offer, Make The Sale"
+  },
+  {
+   "id": "plans-pricing",
+   "label": "Plans & Pricing Deck",
+   "blurb": "Tiers, prices, offers and terms"
+  },
+  {
+   "id": "video",
+   "label": "Video Deck",
+   "blurb": "Explainer and catch videos"
+  },
+  {
+   "id": "dashboard",
+   "label": "Dashboard Deck",
+   "blurb": "This command center"
+  }
+ ],
+ "unfinished": [
+  {
+   "name": "Funnel Deck",
+   "url": "https://webermanapps.github.io/style-swipe/funnel-deck-k7r2qe/",
+   "answered": 0,
+   "total": 20
+  },
+  {
+   "name": "Info Gather Deck",
+   "url": "https://webermanapps.github.io/style-swipe/info-gather-c8smzt/",
+   "answered": 0,
+   "total": 20
+  },
+  {
+   "name": "UpKeep Board Deck 2",
+   "url": "https://webermanapps.github.io/style-swipe/?date=upkeep-board-2",
+   "answered": 0,
+   "total": 20
+  }
+ ],
+ "ready": {
+  "name": "Funnel Deck",
+  "url": "https://webermanapps.github.io/style-swipe/funnel-deck-k7r2qe/",
+  "total": 20,
+  "categories": [
+   "Funnel Deck"
+  ]
+ }
+}
