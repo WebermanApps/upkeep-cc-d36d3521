@@ -1,5 +1,5 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
-<title>UpKeep</title><link rel="icon" href="data:,"><link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/deck-shelf.css?v=1">
+<title>UpKeep</title><link rel="icon" href="data:,"><link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/deck-shelf.css?v=2">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@600&family=Hind:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#FDFBF6;--card:#fff;--line:#ECE6DA;--div:#EFEAE0;--ink:#1F2A2E;--mut:#6B7378;--lag:#2F8FA3;--sa:#E3A008;--sad:#B97F00;--ter:#C8664A;--jun:#3E7D55;--sh:0 1px 2px rgba(0,0,0,.04)}
@@ -62,7 +62,7 @@ footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}foot
 #deck-shelf{margin:0 0 12px}
 </style></head><body><div class="wrap">
 <header><span class="logo"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg></span>
-<div class="t"><h1>UpKeep</h1><div class="meta">Updated <span id="upd">Oct 14, 7:45 PM ICT</span></div></div>
+<div class="t"><h1>UpKeep</h1><div class="meta">Updated <span id="upd">Oct 14, 7:55 PM ICT</span></div></div>
 <button class="ib" id="share" aria-label="Share"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2" stroke-linecap="round"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v7h14v-7"/></svg></button></header>
 
 <a class="card app top" href="https://smartupkeep.ai/"><div class="tx"><b>smartupkeep.ai</b><div class="meta">Live app · gated · HTTPS</div></div><span class="btn">Open App</span></a>
@@ -80,7 +80,6 @@ footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}foot
 
 <!-- R66 Ready Deck Shelf: move this one block to relocate the shelf -->
 <section id="deck-shelf" data-shelf="shelf.json" aria-label="Ready Decks"></section>
-<div class="decks" id="decks" aria-label="Unfinished Decks"></div>
 
 
 <div class="grid">
@@ -123,12 +122,12 @@ footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}foot
  <li>Keep polishing the funnel and app as needed.</li></ol></section>
  <section class="card"><h2>More</h2><div class="car" id="car">
   <div><ul class="rows"><li><span class="tt">US letters of intent</span><span class="pill m">Nov 8</span></li><li><span class="tt">Visa filing</span><span class="pill m">Nov 9</span></li><li><span class="tt">HTTPS cert</span><span class="pill">Jan 11</span></li></ul></div>
-  <div><ul class="rows"><li><a class="tt" href="https://smartupkeep.ai/watch/">Watch Page</a></li><li><a class="tt" href="https://smartupkeep.ai/faq/">FAQ</a></li><li><a class="tt" href="https://webermanapps.github.io/smart-upkeep-review-ujbfu8ni/">Review Build</a></li><li><a class="tt" href="https://webermanapps.github.io/smart-upkeep-ideas/">Ideas Deck</a></li><li><a class="tt" href="https://webermanapps.github.io/a-o956qercs5ubd57y/">Apps Home</a></li></ul></div>
+  <div><ul class="rows"><li><a class="tt" href="https://smartupkeep.ai/watch/">Watch Page</a></li><li><a class="tt" href="https://smartupkeep.ai/faq/">FAQ</a></li><li><a class="tt" href="https://webermanapps.github.io/smart-upkeep-review-ujbfu8ni/">Review Build</a></li><li><a class="tt" href="https://webermanapps.github.io/a-o956qercs5ubd57y/">Apps Home</a></li></ul></div>
  </div><div class="cnav" id="cnav"></div></section>
 </div></div>
 <footer><a href="https://maxweberman.com">Built by Max Weberman</a></footer>
 </div>
-<script src="tasks.js"></script><script src="decks.js"></script>
+<script src="tasks.js"></script>
 <script>
 (function(){
 function e(x){return String(x).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
@@ -136,9 +135,6 @@ var C='<svg class="chev" width="16" height="16" viewBox="0 0 24 24" fill="none" 
 var t=window.OPEN_TASKS||[],h='';
 t.forEach(function(x){var m=x.tag!='upkeep';h+='<details class="tk"><summary><span class="dot'+(m?' m':'')+'"></span><span class="tt">'+e(x.title)+'</span><span class="pill '+(m?'m':'u')+'">'+(m?'Waiting on Max':'UpKeep working')+'</span>'+C+'</summary><div class="tkb">'+(x.note?'<p>'+e(x.note)+'</p>':'')+(x.steps&&x.steps.length?'<ol>'+x.steps.map(function(s){return'<li>'+e(s)+'</li>'}).join('')+'</ol>':'')+(x.link?'<p><a href="'+e(x.link)+'">Open</a></p>':'')+'</div></details>'});
 if(t.length)document.getElementById('tl').innerHTML=h;else document.getElementById('tasks').classList.add('hide');
-var d=window.UNFINISHED_DECKS||[],g='';
-d.forEach(function(x){g+='<div class="card deck"><div class="tx"><b>'+e(x.name)+'</b><div class="meta">'+e(x.progress)+'</div></div>'+(x.url?'<a class="btn" href="'+e(x.url)+'">Open</a>':'<span class="pill">Soon</span>')+'</div>'});
-var D=document.getElementById('decks');if(d.length)D.innerHTML=g;else D.classList.add('hide');
 fetch('report.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(j){
  var p=new Date(j.posted_at),tf=p.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',timeZone:'Asia/Bangkok'});
  var rt=String(j.report_type||'Morning').replace(/ Report$/,'')+' Report';document.getElementById('rt').textContent=rt;
@@ -150,4 +146,4 @@ for(var i=0;i<k;i++){(function(i){var b=document.createElement('button');b.setAt
 function on(){var a=Math.round(car.scrollLeft/car.clientWidth);[].forEach.call(n.children,function(b,i){b.className=i==a?'on':''})}car.addEventListener('scroll',on);on();
 document.getElementById('share').onclick=function(){var u=location.href;if(navigator.share)navigator.share({title:'UpKeep',url:u}).catch(function(){});else if(navigator.clipboard)navigator.clipboard.writeText(u)};
 })();
-</script><script src="https://webermanapps.github.io/style-swipe/submit.js" defer></script><script src="https://webermanapps.github.io/style-swipe/kit/deck-shelf.js?v=1" defer></script><script src="ptr.js" defer></script></body></html>
+</script><script src="https://webermanapps.github.io/style-swipe/submit.js" defer></script><script src="https://webermanapps.github.io/style-swipe/kit/deck-shelf.js?v=2" defer></script><script src="ptr.js" defer></script></body></html>
