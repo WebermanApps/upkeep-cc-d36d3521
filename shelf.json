@@ -1,0 +1,38 @@
+{
+ "agent": "upkeep",
+ "decks": [
+  {
+   "id": "funnel-deck",
+   "name": "Funnel Deck",
+   "url": "https://webermanapps.github.io/style-swipe/funnel-deck-k7r2qe/",
+   "total": 20,
+   "topic": "upkeep-funnel",
+   "blurb": "20 cards, the 6 funnel stages"
+  },
+  {
+   "id": "upkeep-app-design-ready-1",
+   "name": "App Design Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-app-design-ready-1-f3zh7t/",
+   "total": 20,
+   "topic": "upkeep-app-design",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "upkeep-plans-pricing-ready-1",
+   "name": "Plans & Pricing Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-plans-pricing-ready-1-ek1y10/",
+   "total": 20,
+   "topic": "upkeep-plans-pricing",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "upkeep-video-ready-1",
+   "name": "Video Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-ready-1-4cfub3/",
+   "total": 20,
+   "topic": "upkeep-video",
+   "blurb": "20 cards, ready now"
+  }
+ ],
+ "updated": "2026-10-14T19:35:58+07:00"
+}
