@@ -2,6 +2,28 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-member-home-member-home-deck",
+   "name": "Member Home Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-member-home-member-home-deck-4pzwg9/",
+   "total": 20,
+   "topic": "upkeep-member-home",
+   "source": "/workspace/style-swipe/banks/src-upkeep-member-home.json",
+   "added": "2026-10-15T19:37:30+07:00",
+   "tag": "Member App",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "upkeep-member-tools-member-tools-deck",
+   "name": "Member Tools Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-member-tools-member-tools-deck-geffer/",
+   "total": 20,
+   "topic": "upkeep-member-tools",
+   "source": "/workspace/style-swipe/banks/src-upkeep-member-tools.json",
+   "added": "2026-10-15T19:37:31+07:00",
+   "tag": "Member App",
+   "blurb": "20 cards, ready now"
+  },
+  {
    "id": "upkeep-order-form-details-order-form-details-deck",
    "name": "Order Form Details Deck",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-details-order-form-details-deck-9ms1mr/",
@@ -35,7 +57,7 @@
    "blurb": "20 cards, ready now, 2 reworded from last time"
   }
  ],
- "updated": "2026-10-15T19:32:37+07:00",
+ "updated": "2026-10-15T19:37:31+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
