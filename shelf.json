@@ -8,9 +8,42 @@
    "total": 20,
    "topic": "upkeep-app-design",
    "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "upkeep-funnel-funnel-follow-up-deck",
+   "name": "Funnel Follow-Up Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-funnel-funnel-follow-up-deck-e7wdr8/",
+   "total": 20,
+   "topic": "upkeep-funnel",
+   "source": "/workspace/style-swipe/banks/src-upkeep-funnel-followup.json",
+   "added": "2026-10-15T07:36:32+07:00",
+   "tag": "Make The Sale",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "upkeep-plans-pricing-plans-and-pricing-follow-up-deck",
+   "name": "Plans And Pricing Follow-Up Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-plans-pricing-plans-and-pricing-follow-up-deck-0sxvmi/",
+   "total": 20,
+   "topic": "upkeep-plans-pricing",
+   "source": "/workspace/style-swipe/banks/src-upkeep-plans-pricing-followup.json",
+   "added": "2026-10-15T07:36:33+07:00",
+   "tag": "Plan Cards",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "upkeep-video-video-follow-up-deck",
+   "name": "Video Follow-Up Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-follow-up-deck-zy5uqe/",
+   "total": 20,
+   "topic": "upkeep-video",
+   "source": "/workspace/style-swipe/banks/src-upkeep-video-followup.json",
+   "added": "2026-10-15T07:36:33+07:00",
+   "tag": "Series",
+   "blurb": "20 cards, ready now"
   }
  ],
- "updated": "2026-10-15T07:28:00+07:00",
+ "updated": "2026-10-15T07:36:33+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
