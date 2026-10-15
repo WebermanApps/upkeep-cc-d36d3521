@@ -82,5 +82,40 @@
    "id": "upkeep-order-form-order-form-deck",
    "at": "2026-10-15T19:32:28+07:00"
   }
+ ],
+ "queued": [
+  {
+   "id": "upkeep-video-video-hooks-and-captions-deck",
+   "name": "Video Hooks And Captions Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-cq2l2c/",
+   "total": 20,
+   "topic": "upkeep-video",
+   "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
+   "added": "2026-10-15T19:40:13+07:00",
+   "tag": "Video",
+   "blurb": "20 cards, ready now, 5 reworded from last time"
+  },
+  {
+   "id": "upkeep-order-form-sign-up-form-deck",
+   "name": "Sign Up Form Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-sign-up-form-deck-dt8qx8/",
+   "total": 20,
+   "topic": "upkeep-order-form",
+   "source": "/workspace/style-swipe/banks/src-upkeep-order-form-next.json",
+   "added": "2026-10-15T19:40:14+07:00",
+   "tag": "Order Form",
+   "blurb": "20 cards, ready now, 1 reworded from last time"
+  },
+  {
+   "id": "upkeep-clear-picks-clear-picks-deck",
+   "name": "Clear Picks Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-clear-picks-clear-picks-deck-4pzwg9/",
+   "total": 20,
+   "topic": "upkeep-clear-picks",
+   "source": "/workspace/style-swipe/banks/src-upkeep-clear-picks.json",
+   "added": "2026-10-15T19:40:14+07:00",
+   "tag": "Clear Picks",
+   "blurb": "20 cards, ready now"
+  }
  ]
 }
