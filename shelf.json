@@ -2,21 +2,24 @@
  "agent": "upkeep",
  "decks": [
   {
-   "id": "upkeep-app-design-ready-1",
-   "name": "App Design Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-app-design-ready-1-f3zh7t/",
+   "id": "upkeep-order-form-order-form-deck",
+   "name": "Order Form Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-order-form-deck-j0k5es/",
    "total": 20,
-   "topic": "upkeep-app-design",
+   "topic": "upkeep-order-form",
+   "source": "/workspace/style-swipe/banks/src-upkeep-order-form.json",
+   "added": "2026-10-15T19:20:09+07:00",
+   "tag": "Make The Sale",
    "blurb": "20 cards, ready now"
   },
   {
-   "id": "upkeep-funnel-funnel-follow-up-deck",
-   "name": "Funnel Follow-Up Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-funnel-funnel-follow-up-deck-e7wdr8/",
+   "id": "upkeep-order-form-details-order-form-details-deck",
+   "name": "Order Form Details Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-details-order-form-details-deck-9ms1mr/",
    "total": 20,
-   "topic": "upkeep-funnel",
-   "source": "/workspace/style-swipe/banks/src-upkeep-funnel-followup.json",
-   "added": "2026-10-15T07:36:32+07:00",
+   "topic": "upkeep-order-form-details",
+   "source": "/workspace/style-swipe/banks/src-upkeep-order-form-details.json",
+   "added": "2026-10-15T19:20:09+07:00",
    "tag": "Make The Sale",
    "blurb": "20 cards, ready now"
   },
@@ -43,7 +46,7 @@
    "blurb": "20 cards, ready now"
   }
  ],
- "updated": "2026-10-15T07:36:33+07:00",
+ "updated": "2026-10-15T19:20:09+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
