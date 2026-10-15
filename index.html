@@ -1,5 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
 <title>UpKeep</title><link rel="icon" href="data:,"><link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/deck-shelf.css?v=4">
+<link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/dash-theme.css?v=cc6">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@600&family=Hind:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#FDFBF6;--card:#fff;--line:#ECE6DA;--div:#EFEAE0;--ink:#1F2A2E;--mut:#6B7378;--lag:#2F8FA3;--sa:#E3A008;--sad:#B97F00;--ter:#C8664A;--jun:#3E7D55;--sh:0 1px 2px rgba(0,0,0,.04)}
@@ -84,15 +85,29 @@ footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}foot
 .mw-cc-header .mw-cc-title{margin:0;padding:0;font:600 34px/1.05 var(--cc-font-head,'Khand',sans-serif);letter-spacing:.01em;text-transform:none;color:var(--cc-text,#0a0a0a);overflow-wrap:anywhere;border:0}
 .mw-cc-header .mw-cc-desc{margin:4px 0 0;padding:0;font:400 15px/1.4 var(--cc-font-body,'Hind',sans-serif);color:var(--cc-muted,#737373);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:none}
 @media(max-width:600px){.mw-cc-header{gap:12px;padding:12px 0 14px;margin-bottom:20px}.mw-cc-header .mw-cc-logo{flex-basis:56px;width:56px;height:56px}.mw-cc-header .mw-cc-logo svg,.mw-cc-header .mw-cc-logo img,.mw-cc-header .mw-cc-logo>span{width:56px!important;height:56px!important}.mw-cc-header .mw-cc-logo>span svg{width:60%!important;height:60%!important}.mw-cc-header .mw-cc-title{font-size:24px}.mw-cc-header .mw-cc-desc{font-size:14px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}}
+/* R71 section separation (dash-theme cc6), UpKeep brand: saffron main, lagoon accent, cream, light only */
+:root{--mw-divider:#EADFC6;--mw-band:#FBF5E8;--mw-section-gap:32px}
+@media(max-width:600px){:root{--mw-section-gap:24px}}
+html,body{background:var(--bg)!important;color:var(--ink)}
+.card{background-color:var(--card);border-color:var(--line)}
+.mw-sections>.mw-sec-group>*:first-child{margin-top:0}
+.mw-sections>.mw-sec-group>details.urg:last-child{margin-bottom:0}
+.mw-sections>#deck-shelf{margin:0}
+.mw-sections>#routines{margin-top:var(--mw-section-gap);border:1px solid var(--line);border-top:1px solid var(--line);padding:14px 16px}
+.mw-sections>header{padding:0}.mw-sections>header+*{border-top:0;margin-top:0}
 </style>
 </head><body><div class="wrap">
-<header><div class="mw-cc-header" style="flex:1;margin:0;--cc-rule:var(--mw-foreground,#171717);--cc-font-head:var(--mw-font-heading,Khand,sans-serif);--cc-font-body:var(--mw-font-body,Hind,sans-serif);--cc-text:var(--mw-foreground,#0a0a0a);--cc-muted:var(--mw-muted-text,#737373)"><div class="mw-cc-logo" aria-hidden="true"><span class="logo" style="width:48px;height:48px"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg></span></div><div class="mw-cc-text"><h1 class="mw-cc-title">UpKeep Command Center</h1><p class="mw-cc-desc">Runs and reviews the smartupkeep.ai home maintenance app</p><div class="meta">Updated <span id="upd">Oct 15, 11:05 AM ICT</span></div></div></div>
+<main class="mw-sections">
+<header class="mw-section--plain"><div class="mw-cc-header" style="flex:1;margin:0;--cc-rule:var(--mw-foreground,#171717);--cc-font-head:var(--mw-font-heading,Khand,sans-serif);--cc-font-body:var(--mw-font-body,Hind,sans-serif);--cc-text:var(--mw-foreground,#0a0a0a);--cc-muted:var(--mw-muted-text,#737373)"><div class="mw-cc-logo" aria-hidden="true"><span class="logo" style="width:48px;height:48px"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg></span></div><div class="mw-cc-text"><h1 class="mw-cc-title">UpKeep Command Center</h1><p class="mw-cc-desc">Runs and reviews the smartupkeep.ai home maintenance app</p><div class="meta">Updated <span id="upd">Oct 15, 11:05 AM ICT</span></div></div></div>
 <button class="ib" id="share" aria-label="Share"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1F2A2E" stroke-width="2" stroke-linecap="round"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v7h14v-7"/></svg></button></header>
 <!-- R66 Ready Deck Shelf: move this one block to relocate the shelf -->
 <section id="deck-shelf" data-shelf="shelf.json" aria-label="Ready Decks"></section>
 
+<div class="mw-section mw-sec-group">
 <a class="card app top" href="https://smartupkeep.ai/"><div class="tx"><b>smartupkeep.ai</b><div class="meta">Live app · gated · HTTPS</div></div><span class="btn">Open App</span></a>
 <section class="card vtop" aria-label="Video V5"><video controls playsinline preload="metadata" poster="media/SmartKeep_V5_16x9_poster.jpg?v=v5o"><source src="media/SmartKeep_V5_16x9.mp4?v=v5o" type="video/mp4"></video><div class="meta" style="margin-top:6px">Video V5 · official · live (Max OK 13:42 Oct 15)</div></section>
+</div>
+<div class="mw-section mw-sec-group">
 <details class="urg rpt-d" id="report"><summary><span class="dot sf"></span><span class="x" id="rsum">Morning Report · Oct 15 · posted 7:26 (late)</span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7378" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="rb"><ol><li><b>Yesterday:</b> smartupkeep.ai home v2 and Get Started intake (water softener step, Info Gather picks); Video V4 official with tap-to-pause.</li><li><b>Yesterday:</b> dashboard remade: saffron on cream, Open Tasks, deck shelf (max 5), Routines at bottom, Evening Report retired.</li><li><b>Overnight:</b> Funnel (19/20), Plans &amp; Pricing (16/20) and Video (15/20) decks answered; picks applied on smartupkeep.ai at 7:33 AM.</li><li><b>Today:</b> shelf refilled with Funnel, Plans And Pricing and Video follow-up decks (20 cards each).</li><li><b>Waiting on Max:</b> GitHub Pro + Cloudflare, white vs cream; Legal member-data docs in progress.</li></ol></div></details>
 <details class="urg" id="urgent"><summary><span class="dot m"></span><span class="x">Needs Attention · 5 decisions · 1 warning</span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7378" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary>
 <ul class="rows">
@@ -103,11 +118,12 @@ footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}foot
 <li><span class="dot m"></span><span class="tt">Choose the app builder</span><span class="pill">Build</span></li>
 <li><span class="dot"></span><span class="tt">Check link preview card before sharing smartupkeep.ai</span><span class="pill u">Warning</span></li>
 </ul></details>
+</div>
 
 
 
 
-<div class="grid">
+<div class="grid mw-section">
 <div class="col">
  <details class="urg tasks-d" id="tasks"><summary><span class="dot m"></span><span class="x" id="tsum">Open Tasks</span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7378" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg></summary><div class="rb" id="tl"></div></details>
  <section class="card" id="funnel"><h2>Funnel</h2><div class="fz"><button type="button" class="fb" data-f="0" style="--w:100%"><span class="fk">1</span>Marketing</button><button type="button" class="fb" data-f="1" style="--w:91%"><span class="fk">2</span>Video / Catch</button><button type="button" class="fb" data-f="2" style="--w:82%"><span class="fk">3</span>Home Page</button><button type="button" class="fb" data-f="3" style="--w:73%"><span class="fk">4</span>Info Gather</button><button type="button" class="fb" data-f="4" style="--w:64%"><span class="fk">5</span>Price Offer</button><button type="button" class="fb" data-f="5" style="--w:55%"><span class="fk">6</span>Make The Sale</button></div><div class="pop" id="fpop" hidden></div><div class="meta" style="margin-top:8px">Tap a stage. Counts start at launch.</div></section>
@@ -126,6 +142,7 @@ footer{text-align:center;padding:24px 0 8px;font-size:13px;color:var(--mut)}foot
 <li><span class="dot ok"></span><span class="tt">Watch smartupkeep.com Drop<div class="meta">Daily 9:17 ICT · Last run 10/14 9:18</div></span><span class="pill ok">On</span></li></ul>
 <div class="rg">Retired Or Paused</div><ul class="rows">
 <li><span class="dot" style="background:#B8B2A7"></span><span class="tt">Evening Report<div class="meta">Daily 18:02 ICT · Last run 10/14 18:06</div></span><span class="pill">Paused</span></li></ul></section>
+</main>
 <footer><a href="https://maxweberman.com">Built by Max Weberman</a></footer>
 </div>
 <script src="tasks.js"></script>
