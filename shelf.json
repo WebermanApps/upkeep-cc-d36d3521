@@ -2,15 +2,16 @@
  "agent": "upkeep",
  "decks": [
   {
-   "id": "upkeep-member-home-member-home-deck",
-   "name": "Member Home Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-member-home-member-home-deck-4pzwg9/",
+   "id": "upkeep-video-video-hooks-and-captions-deck",
+   "name": "Video Hooks And Captions Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-cq2l2c/",
    "total": 20,
-   "topic": "upkeep-member-home",
-   "source": "/workspace/style-swipe/banks/src-upkeep-member-home.json",
-   "added": "2026-10-15T19:37:30+07:00",
-   "tag": "Member App",
-   "blurb": "20 cards, ready now"
+   "topic": "upkeep-video",
+   "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
+   "added": "2026-10-15T19:49:22+07:00",
+   "tag": "Video",
+   "blurb": "20 cards, ready now, 5 reworded from last time",
+   "refill": true
   },
   {
    "id": "upkeep-member-tools-member-tools-deck",
@@ -58,7 +59,7 @@
    "blurb": "20 cards, ready now, 2 reworded from last time"
   }
  ],
- "updated": "2026-10-15T19:44:12+07:00",
+ "updated": "2026-10-15T19:49:22+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -86,20 +87,13 @@
   {
    "id": "upkeep-order-form-details-order-form-details-deck",
    "at": "2026-10-15T19:41:57+07:00"
+  },
+  {
+   "id": "upkeep-member-home-member-home-deck",
+   "at": "2026-10-15T19:49:22+07:00"
   }
  ],
  "queued": [
-  {
-   "id": "upkeep-video-video-hooks-and-captions-deck",
-   "name": "Video Hooks And Captions Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-cq2l2c/",
-   "total": 20,
-   "topic": "upkeep-video",
-   "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
-   "added": "2026-10-15T19:40:13+07:00",
-   "tag": "Video",
-   "blurb": "20 cards, ready now, 5 reworded from last time"
-  },
   {
    "id": "upkeep-clear-picks-clear-picks-deck",
    "name": "Clear Picks Deck",
