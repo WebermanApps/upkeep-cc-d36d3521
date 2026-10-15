@@ -61,7 +61,7 @@
       "blurb": "20 cards, ready now, 2 reworded from last time"
     }
   ],
-  "updated": "2026-10-16T00:05:00+07:00",
+  "updated": "2026-10-16T03:40:00+07:00",
   "pinned": [
     {
       "name": "UpKeep Board Deck 2",
@@ -101,18 +101,19 @@
     {
       "id": "upkeep-member-profile-member-profile-and-plan-deck",
       "at": "2026-10-15T20:21:34+07:00"
-    }
-  ],
-  "queued": [
+    },
     {
       "id": "upkeep-forecasting-and-projections-deck",
-      "name": "Forecasting And Projections Deck",
-      "url": "https://webermanapps.github.io/style-swipe/upkeep-forecasting-and-projections-4jdasl/",
+      "at": "2026-10-16T03:40:00+07:00",
+      "status": "Results In",
+      "answered": 17,
       "total": 20,
-      "topic": "upkeep-forecasting",
-      "added": "2026-10-16T00:05:00+07:00",
-      "tag": "Forecasting",
-      "blurb": "20 cards, what goes in forecasts and how to see projections"
+      "skipped": [
+        "05",
+        "14",
+        "20"
+      ]
     }
-  ]
+  ],
+  "queued": []
 }
