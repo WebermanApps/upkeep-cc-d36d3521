@@ -1,107 +1,118 @@
 {
- "agent": "upkeep",
- "decks": [
-  {
-   "id": "upkeep-video-video-hooks-and-captions-deck",
-   "name": "Video Hooks And Captions Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-cq2l2c/",
-   "total": 20,
-   "topic": "upkeep-video",
-   "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
-   "added": "2026-10-15T19:49:22+07:00",
-   "tag": "Video",
-   "blurb": "20 cards, ready now, 5 reworded from last time",
-   "refill": true
-  },
-  {
-   "id": "upkeep-clear-picks-clear-picks-deck",
-   "name": "Clear Picks Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-clear-picks-clear-picks-deck-4pzwg9/",
-   "total": 20,
-   "topic": "upkeep-clear-picks",
-   "source": "/workspace/style-swipe/banks/src-upkeep-clear-picks.json",
-   "added": "2026-10-15T20:21:34+07:00",
-   "tag": "Clear Picks",
-   "blurb": "20 cards, ready now",
-   "refill": true
-  },
-  {
-   "id": "upkeep-order-form-sign-up-form-deck",
-   "name": "Sign Up Form Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-sign-up-form-deck-dt8qx8/",
-   "total": 20,
-   "topic": "upkeep-order-form",
-   "source": "/workspace/style-swipe/banks/src-upkeep-order-form-next.json",
-   "added": "2026-10-15T19:41:57+07:00",
-   "tag": "Order Form",
-   "blurb": "20 cards, ready now, 2 reworded from last time",
-   "refill": true
-  },
-  {
-   "id": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck",
-   "name": "Pause Plan And Lawn Add-On Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-xovpn0/",
-   "total": 20,
-   "topic": "upkeep-plans-pricing",
-   "source": "/workspace/style-swipe/banks/upkeep-plans-pricing.json",
-   "added": "2026-10-15T19:32:37+07:00",
-   "tag": "Plans",
-   "blurb": "20 cards, ready now, 4 reworded from last time",
-   "refill": true
-  },
-  {
-   "id": "upkeep-app-design-ready-warranty-and-visit-summary-deck",
-   "name": "Warranty And Visit Summary Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-app-design-ready-warranty-and-visit-summary-deck-ca91z5/",
-   "total": 20,
-   "topic": "upkeep-app-design-ready",
-   "source": "/workspace/style-swipe/banks/upkeep-app-design.json",
-   "added": "2026-10-15T19:32:37+07:00",
-   "tag": "Visits",
-   "blurb": "20 cards, ready now, 2 reworded from last time"
-  }
- ],
- "updated": "2026-10-15T20:21:34+07:00",
- "pinned": [
-  {
-   "name": "UpKeep Board Deck 2",
-   "url": "https://webermanapps.github.io/style-swipe/?date=upkeep-board-2",
-   "total": 20
-  }
- ],
- "done": [
-  {
-   "id": "upkeep-app-design-ready-1",
-   "at": "2026-10-15T19:32:28+07:00"
-  },
-  {
-   "id": "upkeep-plans-pricing-plans-and-pricing-follow-up-deck",
-   "at": "2026-10-15T19:32:28+07:00"
-  },
-  {
-   "id": "upkeep-video-video-follow-up-deck",
-   "at": "2026-10-15T19:32:28+07:00"
-  },
-  {
-   "id": "upkeep-order-form-order-form-deck",
-   "at": "2026-10-15T19:32:28+07:00"
-  },
-  {
-   "id": "upkeep-order-form-details-order-form-details-deck",
-   "at": "2026-10-15T19:41:57+07:00"
-  },
-  {
-   "id": "upkeep-member-home-member-home-deck",
-   "at": "2026-10-15T19:49:22+07:00"
-  },
-  {
-   "id": "upkeep-member-tools-member-tools-deck",
-   "at": "2026-10-15T20:02:42+07:00"
-  },
-  {
-   "id": "upkeep-member-profile-member-profile-and-plan-deck",
-   "at": "2026-10-15T20:21:34+07:00"
-  }
- ],
- "queued": []
+  "agent": "upkeep",
+  "decks": [
+    {
+      "id": "upkeep-video-video-hooks-and-captions-deck",
+      "name": "Video Hooks And Captions Deck",
+      "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-cq2l2c/",
+      "total": 20,
+      "topic": "upkeep-video",
+      "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
+      "added": "2026-10-15T19:49:22+07:00",
+      "tag": "Video",
+      "blurb": "20 cards, ready now, 5 reworded from last time",
+      "refill": true
+    },
+    {
+      "id": "upkeep-clear-picks-clear-picks-deck",
+      "name": "Clear Picks Deck",
+      "url": "https://webermanapps.github.io/style-swipe/upkeep-clear-picks-clear-picks-deck-4pzwg9/",
+      "total": 20,
+      "topic": "upkeep-clear-picks",
+      "source": "/workspace/style-swipe/banks/src-upkeep-clear-picks.json",
+      "added": "2026-10-15T20:21:34+07:00",
+      "tag": "Clear Picks",
+      "blurb": "20 cards, ready now",
+      "refill": true
+    },
+    {
+      "id": "upkeep-order-form-sign-up-form-deck",
+      "name": "Sign Up Form Deck",
+      "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-sign-up-form-deck-dt8qx8/",
+      "total": 20,
+      "topic": "upkeep-order-form",
+      "source": "/workspace/style-swipe/banks/src-upkeep-order-form-next.json",
+      "added": "2026-10-15T19:41:57+07:00",
+      "tag": "Order Form",
+      "blurb": "20 cards, ready now, 2 reworded from last time",
+      "refill": true
+    },
+    {
+      "id": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck",
+      "name": "Pause Plan And Lawn Add-On Deck",
+      "url": "https://webermanapps.github.io/style-swipe/upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-xovpn0/",
+      "total": 20,
+      "topic": "upkeep-plans-pricing",
+      "source": "/workspace/style-swipe/banks/upkeep-plans-pricing.json",
+      "added": "2026-10-15T19:32:37+07:00",
+      "tag": "Plans",
+      "blurb": "20 cards, ready now, 4 reworded from last time",
+      "refill": true
+    },
+    {
+      "id": "upkeep-app-design-ready-warranty-and-visit-summary-deck",
+      "name": "Warranty And Visit Summary Deck",
+      "url": "https://webermanapps.github.io/style-swipe/upkeep-app-design-ready-warranty-and-visit-summary-deck-ca91z5/",
+      "total": 20,
+      "topic": "upkeep-app-design-ready",
+      "source": "/workspace/style-swipe/banks/upkeep-app-design.json",
+      "added": "2026-10-15T19:32:37+07:00",
+      "tag": "Visits",
+      "blurb": "20 cards, ready now, 2 reworded from last time"
+    }
+  ],
+  "updated": "2026-10-16T00:05:00+07:00",
+  "pinned": [
+    {
+      "name": "UpKeep Board Deck 2",
+      "url": "https://webermanapps.github.io/style-swipe/?date=upkeep-board-2",
+      "total": 20
+    }
+  ],
+  "done": [
+    {
+      "id": "upkeep-app-design-ready-1",
+      "at": "2026-10-15T19:32:28+07:00"
+    },
+    {
+      "id": "upkeep-plans-pricing-plans-and-pricing-follow-up-deck",
+      "at": "2026-10-15T19:32:28+07:00"
+    },
+    {
+      "id": "upkeep-video-video-follow-up-deck",
+      "at": "2026-10-15T19:32:28+07:00"
+    },
+    {
+      "id": "upkeep-order-form-order-form-deck",
+      "at": "2026-10-15T19:32:28+07:00"
+    },
+    {
+      "id": "upkeep-order-form-details-order-form-details-deck",
+      "at": "2026-10-15T19:41:57+07:00"
+    },
+    {
+      "id": "upkeep-member-home-member-home-deck",
+      "at": "2026-10-15T19:49:22+07:00"
+    },
+    {
+      "id": "upkeep-member-tools-member-tools-deck",
+      "at": "2026-10-15T20:02:42+07:00"
+    },
+    {
+      "id": "upkeep-member-profile-member-profile-and-plan-deck",
+      "at": "2026-10-15T20:21:34+07:00"
+    }
+  ],
+  "queued": [
+    {
+      "id": "upkeep-forecasting-and-projections-deck",
+      "name": "Forecasting And Projections Deck",
+      "url": "https://webermanapps.github.io/style-swipe/upkeep-forecasting-and-projections-4jdasl/",
+      "total": 20,
+      "topic": "upkeep-forecasting",
+      "added": "2026-10-16T00:05:00+07:00",
+      "tag": "Forecasting",
+      "blurb": "20 cards, what goes in forecasts and how to see projections"
+    }
+  ]
 }
