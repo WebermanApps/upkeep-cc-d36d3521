@@ -24,15 +24,16 @@
    "blurb": "20 cards, ready now"
   },
   {
-   "id": "upkeep-order-form-details-order-form-details-deck",
-   "name": "Order Form Details Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-details-order-form-details-deck-9ms1mr/",
+   "id": "upkeep-order-form-sign-up-form-deck",
+   "name": "Sign Up Form Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-sign-up-form-deck-dt8qx8/",
    "total": 20,
-   "topic": "upkeep-order-form-details",
-   "source": "/workspace/style-swipe/banks/src-upkeep-order-form-details.json",
-   "added": "2026-10-15T19:20:09+07:00",
-   "tag": "Make The Sale",
-   "blurb": "20 cards, ready now"
+   "topic": "upkeep-order-form",
+   "source": "/workspace/style-swipe/banks/src-upkeep-order-form-next.json",
+   "added": "2026-10-15T19:41:57+07:00",
+   "tag": "Order Form",
+   "blurb": "20 cards, ready now, 3 reworded from last time",
+   "refill": true
   },
   {
    "id": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck",
@@ -57,7 +58,7 @@
    "blurb": "20 cards, ready now, 2 reworded from last time"
   }
  ],
- "updated": "2026-10-15T19:37:31+07:00",
+ "updated": "2026-10-15T19:41:57+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -81,6 +82,10 @@
   {
    "id": "upkeep-order-form-order-form-deck",
    "at": "2026-10-15T19:32:28+07:00"
+  },
+  {
+   "id": "upkeep-order-form-details-order-form-details-deck",
+   "at": "2026-10-15T19:41:57+07:00"
   }
  ],
  "queued": [
@@ -94,17 +99,6 @@
    "added": "2026-10-15T19:40:13+07:00",
    "tag": "Video",
    "blurb": "20 cards, ready now, 5 reworded from last time"
-  },
-  {
-   "id": "upkeep-order-form-sign-up-form-deck",
-   "name": "Sign Up Form Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-sign-up-form-deck-dt8qx8/",
-   "total": 20,
-   "topic": "upkeep-order-form",
-   "source": "/workspace/style-swipe/banks/src-upkeep-order-form-next.json",
-   "added": "2026-10-15T19:40:14+07:00",
-   "tag": "Order Form",
-   "blurb": "20 cards, ready now, 1 reworded from last time"
   },
   {
    "id": "upkeep-clear-picks-clear-picks-deck",
