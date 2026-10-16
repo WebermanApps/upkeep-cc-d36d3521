@@ -115,17 +115,5 @@
    ]
   }
  ],
- "queued": [
-  {
-   "id": "upkeep-investor-pitch-deck",
-   "name": "Investor Pitch Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-investor-pitch-wsf8tz/",
-   "total": 20,
-   "answered": 0,
-   "topic": "upkeep-investor-pitch",
-   "added": "2026-10-16T11:45:00+07:00",
-   "tag": "Max Asked",
-   "blurb": "20 cards, shape the investor pitch deck; results go to UpKeep"
-  }
- ]
+ "queued": []
 }
