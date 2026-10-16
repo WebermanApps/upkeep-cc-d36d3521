@@ -61,7 +61,7 @@
    "blurb": "20 cards, ready now, 2 reworded from last time"
   }
  ],
- "updated": "2026-10-16T03:40:00+07:00",
+ "updated": "2026-10-16T21:27:39+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -115,5 +115,26 @@
    ]
   }
  ],
- "queued": []
+ "queued": [
+  {
+   "id": "upkeep-customer-profile-page-deck",
+   "name": "Customer Profile Page Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-customer-profile-page-olrlfi/",
+   "total": 20,
+   "topic": "upkeep-customer-profile-page-deck",
+   "added": "2026-10-16T21:27:39+07:00",
+   "tag": "Max Asked",
+   "blurb": "20 cards, requested by Max"
+  },
+  {
+   "id": "upkeep-technician-page-deck",
+   "name": "Technician Page Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-technician-page-tezhlg/",
+   "total": 20,
+   "topic": "upkeep-technician-page-deck",
+   "added": "2026-10-16T21:27:39+07:00",
+   "tag": "Max Asked",
+   "blurb": "20 cards, requested by Max"
+  }
+ ]
 }
