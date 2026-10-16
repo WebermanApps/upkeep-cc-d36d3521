@@ -1,0 +1,19 @@
+{
+ "updated": "2026-10-16",
+ "routines": [
+  {
+   "name": "UpKeep Morning Run",
+   "group": "Daily",
+   "schedule_plain": "Daily At 4:43 AM ICT",
+   "status": "paused",
+   "last_run": "Paused"
+  },
+  {
+   "name": "smartupkeep.ai Site Watch",
+   "group": "Daily",
+   "schedule_plain": "Daily At 9:24 AM and 5:24 PM ICT",
+   "status": "paused",
+   "last_run": "Paused"
+  }
+ ]
+}
