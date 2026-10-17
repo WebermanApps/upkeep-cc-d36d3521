@@ -18,6 +18,22 @@
    "note": "Replaces the submitted Compact Polish deck (21:32 ICT). A = section with his picks applied; Air & Safety colour re-asked first; card-level more-info ideas (rows stay plain), fresh card face, plan tags, motion. Built by Branding, style-swipe 6c5d95a"
   },
   {
+   "id": "upkeep-operator-dash-section-pages-deck",
+   "name": "Operator Dash: Section Pages And Chief Card",
+   "url": "https://webermanapps.github.io/style-swipe/operator-dash-section-pages-7locu2/",
+   "total": 10,
+   "topic": "operator-dash-section-pages",
+   "added": "2026-10-17T22:09:37+07:00",
+   "tag": "Operator Dash",
+   "blurb": "10 cards, next Operator Dash picks",
+   "requested": true,
+   "requested_at": "2026-10-17T22:09:37+07:00",
+   "answered": 0,
+   "new": true,
+   "replaces": "upkeep-company-dashboard-deck",
+   "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT, 14 of 14). A = live Operator Dash hub (upkeep-owner-xhcdx0 78d1e3d), B = one change: section page layout and order, assigned look, Grok Bot 2 card and page, section tabs, empty-state copy, trend style, order of operations, Document Center. Built by Branding, style-swipe a220af2"
+  },
+  {
    "id": "upkeep-tech-app-day-flow-deck",
    "name": "Tech App Day Flow Deck",
    "url": "https://webermanapps.github.io/style-swipe/tech-app-day-flow-nlkusd/",
@@ -382,7 +398,7 @@
    "bumped_to_queue": "2026-10-17T21:29:30+07:00"
   }
  ],
- "updated": "2026-10-17T21:57:32+07:00",
+ "updated": "2026-10-17T22:09:37+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
