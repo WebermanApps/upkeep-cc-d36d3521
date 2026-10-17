@@ -18,6 +18,22 @@
    "updated": "2026-10-17T21:41:47+07:00"
   },
   {
+   "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
+   "name": "What We Take Care Of: Fresh Look And More Info",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-fresh-look-and-more-info-69rlq0/",
+   "total": 8,
+   "topic": "what-we-take-care-of-fresh-look-and-more-info",
+   "added": "2026-10-17T21:41:58+07:00",
+   "tag": "Home Page",
+   "blurb": "8 cards, requested by Max",
+   "requested": true,
+   "requested_at": "2026-10-17T21:28:00+07:00",
+   "answered": 0,
+   "new": true,
+   "replaces": "upkeep-what-we-take-care-of-compact-polish-deck",
+   "note": "Replaces the submitted Compact Polish deck (21:32 ICT). A = section with his picks applied; Air & Safety colour re-asked first; card-level more-info ideas (rows stay plain), fresh card face, plan tags, motion. Built by Branding, style-swipe 6c5d95a"
+  },
+  {
    "id": "upkeep-tech-app-day-flow-deck",
    "name": "Tech App Day Flow Deck",
    "url": "https://webermanapps.github.io/style-swipe/tech-app-day-flow-nlkusd/",
@@ -30,27 +46,6 @@
    "blurb": "10 cards: tech app layout picks still open",
    "new": true,
    "note": "Branding design input for UpKeep's whole tech app review (tech/?dash=1-3): profile header, day summary, stop list vs carousel, job card density, nav bar, check-in placement, photo capture, end of day, offline, empty day. Settled picks not re-asked. Design input: ops/brand/tech-app-review.md"
-  },
-  {
-   "id": "upkeep-what-we-take-care-of-compact-polish-deck",
-   "name": "What We Take Care Of: Compact Polish",
-   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-compact-polish-5b3m25/",
-   "total": 10,
-   "topic": "what-we-take-care-of-compact-polish",
-   "added": "2026-10-17T21:19:34+07:00",
-   "tag": "Home Page",
-   "blurb": "10 cards, requested by Max",
-   "requested": true,
-   "requested_at": "2026-10-17T21:09:00+07:00",
-   "answered": 9,
-   "new": true,
-   "note": "Small A/B polish of the restored compact What We Take Care Of section (smart-upkeep d49e1d8); A = live, B = one small change. Built by Branding, style-swipe f226d7e",
-   "status": "done",
-   "done_at": "2026-10-17T21:32:33+07:00",
-   "skipped": [
-    "08"
-   ],
-   "results_in": true
   },
   {
    "id": "upkeep-member-profile-header-deck",
@@ -360,7 +355,7 @@
    "bumped_to_queue": "2026-10-17T21:29:30+07:00"
   }
  ],
- "updated": "2026-10-17T21:41:47+07:00",
+ "updated": "2026-10-17T21:41:58+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -685,10 +680,8 @@
   },
   {
    "id": "upkeep-what-we-take-care-of-compact-polish-deck",
-   "at": "2026-10-17T21:32:33+07:00",
-   "name": "What We Take Care Of: Compact Polish",
-   "answered": 9,
-   "total": 10
+   "at": "2026-10-17T21:32:00+07:00",
+   "name": "What We Take Care Of: Compact Polish"
   }
  ],
  "queued": [
