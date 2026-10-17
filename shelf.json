@@ -217,6 +217,22 @@
    ]
   },
   {
+   "id": "upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up",
+   "name": "Video Hooks: Re-Asks & Home Pop-Up",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up-e6h0cr/",
+   "total": 10,
+   "topic": "upkeep-video",
+   "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Video",
+   "answered": 0,
+   "split_from": "upkeep-video-video-hooks-and-captions-deck",
+   "blurb": "10 cards, ready now",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted",
+   "note": "Filled from queued Oct 17 20:30 ICT (R97)."
+  },
+  {
    "id": "upkeep-phone-home-top-section-hero-details-deck",
    "name": "Phone Home Top Section: Hero Details",
    "url": "https://webermanapps.github.io/style-swipe/phone-home-hero-details-eeceky/",
@@ -335,7 +351,7 @@
    "filled_from_queue": "2026-10-17T19:58:48+07:00"
   }
  ],
- "updated": "2026-10-17T20:00:08+07:00",
+ "updated": "2026-10-17T20:15:15+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -678,21 +694,6 @@
     "03",
     "04"
    ]
-  },
-  {
-   "id": "upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up",
-   "name": "Video Hooks: Re-Asks & Home Pop-Up",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up-e6h0cr/",
-   "total": 10,
-   "topic": "upkeep-video",
-   "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Video",
-   "answered": 0,
-   "split_from": "upkeep-video-video-hooks-and-captions-deck",
-   "blurb": "10 cards, ready now",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted"
   },
   {
    "id": "upkeep-video-video-hooks-and-captions-deck-end-cards-captions",
