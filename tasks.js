@@ -1,5 +1,5 @@
 /* Open Tasks: the board's ONE To-Do list (section #tasks-d, data-mw-slot="todo"). Edit this file only; index.html renders it.
-   Order: Needs Attention items first (attn:true), then the rest. tag: "max" = Waiting on Max, "upkeep" = UpKeep working.
+   Order: Urgent items first (attn:true, group label "Urgent"), then the rest. tag: "max" = Waiting on Max, "upkeep" = UpKeep working.
    cat = short label pill. warn:true = a warning, not a decision. Empty list hides the section. (Merged from Needs Attention + Open Tasks, Oct 17 2026.) */
 window.OPEN_TASKS=[
   {title:"Retire Video V.2? (V5 is official)",tag:"max",attn:true,cat:"Video",note:"",steps:[]},
