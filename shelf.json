@@ -2,6 +2,19 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-member-profile-header-deck",
+   "name": "Member Profile Header Deck",
+   "url": "https://webermanapps.github.io/style-swipe/member-profile-header-vkmbrb/",
+   "total": 10,
+   "topic": "member-profile-header",
+   "added": "2026-10-17T19:09:58+07:00",
+   "tag": "Max's Picks",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-17T18:56:00+07:00",
+   "blurb": "10 cards, requested by Max"
+  },
+  {
    "id": "upkeep-employee-attire-work-polo-and-layers-deck",
    "name": "Employee Attire: Work Polo And Layers",
    "url": "https://webermanapps.github.io/style-swipe/employee-attire-work-polo-kbvbgi/",
@@ -82,16 +95,6 @@
    "blurb": "10 cards, follow-on requested by Max"
   },
   {
-   "id": "upkeep-trust-tags-order-and-placement-deck",
-   "name": "Trust Tags: Order And Placement",
-   "url": "https://webermanapps.github.io/style-swipe/trust-tags-order-placement-fwkzzy/",
-   "total": 10,
-   "topic": "upkeep-trust-tags-order-and-placement-deck",
-   "added": "2026-10-17T15:33:27+07:00",
-   "tag": "Home Page",
-   "blurb": "10 cards, follow-on requested by Max"
-  },
-  {
    "id": "upkeep-employee-attire-deck",
    "name": "Employee Attire Deck",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-employee-attire-i41m81/",
@@ -163,7 +166,7 @@
    "follow_on": "upkeep-technician-page-walkthrough-and-check-in-deck"
   }
  ],
- "updated": "2026-10-17T15:44:09+07:00",
+ "updated": "2026-10-17T19:09:58+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -366,6 +369,17 @@
   }
  ],
  "queued": [
+  {
+   "id": "upkeep-trust-tags-order-and-placement-deck",
+   "name": "Trust Tags: Order And Placement",
+   "url": "https://webermanapps.github.io/style-swipe/trust-tags-order-placement-fwkzzy/",
+   "total": 10,
+   "topic": "upkeep-trust-tags-order-and-placement-deck",
+   "added": "2026-10-17T15:33:27+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, follow-on requested by Max",
+   "bumped_to_queue": "2026-10-17T19:09:58+07:00"
+  },
   {
    "id": "upkeep-phone-home-top-section-hero-details-deck",
    "name": "Phone Home Top Section: Hero Details",
