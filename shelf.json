@@ -2,20 +2,20 @@
  "agent": "upkeep",
  "decks": [
   {
-   "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
-   "name": "What We Take Care Of: Fresh Look And More Info",
-   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-fresh-look-and-more-info-69rlq0/",
+   "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
+   "name": "What We Take Care Of: Card Colors And Finish",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
    "total": 8,
-   "topic": "what-we-take-care-of-fresh-look-and-more-info",
-   "added": "2026-10-17T21:41:58+07:00",
+   "topic": "what-we-take-care-of-card-colors-and-finish",
+   "added": "2026-10-17T22:16:27+07:00",
    "tag": "Home Page",
    "blurb": "8 cards, requested by Max",
    "requested": true,
-   "requested_at": "2026-10-17T21:28:00+07:00",
+   "requested_at": "2026-10-17T22:09:00+07:00",
    "answered": 0,
    "new": true,
-   "replaces": "upkeep-what-we-take-care-of-compact-polish-deck",
-   "note": "Replaces the submitted Compact Polish deck (21:32 ICT). A = section with his picks applied; Air & Safety colour re-asked first; card-level more-info ideas (rows stay plain), fresh card face, plan tags, motion. Built by Branding, style-swipe 6c5d95a"
+   "replaces": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
+   "note": "Replaces the submitted Fresh Look And More Info deck (21:58 ICT). A = section with every settled pick applied (tight rows, plain non-tappable rows, plan chips, fade-up and arrow nudge, See All under, flat white). Every card its own colour re-ask, card face, colour strength, icon style, shadow, See All style, header, chip style. Built by Branding, style-swipe 145f45d"
   },
   {
    "id": "upkeep-operator-dash-section-pages-deck",
@@ -46,6 +46,38 @@
    "blurb": "10 cards: tech app layout picks still open",
    "new": true,
    "note": "Branding design input for UpKeep's whole tech app review (tech/?dash=1-3): profile header, day summary, stop list vs carousel, job card density, nav bar, check-in placement, photo capture, end of day, offline, empty day. Settled picks not re-asked. Design input: ops/brand/tech-app-review.md"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
+   "name": "What We Take Care Of: Fresh Look And More Info",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-fresh-look-and-more-info-69rlq0/",
+   "total": 8,
+   "topic": "what-we-take-care-of-fresh-look-and-more-info",
+   "added": "2026-10-17T21:41:58+07:00",
+   "tag": "Home Page",
+   "blurb": "8 cards, requested by Max",
+   "requested": true,
+   "requested_at": "2026-10-17T21:28:00+07:00",
+   "answered": 7,
+   "new": true,
+   "replaces": "upkeep-what-we-take-care-of-compact-polish-deck",
+   "note": "Replaces the submitted Compact Polish deck (21:32 ICT). A = section with his picks applied; Air & Safety colour re-asked first; card-level more-info ideas (rows stay plain), fresh card face, plan tags, motion. Built by Branding, style-swipe 6c5d95a",
+   "status": "done",
+   "done_at": "2026-10-17T21:58:02+07:00",
+   "skipped": [
+    "01"
+   ],
+   "results_in": true,
+   "both": [
+    "06"
+   ],
+   "superseded": [
+    "02",
+    "03",
+    "04",
+    "05"
+   ],
+   "superseded_note": "Max 22:09 ICT correction: no tap-for-more-info, plain rows, tighter spacing, See All under the cards"
   },
   {
    "id": "upkeep-company-dashboard-deck",
@@ -398,7 +430,7 @@
    "bumped_to_queue": "2026-10-17T21:29:30+07:00"
   }
  ],
- "updated": "2026-10-17T22:09:37+07:00",
+ "updated": "2026-10-17T22:16:27+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -734,6 +766,13 @@
    "name": "Company Dashboard Hub Deck",
    "answered": 14,
    "total": 14
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
+   "at": "2026-10-17T21:58:02+07:00",
+   "name": "What We Take Care Of: Fresh Look And More Info",
+   "answered": 7,
+   "total": 8
   }
  ],
  "queued": [
