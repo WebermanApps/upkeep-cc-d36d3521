@@ -5,7 +5,7 @@ window.OPEN_TASKS=[
   {title:"Retire Video V.2? (V5 is official)",tag:"max",attn:true,cat:"Video",note:"",steps:[]},
   {title:"Base lawn prices and bi-weekly lawn",tag:"max",attn:true,cat:"Lawn",note:"",steps:[]},
   {title:"Pause policy",tag:"max",attn:true,cat:"Policy",note:"",steps:[]},
-  {title:"App questions: beta date, Text A Human, accent, payment, label capture",tag:"max",attn:true,cat:"App",note:"",steps:[]},
+  {title:"App questions: Text A Human, accent, payment, label capture",tag:"max",attn:true,cat:"App",note:"",steps:[]},
   {title:"Choose the app builder",tag:"max",attn:true,cat:"Build",note:"",steps:[]},
   {title:"Check link preview card before sharing smartupkeep.ai",tag:"max",attn:true,warn:true,cat:"Warning",note:"",steps:[]},
   {title:"Security: GitHub Pro ($4/mo) + Cloudflare login for smartupkeep.ai",tag:"max",cat:"Security",note:"Waiting on Max: sign in to GitHub (WebermanApps) on the box browser to upgrade, then create a Cloudflare account.",
