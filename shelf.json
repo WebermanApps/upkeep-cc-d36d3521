@@ -2,6 +2,61 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-employee-attire-deck",
+   "name": "Employee Attire Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-employee-attire-i41m81/",
+   "total": 10,
+   "topic": "upkeep-employee-attire-deck",
+   "added": "2026-10-17T11:01:07+07:00",
+   "tag": "Attire",
+   "blurb": "10 cards, requested by Max",
+   "answered": 0
+  },
+  {
+   "id": "upkeep-investor-pitch-slide-looks-deck",
+   "name": "Investor Pitch Deck: Slide Looks",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-investor-pitch-slides-w2lc26/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-slide-looks-deck",
+   "added": "2026-10-17T11:01:08+07:00",
+   "tag": "Investor Pitch",
+   "blurb": "10 cards, requested by Max",
+   "answered": 0
+  },
+  {
+   "id": "upkeep-financial-forecasting-views-deck",
+   "name": "Financial Forecasting Deck: Charts And Scenarios",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-forecast-views-qxwobe/",
+   "total": 10,
+   "topic": "upkeep-financial-forecasting-views-deck",
+   "added": "2026-10-17T11:01:08+07:00",
+   "tag": "Forecast",
+   "blurb": "10 cards, requested by Max",
+   "answered": 0
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-deck",
+   "name": "What We Take Care Of Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-what-we-take-care-of-osowus/",
+   "total": 10,
+   "topic": "upkeep-what-we-take-care-of-deck",
+   "added": "2026-10-17T11:01:09+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, requested by Max",
+   "answered": 0
+  },
+  {
+   "id": "upkeep-operator-console-deck",
+   "name": "UpKeep Operator Console Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-operator-console-icpgrs/",
+   "total": 10,
+   "topic": "upkeep-operator-console-deck",
+   "added": "2026-10-17T11:08:48+07:00",
+   "tag": "Operator Console",
+   "blurb": "10 cards, requested by Max",
+   "answered": 0
+  },
+  {
    "id": "upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up",
    "name": "Video Hooks: Re-Asks & Home Pop-Up",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up-e6h0cr/",
@@ -25,71 +80,6 @@
    "tag": "Video",
    "answered": 0,
    "split_from": "upkeep-video-video-hooks-and-captions-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "upkeep-order-form-sign-up-form-deck-fields-payment",
-   "name": "Sign Up Form: Fields & Payment",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-sign-up-form-deck-fields-payment-ig0gsz/",
-   "total": 10,
-   "topic": "upkeep-order-form",
-   "source": "/workspace/style-swipe/banks/src-upkeep-order-form-next.json",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Order Form",
-   "answered": 0,
-   "split_from": "upkeep-order-form-sign-up-form-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-re-asks-pause-screens",
-   "name": "Pause Plan: Re-Asks & Lawn Add-On",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-re-asks-pause-screens-drsd9x/",
-   "total": 10,
-   "topic": "upkeep-plans-pricing",
-   "source": "/workspace/style-swipe/banks/upkeep-plans-pricing.json",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Plans",
-   "answered": 0,
-   "split_from": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-lawn-add-on-pause-buttons",
-   "name": "Pause Plan Screens",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-lawn-add-on-pause-buttons-jy4d8x/",
-   "total": 10,
-   "topic": "upkeep-plans-pricing",
-   "source": "/workspace/style-swipe/banks/upkeep-plans-pricing.json",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Plans",
-   "answered": 0,
-   "split_from": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "upkeep-app-design-ready-warranty-and-visit-summary-deck-warranty-form-warnings",
-   "name": "Warranty & Form Warnings",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-app-design-ready-warranty-and-visit-summary-deck-warranty-form-warnings-lkjlzz/",
-   "total": 10,
-   "topic": "upkeep-app-design-ready",
-   "source": "/workspace/style-swipe/banks/upkeep-app-design.json",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Visits",
-   "answered": 0,
-   "split_from": "upkeep-app-design-ready-warranty-and-visit-summary-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "upkeep-app-design-ready-warranty-and-visit-summary-deck-visit-summary-screens",
-   "name": "Visit Summary Screens",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-app-design-ready-warranty-and-visit-summary-deck-visit-summary-screens-bi7564/",
-   "total": 10,
-   "topic": "upkeep-app-design-ready",
-   "source": "/workspace/style-swipe/banks/upkeep-app-design.json",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Visits",
-   "answered": 0,
-   "split_from": "upkeep-app-design-ready-warranty-and-visit-summary-deck",
    "blurb": "10 cards, ready now"
   },
   {
@@ -117,7 +107,7 @@
    "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T09:39:20+07:00",
+ "updated": "2026-10-17T11:15:29+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -274,7 +264,83 @@
    "total": 20
   }
  ],
- "queued": [],
+ "queued": [
+  {
+   "id": "upkeep-order-form-sign-up-form-deck-fields-payment",
+   "name": "Sign Up Form: Fields & Payment",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-order-form-sign-up-form-deck-fields-payment-ig0gsz/",
+   "total": 10,
+   "topic": "upkeep-order-form",
+   "source": "/workspace/style-swipe/banks/src-upkeep-order-form-next.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Order Form",
+   "answered": 0,
+   "split_from": "upkeep-order-form-sign-up-form-deck",
+   "blurb": "10 cards, ready now",
+   "queued_at": "2026-10-17T11:15:29+07:00",
+   "queue_note": "Moved off the shelf (cap 10) to make room for 5 new Branding decks requested by Max; oldest unstarted, not deleted"
+  },
+  {
+   "id": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-re-asks-pause-screens",
+   "name": "Pause Plan: Re-Asks & Lawn Add-On",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-re-asks-pause-screens-drsd9x/",
+   "total": 10,
+   "topic": "upkeep-plans-pricing",
+   "source": "/workspace/style-swipe/banks/upkeep-plans-pricing.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Plans",
+   "answered": 0,
+   "split_from": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck",
+   "blurb": "10 cards, ready now",
+   "queued_at": "2026-10-17T11:15:29+07:00",
+   "queue_note": "Moved off the shelf (cap 10) to make room for 5 new Branding decks requested by Max; oldest unstarted, not deleted"
+  },
+  {
+   "id": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-lawn-add-on-pause-buttons",
+   "name": "Pause Plan Screens",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck-lawn-add-on-pause-buttons-jy4d8x/",
+   "total": 10,
+   "topic": "upkeep-plans-pricing",
+   "source": "/workspace/style-swipe/banks/upkeep-plans-pricing.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Plans",
+   "answered": 0,
+   "split_from": "upkeep-plans-pricing-pause-plan-and-lawn-add-on-deck",
+   "blurb": "10 cards, ready now",
+   "queued_at": "2026-10-17T11:15:29+07:00",
+   "queue_note": "Moved off the shelf (cap 10) to make room for 5 new Branding decks requested by Max; oldest unstarted, not deleted"
+  },
+  {
+   "id": "upkeep-app-design-ready-warranty-and-visit-summary-deck-warranty-form-warnings",
+   "name": "Warranty & Form Warnings",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-app-design-ready-warranty-and-visit-summary-deck-warranty-form-warnings-lkjlzz/",
+   "total": 10,
+   "topic": "upkeep-app-design-ready",
+   "source": "/workspace/style-swipe/banks/upkeep-app-design.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Visits",
+   "answered": 0,
+   "split_from": "upkeep-app-design-ready-warranty-and-visit-summary-deck",
+   "blurb": "10 cards, ready now",
+   "queued_at": "2026-10-17T11:15:29+07:00",
+   "queue_note": "Moved off the shelf (cap 10) to make room for 5 new Branding decks requested by Max; oldest unstarted, not deleted"
+  },
+  {
+   "id": "upkeep-app-design-ready-warranty-and-visit-summary-deck-visit-summary-screens",
+   "name": "Visit Summary Screens",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-app-design-ready-warranty-and-visit-summary-deck-visit-summary-screens-bi7564/",
+   "total": 10,
+   "topic": "upkeep-app-design-ready",
+   "source": "/workspace/style-swipe/banks/upkeep-app-design.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Visits",
+   "answered": 0,
+   "split_from": "upkeep-app-design-ready-warranty-and-visit-summary-deck",
+   "blurb": "10 cards, ready now",
+   "queued_at": "2026-10-17T11:15:29+07:00",
+   "queue_note": "Moved off the shelf (cap 10) to make room for 5 new Branding decks requested by Max; oldest unstarted, not deleted"
+  }
+ ],
  "cap": 10,
  "cap_note": "R86 (Max Oct 17 2026 07:50 ICT): every shelf shows up to 10 decks (pinned included), 10 picks per deck; was UpKeep-only R84. In-progress first, done last.",
  "unlisted": [
