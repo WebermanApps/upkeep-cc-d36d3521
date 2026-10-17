@@ -2,6 +2,21 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-company-dashboard-deck",
+   "name": "Company Dashboard Hub Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-company-dashboard-8o7dld/",
+   "total": 10,
+   "topic": "company-dashboard",
+   "added": "2026-10-17T21:22:42+07:00",
+   "tag": "Max's Picks",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-17T21:11:00+07:00",
+   "blurb": "10 cards, requested by Max",
+   "new": true,
+   "note": "Max 21:11 + 21:17 ICT: company dashboard as a hub (like Apps Home) with a section dashboard per future agent"
+  },
+  {
    "id": "upkeep-what-we-take-care-of-compact-polish-deck",
    "name": "What We Take Care Of: Compact Polish",
    "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-compact-polish-5b3m25/",
@@ -232,19 +247,6 @@
    ]
   },
   {
-   "id": "upkeep-phone-home-top-section-hero-details-deck",
-   "name": "Phone Home Top Section: Hero Details",
-   "url": "https://webermanapps.github.io/style-swipe/phone-home-hero-details-eeceky/",
-   "total": 10,
-   "topic": "upkeep-phone-home-top-section-hero-details-deck",
-   "added": "2026-10-17T15:32:13+07:00",
-   "tag": "Home Page",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
-   "filled_from_queue": "2026-10-17T19:58:48+07:00"
-  },
-  {
    "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
    "name": "Clear Picks: Tabs, Headlines And Add-On Step",
    "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
@@ -336,7 +338,7 @@
    "filled_from_queue": "2026-10-17T19:58:48+07:00"
   }
  ],
- "updated": "2026-10-17T21:19:34+07:00",
+ "updated": "2026-10-17T21:22:42+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -661,6 +663,20 @@
   }
  ],
  "queued": [
+  {
+   "id": "upkeep-phone-home-top-section-hero-details-deck",
+   "name": "Phone Home Top Section: Hero Details",
+   "url": "https://webermanapps.github.io/style-swipe/phone-home-hero-details-eeceky/",
+   "total": 10,
+   "topic": "upkeep-phone-home-top-section-hero-details-deck",
+   "added": "2026-10-17T15:32:13+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "Moved to queue for Company Dashboard Hub Deck (cap 10, never deleted)",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00",
+   "bumped_to_queue": "2026-10-17T21:22:42+07:00"
+  },
   {
    "id": "upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up",
    "name": "Video Hooks: Re-Asks & Home Pop-Up",
