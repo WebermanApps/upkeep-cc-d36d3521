@@ -9,10 +9,15 @@
    "topic": "member-profile-header",
    "added": "2026-10-17T19:09:58+07:00",
    "tag": "Max's Picks",
-   "answered": 0,
+   "answered": 9,
    "requested": true,
    "requested_at": "2026-10-17T18:56:00+07:00",
-   "blurb": "10 cards, requested by Max"
+   "blurb": "10 cards, requested by Max",
+   "status": "done",
+   "done_at": "2026-10-17T19:44:49+07:00",
+   "skipped": [
+    "10"
+   ]
   },
   {
    "id": "upkeep-employee-attire-work-polo-and-layers-deck",
@@ -22,7 +27,13 @@
    "topic": "upkeep-employee-attire-work-polo-and-layers-deck",
    "added": "2026-10-17T15:34:07+07:00",
    "tag": "Attire",
-   "blurb": "10 cards, follow-on requested by Max"
+   "blurb": "10 cards, follow-on requested by Max",
+   "status": "done",
+   "answered": 9,
+   "done_at": "2026-10-17T16:53:19+07:00",
+   "skipped": [
+    "06"
+   ]
   },
   {
    "id": "upkeep-investor-pitch-market-and-model-slides-deck",
@@ -32,7 +43,15 @@
    "topic": "upkeep-investor-pitch-market-and-model-slides-deck",
    "added": "2026-10-17T15:34:04+07:00",
    "tag": "Investor Pitch",
-   "blurb": "10 cards, follow-on requested by Max"
+   "blurb": "10 cards, follow-on requested by Max",
+   "status": "done",
+   "answered": 7,
+   "done_at": "2026-10-17T17:00:23+07:00",
+   "skipped": [
+    "01",
+    "03",
+    "10"
+   ]
   },
   {
    "id": "upkeep-financial-forecasting-scenario-and-churn-views-deck",
@@ -42,7 +61,13 @@
    "topic": "upkeep-financial-forecasting-scenario-and-churn-views-deck",
    "added": "2026-10-17T15:34:06+07:00",
    "tag": "Forecast",
-   "blurb": "10 cards, follow-on requested by Max"
+   "blurb": "10 cards, follow-on requested by Max",
+   "status": "done",
+   "answered": 9,
+   "done_at": "2026-10-17T16:56:31+07:00",
+   "skipped": [
+    "04"
+   ]
   },
   {
    "id": "upkeep-what-we-take-care-of-grid-and-home-map-deck",
@@ -52,7 +77,13 @@
    "topic": "upkeep-what-we-take-care-of-grid-and-home-map-deck",
    "added": "2026-10-17T15:33:29+07:00",
    "tag": "Home Page",
-   "blurb": "10 cards, follow-on requested by Max"
+   "blurb": "10 cards, follow-on requested by Max",
+   "status": "done",
+   "answered": 9,
+   "done_at": "2026-10-17T17:03:45+07:00",
+   "skipped": [
+    "07"
+   ]
   },
   {
    "id": "upkeep-technician-page-walkthrough-and-check-in-deck",
@@ -62,7 +93,10 @@
    "topic": "upkeep-technician-page-walkthrough-and-check-in-deck",
    "added": "2026-10-17T15:35:40+07:00",
    "tag": "Technician",
-   "blurb": "10 cards, follow-on requested by Max"
+   "blurb": "10 cards, follow-on requested by Max",
+   "status": "done",
+   "answered": 10,
+   "done_at": "2026-10-17T16:42:01+07:00"
   },
   {
    "id": "upkeep-customer-profile-visits-photos-and-messages-deck",
@@ -72,7 +106,10 @@
    "topic": "upkeep-customer-profile-visits-photos-and-messages-deck",
    "added": "2026-10-17T15:35:39+07:00",
    "tag": "Member App",
-   "blurb": "10 cards, follow-on requested by Max"
+   "blurb": "10 cards, follow-on requested by Max",
+   "status": "done",
+   "answered": 10,
+   "done_at": "2026-10-17T16:50:10+07:00"
   },
   {
    "id": "upkeep-sign-up-form-fields-errors-and-summary-deck",
@@ -82,7 +119,10 @@
    "topic": "upkeep-sign-up-form-fields-errors-and-summary-deck",
    "added": "2026-10-17T15:33:28+07:00",
    "tag": "Order Form",
-   "blurb": "10 cards, follow-on requested by Max"
+   "blurb": "10 cards, follow-on requested by Max",
+   "status": "done",
+   "answered": 10,
+   "done_at": "2026-10-17T17:07:46+07:00"
   },
   {
    "id": "upkeep-clear-picks-header-band-and-report-clip-deck",
@@ -92,7 +132,13 @@
    "topic": "upkeep-clear-picks-header-band-and-report-clip-deck",
    "added": "2026-10-17T15:32:14+07:00",
    "tag": "Member App",
-   "blurb": "10 cards, follow-on requested by Max"
+   "blurb": "10 cards, follow-on requested by Max",
+   "status": "done",
+   "answered": 9,
+   "done_at": "2026-10-17T19:42:24+07:00",
+   "skipped": [
+    "05"
+   ]
   },
   {
    "id": "upkeep-employee-attire-deck",
@@ -163,10 +209,133 @@
    "blurb": "10 cards, ready now",
    "status": "done",
    "done_at": "2026-10-17T10:56:29+07:00",
-   "follow_on": "upkeep-technician-page-walkthrough-and-check-in-deck"
+   "follow_on": "upkeep-technician-page-walkthrough-and-check-in-deck",
+   "skipped": [
+    "02",
+    "03",
+    "06"
+   ]
+  },
+  {
+   "id": "upkeep-phone-home-top-section-hero-details-deck",
+   "name": "Phone Home Top Section: Hero Details",
+   "url": "https://webermanapps.github.io/style-swipe/phone-home-hero-details-eeceky/",
+   "total": 10,
+   "topic": "upkeep-phone-home-top-section-hero-details-deck",
+   "added": "2026-10-17T15:32:13+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
+   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
+   "total": 10,
+   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "added": "2026-10-17T15:32:15+07:00",
+   "tag": "Member App",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-trust-tags-chip-look-and-heading-deck",
+   "name": "Trust Tags: Chip Look And Heading",
+   "url": "https://webermanapps.github.io/style-swipe/trust-tags-chip-look-ndyarq/",
+   "total": 10,
+   "topic": "upkeep-trust-tags-chip-look-and-heading-deck",
+   "added": "2026-10-17T15:33:28+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-investor-pitch-story-flow-and-app-format-deck",
+   "name": "Investor Pitch: Story Flow And App Format",
+   "url": "https://webermanapps.github.io/style-swipe/investor-pitch-story-app-djrrgg/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-story-flow-and-app-format-deck",
+   "added": "2026-10-17T15:34:05+07:00",
+   "tag": "Investor Pitch",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-investor-pitch-ask-demo-and-chart-looks-deck",
+   "name": "Investor Pitch: Ask, Demo And Chart Looks",
+   "url": "https://webermanapps.github.io/style-swipe/investor-pitch-ask-demo-tdmudu/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-ask-demo-and-chart-looks-deck",
+   "added": "2026-10-17T15:34:06+07:00",
+   "tag": "Investor Pitch",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-customer-profile-home-record-and-booking-deck",
+   "name": "Customer Profile: Home Record And Booking",
+   "url": "https://webermanapps.github.io/style-swipe/customer-profile-home-record-cdhppk/",
+   "total": 10,
+   "topic": "upkeep-customer-profile-home-record-and-booking-deck",
+   "added": "2026-10-17T15:35:39+07:00",
+   "tag": "Member App",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-technician-page-today-and-route-deck",
+   "name": "Technician Page: Today And Route",
+   "url": "https://webermanapps.github.io/style-swipe/technician-today-route-xqukzh/",
+   "total": 10,
+   "topic": "upkeep-technician-page-today-and-route-deck",
+   "added": "2026-10-17T15:35:41+07:00",
+   "tag": "Technician",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-technician-page-van-stock-and-job-card-deck",
+   "name": "Technician Page: Van Stock And Job Card",
+   "url": "https://webermanapps.github.io/style-swipe/technician-van-stock-job-card-hqoztj/",
+   "total": 10,
+   "topic": "upkeep-technician-page-van-stock-and-job-card-deck",
+   "added": "2026-10-17T15:35:42+07:00",
+   "tag": "Technician",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-operator-console-deck",
+   "name": "UpKeep Operator Console Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-operator-console-icpgrs/",
+   "total": 10,
+   "topic": "upkeep-operator-console-deck",
+   "added": "2026-10-17T11:08:48+07:00",
+   "tag": "Operator Console",
+   "blurb": "10 cards, requested by Max",
+   "answered": 0,
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
   }
  ],
- "updated": "2026-10-17T19:09:58+07:00",
+ "updated": "2026-10-17T19:58:48+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -366,6 +535,62 @@
    "total": 10,
    "name": "Technician Page: Checklist & Today",
    "note": "R96: submitted, left the shelf; follow-on deck from Branding (style-swipe ce06805)"
+  },
+  "upkeep-member-profile-header-deck",
+  "upkeep-technician-page-walkthrough-and-check-in-deck",
+  "upkeep-employee-attire-work-polo-and-layers-deck",
+  "upkeep-customer-profile-visits-photos-and-messages-deck",
+  "upkeep-financial-forecasting-scenario-and-churn-views-deck",
+  "upkeep-investor-pitch-market-and-model-slides-deck",
+  "upkeep-what-we-take-care-of-grid-and-home-map-deck",
+  "upkeep-sign-up-form-fields-errors-and-summary-deck",
+  "upkeep-trust-tags-order-and-placement-deck",
+  "upkeep-clear-picks-header-band-and-report-clip-deck",
+  "upkeep-customer-profile-page-deck-visit-history-photos",
+  {
+   "id": "upkeep-member-profile-header-deck",
+   "at": "2026-10-17T19:44:49+07:00",
+   "name": "Member Profile Header Deck"
+  },
+  {
+   "id": "upkeep-employee-attire-work-polo-and-layers-deck",
+   "at": "2026-10-17T16:53:19+07:00",
+   "name": "Employee Attire: Work Polo And Layers"
+  },
+  {
+   "id": "upkeep-investor-pitch-market-and-model-slides-deck",
+   "at": "2026-10-17T17:00:23+07:00",
+   "name": "Investor Pitch: Market And Model Slides"
+  },
+  {
+   "id": "upkeep-financial-forecasting-scenario-and-churn-views-deck",
+   "at": "2026-10-17T16:56:31+07:00",
+   "name": "Financial Forecasting: Scenario And Churn Views"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-grid-and-home-map-deck",
+   "at": "2026-10-17T17:03:45+07:00",
+   "name": "What We Take Care Of: Grid And Home Map"
+  },
+  {
+   "id": "upkeep-technician-page-walkthrough-and-check-in-deck",
+   "at": "2026-10-17T16:42:01+07:00",
+   "name": "Technician Page: Walkthrough And Check-In"
+  },
+  {
+   "id": "upkeep-customer-profile-visits-photos-and-messages-deck",
+   "at": "2026-10-17T16:50:10+07:00",
+   "name": "Customer Profile: Visits, Photos And Messages"
+  },
+  {
+   "id": "upkeep-sign-up-form-fields-errors-and-summary-deck",
+   "at": "2026-10-17T17:07:46+07:00",
+   "name": "Sign Up Form: Fields, Errors And Summary"
+  },
+  {
+   "id": "upkeep-clear-picks-header-band-and-report-clip-deck",
+   "at": "2026-10-17T19:42:24+07:00",
+   "name": "Clear Picks: Header Band And Report Clip"
   }
  ],
  "queued": [
@@ -378,116 +603,15 @@
    "added": "2026-10-17T15:33:27+07:00",
    "tag": "Home Page",
    "blurb": "10 cards, follow-on requested by Max",
-   "bumped_to_queue": "2026-10-17T19:09:58+07:00"
-  },
-  {
-   "id": "upkeep-phone-home-top-section-hero-details-deck",
-   "name": "Phone Home Top Section: Hero Details",
-   "url": "https://webermanapps.github.io/style-swipe/phone-home-hero-details-eeceky/",
-   "total": 10,
-   "topic": "upkeep-phone-home-top-section-hero-details-deck",
-   "added": "2026-10-17T15:32:13+07:00",
-   "tag": "Home Page",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805"
-  },
-  {
-   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
-   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
-   "total": 10,
-   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "added": "2026-10-17T15:32:15+07:00",
-   "tag": "Member App",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805"
-  },
-  {
-   "id": "upkeep-trust-tags-chip-look-and-heading-deck",
-   "name": "Trust Tags: Chip Look And Heading",
-   "url": "https://webermanapps.github.io/style-swipe/trust-tags-chip-look-ndyarq/",
-   "total": 10,
-   "topic": "upkeep-trust-tags-chip-look-and-heading-deck",
-   "added": "2026-10-17T15:33:28+07:00",
-   "tag": "Home Page",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805"
-  },
-  {
-   "id": "upkeep-investor-pitch-story-flow-and-app-format-deck",
-   "name": "Investor Pitch: Story Flow And App Format",
-   "url": "https://webermanapps.github.io/style-swipe/investor-pitch-story-app-djrrgg/",
-   "total": 10,
-   "topic": "upkeep-investor-pitch-story-flow-and-app-format-deck",
-   "added": "2026-10-17T15:34:05+07:00",
-   "tag": "Investor Pitch",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805"
-  },
-  {
-   "id": "upkeep-investor-pitch-ask-demo-and-chart-looks-deck",
-   "name": "Investor Pitch: Ask, Demo And Chart Looks",
-   "url": "https://webermanapps.github.io/style-swipe/investor-pitch-ask-demo-tdmudu/",
-   "total": 10,
-   "topic": "upkeep-investor-pitch-ask-demo-and-chart-looks-deck",
-   "added": "2026-10-17T15:34:06+07:00",
-   "tag": "Investor Pitch",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805"
-  },
-  {
-   "id": "upkeep-customer-profile-home-record-and-booking-deck",
-   "name": "Customer Profile: Home Record And Booking",
-   "url": "https://webermanapps.github.io/style-swipe/customer-profile-home-record-cdhppk/",
-   "total": 10,
-   "topic": "upkeep-customer-profile-home-record-and-booking-deck",
-   "added": "2026-10-17T15:35:39+07:00",
-   "tag": "Member App",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805"
-  },
-  {
-   "id": "upkeep-technician-page-today-and-route-deck",
-   "name": "Technician Page: Today And Route",
-   "url": "https://webermanapps.github.io/style-swipe/technician-today-route-xqukzh/",
-   "total": 10,
-   "topic": "upkeep-technician-page-today-and-route-deck",
-   "added": "2026-10-17T15:35:41+07:00",
-   "tag": "Technician",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805"
-  },
-  {
-   "id": "upkeep-technician-page-van-stock-and-job-card-deck",
-   "name": "Technician Page: Van Stock And Job Card",
-   "url": "https://webermanapps.github.io/style-swipe/technician-van-stock-job-card-hqoztj/",
-   "total": 10,
-   "topic": "upkeep-technician-page-van-stock-and-job-card-deck",
-   "added": "2026-10-17T15:35:42+07:00",
-   "tag": "Technician",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805"
-  },
-  {
-   "id": "upkeep-operator-console-deck",
-   "name": "UpKeep Operator Console Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-operator-console-icpgrs/",
-   "total": 10,
-   "topic": "upkeep-operator-console-deck",
-   "added": "2026-10-17T11:08:48+07:00",
-   "tag": "Operator Console",
-   "blurb": "10 cards, requested by Max",
-   "answered": 0,
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted"
+   "bumped_to_queue": "2026-10-17T19:09:58+07:00",
+   "status": "done",
+   "answered": 7,
+   "done_at": "2026-10-17T17:10:44+07:00",
+   "skipped": [
+    "02",
+    "03",
+    "04"
+   ]
   },
   {
    "id": "upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up",
@@ -527,11 +651,17 @@
    "topic": "upkeep-customer-profile-page-deck",
    "added": "2026-10-17T08:05:35+07:00",
    "tag": "Max's Picks",
-   "answered": 0,
+   "answered": 8,
    "split_from": "upkeep-customer-profile-page-deck",
    "blurb": "10 cards, ready now",
    "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted"
+   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted",
+   "status": "done",
+   "done_at": "2026-10-17T19:48:47+07:00",
+   "skipped": [
+    "05",
+    "09"
+   ]
   },
   {
    "id": "upkeep-order-form-sign-up-form-deck-fields-payment",
