@@ -41,9 +41,15 @@
    "blurb": "10 cards, requested by Max",
    "requested": true,
    "requested_at": "2026-10-17T21:09:00+07:00",
-   "answered": 0,
+   "answered": 9,
    "new": true,
-   "note": "Small A/B polish of the restored compact What We Take Care Of section (smart-upkeep d49e1d8); A = live, B = one small change. Built by Branding, style-swipe f226d7e"
+   "note": "Small A/B polish of the restored compact What We Take Care Of section (smart-upkeep d49e1d8); A = live, B = one small change. Built by Branding, style-swipe f226d7e",
+   "status": "done",
+   "done_at": "2026-10-17T21:32:33+07:00",
+   "skipped": [
+    "08"
+   ],
+   "results_in": true
   },
   {
    "id": "upkeep-member-profile-header-deck",
@@ -337,9 +343,23 @@
    "queued_at": "2026-10-17T15:44:09+07:00",
    "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
    "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
+   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
+   "total": 10,
+   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "added": "2026-10-17T15:32:15+07:00",
+   "tag": "Member App",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "Moved to queue for Tech App Day Flow Deck (cap 10, never deleted)",
+   "filled_from_queue": "2026-10-17T21:40:37+07:00",
+   "bumped_to_queue": "2026-10-17T21:29:30+07:00"
   }
  ],
- "updated": "2026-10-17T21:29:30+07:00",
+ "updated": "2026-10-17T21:40:37+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -661,23 +681,16 @@
    "id": "upkeep-clear-picks-header-band-and-report-clip-deck",
    "at": "2026-10-17T19:42:24+07:00",
    "name": "Clear Picks: Header Band And Report Clip"
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-compact-polish-deck",
+   "at": "2026-10-17T21:32:33+07:00",
+   "name": "What We Take Care Of: Compact Polish",
+   "answered": 9,
+   "total": 10
   }
  ],
  "queued": [
-  {
-   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
-   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
-   "total": 10,
-   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "added": "2026-10-17T15:32:15+07:00",
-   "tag": "Member App",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "Moved to queue for Tech App Day Flow Deck (cap 10, never deleted)",
-   "filled_from_queue": "2026-10-17T19:58:48+07:00",
-   "bumped_to_queue": "2026-10-17T21:29:30+07:00"
-  },
   {
    "id": "upkeep-phone-home-top-section-hero-details-deck",
    "name": "Phone Home Top Section: Hero Details",
