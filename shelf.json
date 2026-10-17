@@ -2,6 +2,22 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-company-dashboard-deck",
+   "name": "Company Dashboard Hub Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-company-dashboard-8o7dld/",
+   "total": 14,
+   "topic": "company-dashboard",
+   "added": "2026-10-17T21:22:42+07:00",
+   "tag": "Max's Picks",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-17T21:11:00+07:00",
+   "blurb": "14 cards, requested by Max",
+   "new": true,
+   "note": "Max 21:11 + 21:17 ICT: company dashboard as a hub (like Apps Home) with a section dashboard per future agent; 21:23-21:24 ICT: owner dashboard org chart (Grok Bot 2 as UpKeep Chief, 10 sections, placeholders, shared Security/Branding/Legal)",
+   "updated": "2026-10-17T21:41:47+07:00"
+  },
+  {
    "id": "upkeep-tech-app-day-flow-deck",
    "name": "Tech App Day Flow Deck",
    "url": "https://webermanapps.github.io/style-swipe/tech-app-day-flow-nlkusd/",
@@ -14,21 +30,6 @@
    "blurb": "10 cards: tech app layout picks still open",
    "new": true,
    "note": "Branding design input for UpKeep's whole tech app review (tech/?dash=1-3): profile header, day summary, stop list vs carousel, job card density, nav bar, check-in placement, photo capture, end of day, offline, empty day. Settled picks not re-asked. Design input: ops/brand/tech-app-review.md"
-  },
-  {
-   "id": "upkeep-company-dashboard-deck",
-   "name": "Company Dashboard Hub Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-company-dashboard-8o7dld/",
-   "total": 10,
-   "topic": "company-dashboard",
-   "added": "2026-10-17T21:22:42+07:00",
-   "tag": "Max's Picks",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-17T21:11:00+07:00",
-   "blurb": "10 cards, requested by Max",
-   "new": true,
-   "note": "Max 21:11 + 21:17 ICT: company dashboard as a hub (like Apps Home) with a section dashboard per future agent"
   },
   {
    "id": "upkeep-what-we-take-care-of-compact-polish-deck",
@@ -359,7 +360,7 @@
    "bumped_to_queue": "2026-10-17T21:29:30+07:00"
   }
  ],
- "updated": "2026-10-17T21:40:37+07:00",
+ "updated": "2026-10-17T21:41:47+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
