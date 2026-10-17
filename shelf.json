@@ -2,6 +2,21 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-what-we-take-care-of-compact-polish-deck",
+   "name": "What We Take Care Of: Compact Polish",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-compact-polish-5b3m25/",
+   "total": 10,
+   "topic": "what-we-take-care-of-compact-polish",
+   "added": "2026-10-17T21:19:34+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, requested by Max",
+   "requested": true,
+   "requested_at": "2026-10-17T21:09:00+07:00",
+   "answered": 0,
+   "new": true,
+   "note": "Small A/B polish of the restored compact What We Take Care Of section (smart-upkeep d49e1d8); A = live, B = one small change. Built by Branding, style-swipe f226d7e"
+  },
+  {
    "id": "upkeep-member-profile-header-deck",
    "name": "Member Profile Header Deck",
    "url": "https://webermanapps.github.io/style-swipe/member-profile-header-vkmbrb/",
@@ -217,22 +232,6 @@
    ]
   },
   {
-   "id": "upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up",
-   "name": "Video Hooks: Re-Asks & Home Pop-Up",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up-e6h0cr/",
-   "total": 10,
-   "topic": "upkeep-video",
-   "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Video",
-   "answered": 0,
-   "split_from": "upkeep-video-video-hooks-and-captions-deck",
-   "blurb": "10 cards, ready now",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted",
-   "note": "Filled from queued Oct 17 20:30 ICT (R97)."
-  },
-  {
    "id": "upkeep-phone-home-top-section-hero-details-deck",
    "name": "Phone Home Top Section: Hero Details",
    "url": "https://webermanapps.github.io/style-swipe/phone-home-hero-details-eeceky/",
@@ -335,23 +334,9 @@
    "queued_at": "2026-10-17T15:44:09+07:00",
    "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
    "filled_from_queue": "2026-10-17T19:58:48+07:00"
-  },
-  {
-   "id": "upkeep-operator-console-deck",
-   "name": "UpKeep Operator Console Deck",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-operator-console-icpgrs/",
-   "total": 10,
-   "topic": "upkeep-operator-console-deck",
-   "added": "2026-10-17T11:08:48+07:00",
-   "tag": "Operator Console",
-   "blurb": "10 cards, requested by Max",
-   "answered": 0,
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted",
-   "filled_from_queue": "2026-10-17T19:58:48+07:00"
   }
  ],
- "updated": "2026-10-17T20:15:15+07:00",
+ "updated": "2026-10-17T21:19:34+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -676,6 +661,36 @@
   }
  ],
  "queued": [
+  {
+   "id": "upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up",
+   "name": "Video Hooks: Re-Asks & Home Pop-Up",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-re-asks-home-pop-up-e6h0cr/",
+   "total": 10,
+   "topic": "upkeep-video",
+   "source": "/workspace/style-swipe/banks/src-upkeep-video-next.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Video",
+   "answered": 0,
+   "split_from": "upkeep-video-video-hooks-and-captions-deck",
+   "blurb": "10 cards, ready now",
+   "queued_at": "2026-10-17T21:19:34+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for What We Take Care Of: Compact Polish; oldest unfinished, unstarted, not deleted",
+   "note": "Filled from queued Oct 17 20:30 ICT (R97)."
+  },
+  {
+   "id": "upkeep-operator-console-deck",
+   "name": "UpKeep Operator Console Deck",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-operator-console-icpgrs/",
+   "total": 10,
+   "topic": "upkeep-operator-console-deck",
+   "added": "2026-10-17T11:08:48+07:00",
+   "tag": "Operator Console",
+   "blurb": "10 cards, requested by Max",
+   "answered": 0,
+   "queued_at": "2026-10-17T21:19:34+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for What We Take Care Of: Compact Polish; oldest unfinished, unstarted, not deleted",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
   {
    "id": "upkeep-trust-tags-order-and-placement-deck",
    "name": "Trust Tags: Order And Placement",
