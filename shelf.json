@@ -48,6 +48,27 @@
    "note": "Branding design input for UpKeep's whole tech app review (tech/?dash=1-3): profile header, day summary, stop list vs carousel, job card density, nav bar, check-in placement, photo capture, end of day, offline, empty day. Settled picks not re-asked. Design input: ops/brand/tech-app-review.md"
   },
   {
+   "id": "upkeep-what-we-take-care-of-compact-polish-deck",
+   "name": "What We Take Care Of: Compact Polish",
+   "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-compact-polish-5b3m25/",
+   "total": 10,
+   "topic": "what-we-take-care-of-compact-polish",
+   "added": "2026-10-17T21:19:34+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, requested by Max",
+   "requested": true,
+   "requested_at": "2026-10-17T21:09:00+07:00",
+   "answered": 9,
+   "new": true,
+   "note": "Small A/B polish of the restored compact What We Take Care Of section (smart-upkeep d49e1d8); A = live, B = one small change. Built by Branding, style-swipe f226d7e",
+   "status": "done",
+   "done_at": "2026-10-17T21:32:33+07:00",
+   "skipped": [
+    "08"
+   ],
+   "results_in": true
+  },
+  {
    "id": "upkeep-member-profile-header-deck",
    "name": "Member Profile Header Deck",
    "url": "https://webermanapps.github.io/style-swipe/member-profile-header-vkmbrb/",
@@ -680,8 +701,10 @@
   },
   {
    "id": "upkeep-what-we-take-care-of-compact-polish-deck",
-   "at": "2026-10-17T21:32:00+07:00",
-   "name": "What We Take Care Of: Compact Polish"
+   "at": "2026-10-17T21:32:33+07:00",
+   "name": "What We Take Care Of: Compact Polish",
+   "answered": 9,
+   "total": 10
   }
  ],
  "queued": [
