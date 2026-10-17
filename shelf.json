@@ -335,7 +335,7 @@
    "filled_from_queue": "2026-10-17T19:58:48+07:00"
   }
  ],
- "updated": "2026-10-17T19:58:48+07:00",
+ "updated": "2026-10-17T20:00:08+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -536,17 +536,83 @@
    "name": "Technician Page: Checklist & Today",
    "note": "R96: submitted, left the shelf; follow-on deck from Branding (style-swipe ce06805)"
   },
-  "upkeep-member-profile-header-deck",
-  "upkeep-technician-page-walkthrough-and-check-in-deck",
-  "upkeep-employee-attire-work-polo-and-layers-deck",
-  "upkeep-customer-profile-visits-photos-and-messages-deck",
-  "upkeep-financial-forecasting-scenario-and-churn-views-deck",
-  "upkeep-investor-pitch-market-and-model-slides-deck",
-  "upkeep-what-we-take-care-of-grid-and-home-map-deck",
-  "upkeep-sign-up-form-fields-errors-and-summary-deck",
-  "upkeep-trust-tags-order-and-placement-deck",
-  "upkeep-clear-picks-header-band-and-report-clip-deck",
-  "upkeep-customer-profile-page-deck-visit-history-photos",
+  {
+   "id": "upkeep-member-profile-header-deck",
+   "at": "2026-10-17T19:44:49+07:00",
+   "name": "Member Profile Header Deck",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-technician-page-walkthrough-and-check-in-deck",
+   "at": "2026-10-17T16:42:01+07:00",
+   "name": "Technician Page: Walkthrough And Check-In",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-employee-attire-work-polo-and-layers-deck",
+   "at": "2026-10-17T16:53:19+07:00",
+   "name": "Employee Attire: Work Polo And Layers",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-customer-profile-visits-photos-and-messages-deck",
+   "at": "2026-10-17T16:50:10+07:00",
+   "name": "Customer Profile: Visits, Photos And Messages",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-financial-forecasting-scenario-and-churn-views-deck",
+   "at": "2026-10-17T16:56:31+07:00",
+   "name": "Financial Forecasting: Scenario And Churn Views",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-market-and-model-slides-deck",
+   "at": "2026-10-17T17:00:23+07:00",
+   "name": "Investor Pitch: Market And Model Slides",
+   "answered": 7,
+   "total": 10
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-grid-and-home-map-deck",
+   "at": "2026-10-17T17:03:45+07:00",
+   "name": "What We Take Care Of: Grid And Home Map",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-sign-up-form-fields-errors-and-summary-deck",
+   "at": "2026-10-17T17:07:46+07:00",
+   "name": "Sign Up Form: Fields, Errors And Summary",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-trust-tags-order-and-placement-deck",
+   "at": "2026-10-17T17:10:44+07:00",
+   "name": "Trust Tags: Order And Placement",
+   "answered": 7,
+   "total": 10
+  },
+  {
+   "id": "upkeep-clear-picks-header-band-and-report-clip-deck",
+   "at": "2026-10-17T19:42:24+07:00",
+   "name": "Clear Picks: Header Band And Report Clip",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-customer-profile-page-deck-visit-history-photos",
+   "at": "2026-10-17T19:48:47+07:00",
+   "name": "Customer Profile: Visits, Photos & Tips",
+   "answered": 8,
+   "total": 10
+  },
   {
    "id": "upkeep-member-profile-header-deck",
    "at": "2026-10-17T19:44:49+07:00",
