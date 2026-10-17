@@ -2,6 +2,20 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-tech-app-day-flow-deck",
+   "name": "Tech App Day Flow Deck",
+   "url": "https://webermanapps.github.io/style-swipe/tech-app-day-flow-nlkusd/",
+   "total": 10,
+   "topic": "tech-app-day-flow",
+   "added": "2026-10-17T21:29:30+07:00",
+   "tag": "Technician",
+   "answered": 0,
+   "requested": true,
+   "blurb": "10 cards: tech app layout picks still open",
+   "new": true,
+   "note": "Branding design input for UpKeep's whole tech app review (tech/?dash=1-3): profile header, day summary, stop list vs carousel, job card density, nav bar, check-in placement, photo capture, end of day, offline, empty day. Settled picks not re-asked. Design input: ops/brand/tech-app-review.md"
+  },
+  {
    "id": "upkeep-company-dashboard-deck",
    "name": "Company Dashboard Hub Deck",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-company-dashboard-8o7dld/",
@@ -247,19 +261,6 @@
    ]
   },
   {
-   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
-   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
-   "total": 10,
-   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "added": "2026-10-17T15:32:15+07:00",
-   "tag": "Member App",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
-   "filled_from_queue": "2026-10-17T19:58:48+07:00"
-  },
-  {
    "id": "upkeep-trust-tags-chip-look-and-heading-deck",
    "name": "Trust Tags: Chip Look And Heading",
    "url": "https://webermanapps.github.io/style-swipe/trust-tags-chip-look-ndyarq/",
@@ -338,7 +339,7 @@
    "filled_from_queue": "2026-10-17T19:58:48+07:00"
   }
  ],
- "updated": "2026-10-17T21:22:42+07:00",
+ "updated": "2026-10-17T21:29:30+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -663,6 +664,20 @@
   }
  ],
  "queued": [
+  {
+   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
+   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
+   "total": 10,
+   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "added": "2026-10-17T15:32:15+07:00",
+   "tag": "Member App",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "Moved to queue for Tech App Day Flow Deck (cap 10, never deleted)",
+   "filled_from_queue": "2026-10-17T19:58:48+07:00",
+   "bumped_to_queue": "2026-10-17T21:29:30+07:00"
+  },
   {
    "id": "upkeep-phone-home-top-section-hero-details-deck",
    "name": "Phone Home Top Section: Hero Details",
