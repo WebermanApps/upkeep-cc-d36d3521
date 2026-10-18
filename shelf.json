@@ -726,7 +726,7 @@
    "done_at": "2026-10-18T16:13:34+07:00"
   }
  ],
- "updated": "2026-10-18T20:20:07+07:00",
+ "updated": "2026-10-18T20:50:00+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1248,6 +1248,20 @@
    "name": "Investor Pitch: Story Flow And App Format",
    "answered": 8,
    "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-founder-hype-and-layout-deck",
+   "at": "2026-10-18T20:29:00+07:00",
+   "name": "Investor Pitch: Founder Hype And Layout",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-timeline-refresh-deck",
+   "at": "2026-10-18T20:33:00+07:00",
+   "name": "Investor Pitch: Timeline Refresh",
+   "answered": 8,
+   "total": 10
   }
  ],
  "queued": [
@@ -1269,6 +1283,40 @@
    "queue_note": "All 10 slots full (no unfinished deck bumped); fills the next open slot"
   },
   {
+   "id": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
+   "name": "Investor Pitch: Founder Timeline And Tiles",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-founder-timeline-tiles-ylkt3m/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
+   "added": "2026-10-18T20:50:00+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:34:00+07:00",
+   "blurb": "10 cards: timeline plus tiles, builder headline, platform first, quiet look; re-asks carousel",
+   "new": true,
+   "note": "Follow-up to the finished pitch v3 deck (requested Oct 18 20:34 ICT); style-swipe fa6cd68",
+   "queued_at": "2026-10-18T20:50:00+07:00",
+   "queue_note": "Finished v3 decks were still queued (never held a slot), so no slot freed; all 10 slots full, no deck bumped; queued right after the tagline deck"
+  },
+  {
+   "id": "upkeep-investor-pitch-timeline-bar-and-hiring-deck",
+   "name": "Investor Pitch: Timeline Bar And Hiring",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-timeline-bar-hiring-ddkg40/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-timeline-bar-and-hiring-deck",
+   "added": "2026-10-18T20:50:00+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:34:00+07:00",
+   "blurb": "10 cards: progress bar, growth bars, goal flag, tech hire at 75; re-asks colour and dates",
+   "new": true,
+   "note": "Follow-up to the finished pitch v3 deck (requested Oct 18 20:34 ICT); style-swipe fa6cd68",
+   "queued_at": "2026-10-18T20:50:00+07:00",
+   "queue_note": "Finished v3 decks were still queued (never held a slot), so no slot freed; all 10 slots full, no deck bumped; queued right after the tagline deck"
+  },
+  {
    "id": "upkeep-investor-pitch-founder-hype-and-layout-deck",
    "name": "Investor Pitch: Founder Hype And Layout",
    "url": "https://webermanapps.github.io/style-swipe/pitch-founder-hype-layout-tn0w7q/",
@@ -1276,14 +1324,18 @@
    "topic": "upkeep-investor-pitch-founder-hype-and-layout-deck",
    "added": "2026-10-18T20:20:07+07:00",
    "tag": "Investor Pitch",
-   "answered": 0,
+   "answered": 9,
    "requested": true,
    "requested_at": "2026-10-18T20:11:00+07:00",
    "blurb": "10 cards: how to present the unnamed founder (layout, headline, lead fact, tone)",
-   "new": true,
    "note": "Pitch deck v3 (requested Oct 18 20:11 ICT); board full at build, so queued right after the tagline deck; style-swipe 7c16954",
    "queued_at": "2026-10-18T20:20:07+07:00",
-   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck"
+   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck",
+   "status": "done",
+   "done_at": "2026-10-18T20:29:00+07:00",
+   "skipped": [
+    "09"
+   ]
   },
   {
    "id": "upkeep-investor-pitch-timeline-refresh-deck",
@@ -1293,14 +1345,19 @@
    "topic": "upkeep-investor-pitch-timeline-refresh-deck",
    "added": "2026-10-18T20:20:07+07:00",
    "tag": "Investor Pitch",
-   "answered": 0,
+   "answered": 8,
    "requested": true,
    "requested_at": "2026-10-18T20:11:00+07:00",
    "blurb": "10 cards: fresh ways to show launch to Apr 1, forecasts labelled",
-   "new": true,
    "note": "Pitch deck v3 (requested Oct 18 20:11 ICT); board full at build, so queued right after the tagline deck; style-swipe 7c16954",
    "queued_at": "2026-10-18T20:20:07+07:00",
-   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck"
+   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck",
+   "status": "done",
+   "done_at": "2026-10-18T20:33:00+07:00",
+   "skipped": [
+    "05",
+    "09"
+   ]
   },
   {
    "id": "upkeep-customer-profile-home-record-and-booking-deck",
