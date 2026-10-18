@@ -2,6 +2,24 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
+   "name": "Investor Pitch: Founder Timeline And Tiles",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-founder-timeline-tiles-ylkt3m/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
+   "added": "2026-10-18T20:50:00+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:34:00+07:00",
+   "blurb": "10 cards: timeline plus tiles, builder headline, platform first, quiet look; re-asks carousel",
+   "new": true,
+   "note": "Follow-up to the finished pitch v3 deck (requested Oct 18 20:34 ICT); style-swipe fa6cd68",
+   "refill": true,
+   "filled_from_queue": "2026-10-18T20:59:21+07:00",
+   "replaces_slot_of": "upkeep-investor-pitch-wordmark-cover-problem-photo-and-plan-tabs-deck"
+  },
+  {
    "id": "upkeep-investor-pitch-wordmark-cover-problem-photo-and-plan-tabs-deck",
    "name": "Investor Pitch: Wordmark Cover, Problem Photo And Plan Tabs",
    "url": "https://webermanapps.github.io/style-swipe/pitch-cover-photo-tabs-3hbo44/",
@@ -9,14 +27,43 @@
    "topic": "upkeep-investor-pitch-wordmark-cover-problem-photo-and-plan-tabs-deck",
    "added": "2026-10-18T17:25:00+07:00",
    "tag": "Investor Pitch",
-   "answered": 0,
+   "answered": 8,
    "requested": true,
    "requested_at": "2026-10-18T16:50:00+07:00",
    "blurb": "10 cards, follow-up from Max's picks",
-   "new": true,
    "refill": true,
    "follows": "upkeep-investor-pitch-cover-problem-and-plans-deck",
-   "note": "Fresh follow-up deck (Max Oct 18 16:50 ICT): replaces the finished deck in its slot; results logged only, never applied"
+   "note": "Fresh follow-up deck (Max Oct 18 16:50 ICT): replaces the finished deck in its slot; results logged only, never applied",
+   "status": "done",
+   "done_at": "2026-10-18T18:53:00+07:00",
+   "skipped": [
+    "03",
+    "09"
+   ],
+   "skip_notes": {
+    "03": "What do you like? Just go with that",
+    "09": "Kinda want to be anonymous but my background known"
+   },
+   "results_in": true,
+   "results": "/workspace/wt/pitch-v3-1018-results/followups-2045-results.md"
+  },
+  {
+   "id": "upkeep-investor-pitch-timeline-bar-and-hiring-deck",
+   "name": "Investor Pitch: Timeline Bar And Hiring",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-timeline-bar-hiring-ddkg40/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-timeline-bar-and-hiring-deck",
+   "added": "2026-10-18T20:50:00+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:34:00+07:00",
+   "blurb": "10 cards: progress bar, growth bars, goal flag, tech hire at 75; re-asks colour and dates",
+   "new": true,
+   "note": "Follow-up to the finished pitch v3 deck (requested Oct 18 20:34 ICT); style-swipe fa6cd68",
+   "refill": true,
+   "filled_from_queue": "2026-10-18T20:59:21+07:00",
+   "replaces_slot_of": "upkeep-investor-pitch-live-apps-agent-chart-and-use-of-funds-deck"
   },
   {
    "id": "upkeep-investor-pitch-live-apps-agent-chart-and-use-of-funds-deck",
@@ -26,14 +73,46 @@
    "topic": "upkeep-investor-pitch-live-apps-agent-chart-and-use-of-funds-deck",
    "added": "2026-10-18T17:25:00+07:00",
    "tag": "Investor Pitch",
-   "answered": 0,
+   "answered": 6,
    "requested": true,
    "requested_at": "2026-10-18T16:50:00+07:00",
    "blurb": "10 cards, follow-up from Max's picks",
-   "new": true,
    "refill": true,
    "follows": "upkeep-investor-pitch-org-chart-timeline-and-ask-deck",
-   "note": "Fresh follow-up deck (Max Oct 18 16:50 ICT): replaces the finished deck in its slot; results logged only, never applied"
+   "note": "Fresh follow-up deck (Max Oct 18 16:50 ICT): replaces the finished deck in its slot; results logged only, never applied",
+   "status": "done",
+   "done_at": "2026-10-18T18:57:00+07:00",
+   "skipped": [
+    "03",
+    "04",
+    "05",
+    "06"
+   ],
+   "skip_notes": {
+    "04": "Founder at center or top ?",
+    "06": "We can show the future hire of another technician at 75 himes to prepare for growth"
+   },
+   "results_in": true,
+   "results": "/workspace/wt/pitch-v3-1018-results/followups-2045-results.md"
+  },
+  {
+   "id": "upkeep-tagline-supporting-line-social-and-signage-deck",
+   "name": "Tagline: Supporting Line, Social And Signage",
+   "url": "https://webermanapps.github.io/style-swipe/tagline-support-social-signage-k7o4yh/",
+   "total": 10,
+   "topic": "upkeep-tagline-supporting-line-social-and-signage-deck",
+   "added": "2026-10-18T20:59:21+07:00",
+   "tag": "Brand",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:42:00+07:00",
+   "blurb": "10 cards: supporting line, social, yard sign, van rear, door hanger, email; re-asks case and polo back",
+   "new": true,
+   "follows": "upkeep-tagline-home-maintenance-membership-deck",
+   "note": "Fresh follow-up deck for a finished deck (standing instruction tonight); results logged only, never applied; style-swipe 5e8fc9d",
+   "refill": true,
+   "filled_from_queue": "2026-10-18T20:59:21+07:00",
+   "replaces_slot_of": "upkeep-funnel-price-lock-photos-home-tiles-and-contact-deck"
   },
   {
    "id": "upkeep-funnel-price-lock-photos-home-tiles-and-contact-deck",
@@ -43,14 +122,27 @@
    "topic": "upkeep-funnel-price-lock-photos-home-tiles-and-contact-deck",
    "added": "2026-10-18T17:25:00+07:00",
    "tag": "Sign Up",
-   "answered": 0,
+   "answered": 7,
    "requested": true,
    "requested_at": "2026-10-18T16:50:00+07:00",
    "blurb": "10 cards, follow-up from Max's picks",
-   "new": true,
    "refill": true,
    "follows": "upkeep-funnel-gathering-client-info-deck",
-   "note": "Fresh follow-up deck (Max Oct 18 16:50 ICT): replaces the finished deck in its slot; results logged only, never applied"
+   "note": "Fresh follow-up deck (Max Oct 18 16:50 ICT): replaces the finished deck in its slot; results logged only, never applied",
+   "status": "done",
+   "done_at": "2026-10-18T19:13:00+07:00",
+   "skipped": [
+    "01",
+    "04",
+    "08"
+   ],
+   "skip_notes": {
+    "01": "We need to think of a way to explain that if they don’t take photos it could effect price after first visit if any products don’t match to their thing… or maybe we just ignore this and put it in the contract. Your call",
+    "04": "You choose how to style it",
+    "08": "You can decide the design/style"
+   },
+   "results_in": true,
+   "results": "/workspace/wt/pitch-v3-1018-results/followups-2045-results.md"
   },
   {
    "id": "upkeep-funnel-compare-pop-up-photo-tiles-and-week-picker-deck",
@@ -724,9 +816,125 @@
    "filled_from_queue": "2026-10-18T15:37:34+07:00",
    "status": "done",
    "done_at": "2026-10-18T16:13:34+07:00"
+  },
+  {
+   "id": "upkeep-tagline-home-maintenance-membership-deck",
+   "name": "Tagline: Home Maintenance Membership",
+   "url": "https://webermanapps.github.io/style-swipe/tagline-home-maintenance-membership-idiag4/",
+   "total": 10,
+   "topic": "upkeep-tagline-home-maintenance-membership-deck",
+   "added": "2026-10-18T18:40:29+07:00",
+   "tag": "Brand",
+   "answered": 10,
+   "requested": true,
+   "requested_at": "2026-10-18T18:23:00+07:00",
+   "blurb": "10 cards: where Home Maintenance Membership sits with the wordmark",
+   "note": "Tagline deck (requested Oct 18 18:23 ICT); board full at build, so first in the queue for the next open slot; style-swipe 022d372",
+   "queued_at": "2026-10-18T18:40:29+07:00",
+   "queue_note": "All 10 slots full (no unfinished deck bumped); fills the next open slot",
+   "status": "done",
+   "done_at": "2026-10-18T19:51:00+07:00",
+   "neither": [
+    "04",
+    "09"
+   ],
+   "results_in": true,
+   "results": "/workspace/wt/pitch-v3-1018-results/followups-2045-results.md",
+   "dequeued_at": "2026-10-18T20:59:21+07:00",
+   "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
+  },
+  {
+   "id": "upkeep-investor-pitch-founder-hype-and-layout-deck",
+   "name": "Investor Pitch: Founder Hype And Layout",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-founder-hype-layout-tn0w7q/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-founder-hype-and-layout-deck",
+   "added": "2026-10-18T20:20:07+07:00",
+   "tag": "Investor Pitch",
+   "answered": 9,
+   "requested": true,
+   "requested_at": "2026-10-18T20:11:00+07:00",
+   "blurb": "10 cards: how to present the unnamed founder (layout, headline, lead fact, tone)",
+   "note": "Pitch deck v3 (requested Oct 18 20:11 ICT); board full at build, so queued right after the tagline deck; style-swipe 7c16954",
+   "queued_at": "2026-10-18T20:20:07+07:00",
+   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck",
+   "status": "done",
+   "done_at": "2026-10-18T20:29:00+07:00",
+   "skipped": [
+    "09"
+   ],
+   "dequeued_at": "2026-10-18T20:59:21+07:00",
+   "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
+  },
+  {
+   "id": "upkeep-investor-pitch-timeline-refresh-deck",
+   "name": "Investor Pitch: Timeline Refresh",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-timeline-refresh-4e2h87/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-timeline-refresh-deck",
+   "added": "2026-10-18T20:20:07+07:00",
+   "tag": "Investor Pitch",
+   "answered": 8,
+   "requested": true,
+   "requested_at": "2026-10-18T20:11:00+07:00",
+   "blurb": "10 cards: fresh ways to show launch to Apr 1, forecasts labelled",
+   "note": "Pitch deck v3 (requested Oct 18 20:11 ICT); board full at build, so queued right after the tagline deck; style-swipe 7c16954",
+   "queued_at": "2026-10-18T20:20:07+07:00",
+   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck",
+   "status": "done",
+   "done_at": "2026-10-18T20:33:00+07:00",
+   "skipped": [
+    "05",
+    "09"
+   ],
+   "dequeued_at": "2026-10-18T20:59:21+07:00",
+   "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
+  },
+  {
+   "id": "upkeep-trust-tags-order-and-placement-deck",
+   "name": "Trust Tags: Order And Placement",
+   "url": "https://webermanapps.github.io/style-swipe/trust-tags-order-placement-fwkzzy/",
+   "total": 10,
+   "topic": "upkeep-trust-tags-order-and-placement-deck",
+   "added": "2026-10-17T15:33:27+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, follow-on requested by Max",
+   "bumped_to_queue": "2026-10-17T19:09:58+07:00",
+   "status": "done",
+   "answered": 7,
+   "done_at": "2026-10-17T17:10:44+07:00",
+   "skipped": [
+    "02",
+    "03",
+    "04"
+   ],
+   "dequeued_at": "2026-10-18T20:59:21+07:00",
+   "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
+  },
+  {
+   "id": "upkeep-customer-profile-page-deck-visit-history-photos",
+   "name": "Customer Profile: Visits, Photos & Tips",
+   "url": "https://webermanapps.github.io/style-swipe/upkeep-customer-profile-page-deck-visit-history-photos-c3jybn/",
+   "total": 10,
+   "topic": "upkeep-customer-profile-page-deck",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Max's Picks",
+   "answered": 8,
+   "split_from": "upkeep-customer-profile-page-deck",
+   "blurb": "10 cards, ready now",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted",
+   "status": "done",
+   "done_at": "2026-10-17T19:48:47+07:00",
+   "skipped": [
+    "05",
+    "09"
+   ],
+   "dequeued_at": "2026-10-18T20:59:21+07:00",
+   "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
   }
  ],
- "updated": "2026-10-18T20:50:00+07:00",
+ "updated": "2026-10-18T20:59:21+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1262,102 +1470,90 @@
    "name": "Investor Pitch: Timeline Refresh",
    "answered": 8,
    "total": 10
+  },
+  {
+   "id": "upkeep-tagline-home-maintenance-membership-deck",
+   "at": "2026-10-18T19:51:00+07:00",
+   "name": "Tagline: Home Maintenance Membership",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-wordmark-cover-problem-photo-and-plan-tabs-deck",
+   "at": "2026-10-18T18:53:00+07:00",
+   "name": "Investor Pitch: Wordmark Cover, Problem Photo And Plan Tabs",
+   "answered": 8,
+   "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-live-apps-agent-chart-and-use-of-funds-deck",
+   "at": "2026-10-18T18:57:00+07:00",
+   "name": "Investor Pitch: Live Apps, Agent Chart And Use Of Funds",
+   "answered": 6,
+   "total": 10
+  },
+  {
+   "id": "upkeep-funnel-price-lock-photos-home-tiles-and-contact-deck",
+   "at": "2026-10-18T19:13:00+07:00",
+   "name": "Funnel: Price Lock Photos, Home Tiles And Contact",
+   "answered": 7,
+   "total": 10
   }
  ],
  "queued": [
   {
-   "id": "upkeep-tagline-home-maintenance-membership-deck",
-   "name": "Tagline: Home Maintenance Membership",
-   "url": "https://webermanapps.github.io/style-swipe/tagline-home-maintenance-membership-idiag4/",
+   "id": "upkeep-investor-pitch-scroll-previews-and-anonymous-founder-deck",
+   "name": "Investor Pitch: Scroll Previews And Anonymous Founder",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-scroll-previews-founder-b05zte/",
    "total": 10,
-   "topic": "upkeep-tagline-home-maintenance-membership-deck",
-   "added": "2026-10-18T18:40:29+07:00",
-   "tag": "Brand",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T18:23:00+07:00",
-   "blurb": "10 cards: where Home Maintenance Membership sits with the wordmark",
-   "new": true,
-   "note": "Tagline deck (requested Oct 18 18:23 ICT); board full at build, so first in the queue for the next open slot; style-swipe 022d372",
-   "queued_at": "2026-10-18T18:40:29+07:00",
-   "queue_note": "All 10 slots full (no unfinished deck bumped); fills the next open slot"
-  },
-  {
-   "id": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
-   "name": "Investor Pitch: Founder Timeline And Tiles",
-   "url": "https://webermanapps.github.io/style-swipe/pitch-founder-timeline-tiles-ylkt3m/",
-   "total": 10,
-   "topic": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
-   "added": "2026-10-18T20:50:00+07:00",
+   "topic": "upkeep-investor-pitch-scroll-previews-and-anonymous-founder-deck",
+   "added": "2026-10-18T20:59:21+07:00",
    "tag": "Investor Pitch",
    "answered": 0,
    "requested": true,
-   "requested_at": "2026-10-18T20:34:00+07:00",
-   "blurb": "10 cards: timeline plus tiles, builder headline, platform first, quiet look; re-asks carousel",
+   "requested_at": "2026-10-18T20:42:00+07:00",
+   "blurb": "10 cards: zoom-in scrollable app previews, step names, plan tabs; anonymous founder with background; re-asks caption",
    "new": true,
-   "note": "Follow-up to the finished pitch v3 deck (requested Oct 18 20:34 ICT); style-swipe fa6cd68",
-   "queued_at": "2026-10-18T20:50:00+07:00",
-   "queue_note": "Finished v3 decks were still queued (never held a slot), so no slot freed; all 10 slots full, no deck bumped; queued right after the tagline deck"
+   "follows": "upkeep-investor-pitch-wordmark-cover-problem-photo-and-plan-tabs-deck",
+   "note": "Fresh follow-up deck for a finished deck (standing instruction tonight); results logged only, never applied; style-swipe 5e8fc9d",
+   "queued_at": "2026-10-18T20:59:21+07:00",
+   "queue_note": "Queued right after the front of the queue; fills the next open slot"
   },
   {
-   "id": "upkeep-investor-pitch-timeline-bar-and-hiring-deck",
-   "name": "Investor Pitch: Timeline Bar And Hiring",
-   "url": "https://webermanapps.github.io/style-swipe/pitch-timeline-bar-hiring-ddkg40/",
+   "id": "upkeep-investor-pitch-agent-chart-previews-and-tech-hire-deck",
+   "name": "Investor Pitch: Agent Chart, Previews And Tech Hire",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-agent-chart-tech-hire-1ao2cq/",
    "total": 10,
-   "topic": "upkeep-investor-pitch-timeline-bar-and-hiring-deck",
-   "added": "2026-10-18T20:50:00+07:00",
+   "topic": "upkeep-investor-pitch-agent-chart-previews-and-tech-hire-deck",
+   "added": "2026-10-18T20:59:21+07:00",
    "tag": "Investor Pitch",
    "answered": 0,
    "requested": true,
-   "requested_at": "2026-10-18T20:34:00+07:00",
-   "blurb": "10 cards: progress bar, growth bars, goal flag, tech hire at 75; re-asks colour and dates",
+   "requested_at": "2026-10-18T20:42:00+07:00",
+   "blurb": "10 cards: founder top or centre, agent boxes, tech #2 hire at 75 homes, what Open shows, Beta label",
    "new": true,
-   "note": "Follow-up to the finished pitch v3 deck (requested Oct 18 20:34 ICT); style-swipe fa6cd68",
-   "queued_at": "2026-10-18T20:50:00+07:00",
-   "queue_note": "Finished v3 decks were still queued (never held a slot), so no slot freed; all 10 slots full, no deck bumped; queued right after the tagline deck"
+   "follows": "upkeep-investor-pitch-live-apps-agent-chart-and-use-of-funds-deck",
+   "note": "Fresh follow-up deck for a finished deck (standing instruction tonight); results logged only, never applied; style-swipe 5e8fc9d",
+   "queued_at": "2026-10-18T20:59:21+07:00",
+   "queue_note": "Queued right after the front of the queue; fills the next open slot"
   },
   {
-   "id": "upkeep-investor-pitch-founder-hype-and-layout-deck",
-   "name": "Investor Pitch: Founder Hype And Layout",
-   "url": "https://webermanapps.github.io/style-swipe/pitch-founder-hype-layout-tn0w7q/",
+   "id": "upkeep-funnel-photo-price-note-upload-and-contact-deck",
+   "name": "Funnel: Photo Price Note, Upload And Contact",
+   "url": "https://webermanapps.github.io/style-swipe/funnel-photo-price-upload-mnw44k/",
    "total": 10,
-   "topic": "upkeep-investor-pitch-founder-hype-and-layout-deck",
-   "added": "2026-10-18T20:20:07+07:00",
-   "tag": "Investor Pitch",
-   "answered": 9,
+   "topic": "upkeep-funnel-photo-price-note-upload-and-contact-deck",
+   "added": "2026-10-18T20:59:21+07:00",
+   "tag": "Sign Up",
+   "answered": 0,
    "requested": true,
-   "requested_at": "2026-10-18T20:11:00+07:00",
-   "blurb": "10 cards: how to present the unnamed founder (layout, headline, lead fact, tone)",
-   "note": "Pitch deck v3 (requested Oct 18 20:11 ICT); board full at build, so queued right after the tagline deck; style-swipe 7c16954",
-   "queued_at": "2026-10-18T20:20:07+07:00",
-   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck",
-   "status": "done",
-   "done_at": "2026-10-18T20:29:00+07:00",
-   "skipped": [
-    "09"
-   ]
-  },
-  {
-   "id": "upkeep-investor-pitch-timeline-refresh-deck",
-   "name": "Investor Pitch: Timeline Refresh",
-   "url": "https://webermanapps.github.io/style-swipe/pitch-timeline-refresh-4e2h87/",
-   "total": 10,
-   "topic": "upkeep-investor-pitch-timeline-refresh-deck",
-   "added": "2026-10-18T20:20:07+07:00",
-   "tag": "Investor Pitch",
-   "answered": 8,
-   "requested": true,
-   "requested_at": "2026-10-18T20:11:00+07:00",
-   "blurb": "10 cards: fresh ways to show launch to Apr 1, forecasts labelled",
-   "note": "Pitch deck v3 (requested Oct 18 20:11 ICT); board full at build, so queued right after the tagline deck; style-swipe 7c16954",
-   "queued_at": "2026-10-18T20:20:07+07:00",
-   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck",
-   "status": "done",
-   "done_at": "2026-10-18T20:33:00+07:00",
-   "skipped": [
-    "05",
-    "09"
-   ]
+   "requested_at": "2026-10-18T20:42:00+07:00",
+   "blurb": "10 cards: how to explain the photo price note, terms link, drop area plus camera, home tiles, contact chips",
+   "new": true,
+   "follows": "upkeep-funnel-price-lock-photos-home-tiles-and-contact-deck",
+   "note": "Fresh follow-up deck for a finished deck (standing instruction tonight); results logged only, never applied; style-swipe 5e8fc9d",
+   "queued_at": "2026-10-18T20:59:21+07:00",
+   "queue_note": "Queued right after the front of the queue; fills the next open slot"
   },
   {
    "id": "upkeep-customer-profile-home-record-and-booking-deck",
@@ -1589,25 +1785,6 @@
    "filled_from_queue": "2026-10-17T19:58:48+07:00"
   },
   {
-   "id": "upkeep-trust-tags-order-and-placement-deck",
-   "name": "Trust Tags: Order And Placement",
-   "url": "https://webermanapps.github.io/style-swipe/trust-tags-order-placement-fwkzzy/",
-   "total": 10,
-   "topic": "upkeep-trust-tags-order-and-placement-deck",
-   "added": "2026-10-17T15:33:27+07:00",
-   "tag": "Home Page",
-   "blurb": "10 cards, follow-on requested by Max",
-   "bumped_to_queue": "2026-10-17T19:09:58+07:00",
-   "status": "done",
-   "answered": 7,
-   "done_at": "2026-10-17T17:10:44+07:00",
-   "skipped": [
-    "02",
-    "03",
-    "04"
-   ]
-  },
-  {
    "id": "upkeep-video-video-hooks-and-captions-deck-end-cards-captions",
    "name": "Video Hooks: End Cards & Captions",
    "url": "https://webermanapps.github.io/style-swipe/upkeep-video-video-hooks-and-captions-deck-end-cards-captions-ywro6r/",
@@ -1621,26 +1798,6 @@
    "blurb": "10 cards, ready now",
    "queued_at": "2026-10-17T15:44:09+07:00",
    "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted"
-  },
-  {
-   "id": "upkeep-customer-profile-page-deck-visit-history-photos",
-   "name": "Customer Profile: Visits, Photos & Tips",
-   "url": "https://webermanapps.github.io/style-swipe/upkeep-customer-profile-page-deck-visit-history-photos-c3jybn/",
-   "total": 10,
-   "topic": "upkeep-customer-profile-page-deck",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Max's Picks",
-   "answered": 8,
-   "split_from": "upkeep-customer-profile-page-deck",
-   "blurb": "10 cards, ready now",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue to make room for Branding's Oct 17 follow-on decks; unstarted, not deleted",
-   "status": "done",
-   "done_at": "2026-10-17T19:48:47+07:00",
-   "skipped": [
-    "05",
-    "09"
-   ]
   },
   {
    "id": "upkeep-order-form-sign-up-form-deck-fields-payment",
