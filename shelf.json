@@ -69,12 +69,16 @@
    "topic": "member-app-account-and-empty-states",
    "added": "2026-10-17T22:15:51+07:00",
    "tag": "Member App",
-   "answered": 0,
+   "answered": 10,
    "requested": true,
    "requested_at": "2026-10-17T21:43:00+07:00",
    "blurb": "10 cards: account menu, first month and problem states",
    "new": true,
-   "note": "Max 21:43 ICT: review all UpKeep pages/apps and make fresh decks; from ops/brand/upkeep-full-review-2026-10-17.md, style-swipe a2a5860"
+   "note": "Max 21:43 ICT: review all UpKeep pages/apps and make fresh decks; from ops/brand/upkeep-full-review-2026-10-17.md, style-swipe a2a5860",
+   "status": "done",
+   "done_at": "2026-10-18T09:49:00+07:00",
+   "results_in": true,
+   "results": "ops/brand/results-2026-10-18/upkeep-member-app-account-and-empty-states-deck.md"
   },
   {
    "id": "upkeep-extras-ideas-deck",
@@ -500,9 +504,27 @@
    "queued_at": "2026-10-18T03:40:52+07:00",
    "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
    "filled_from_queue": "2026-10-18T09:45:27+07:00"
+  },
+  {
+   "id": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
+   "name": "Tech App Readings: Moisture Scale And Walk Recap",
+   "url": "https://webermanapps.github.io/style-swipe/tech-app-readings-123qgm/",
+   "total": 10,
+   "topic": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
+   "added": "2026-10-18T03:40:52+07:00",
+   "tag": "Tech App",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "blurb": "10 cards: tech app walk, check-in and readings",
+   "new": true,
+   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
+   "queued_at": "2026-10-18T03:40:52+07:00",
+   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
+   "filled_from_queue": "2026-10-18T09:56:25+07:00"
   }
  ],
- "updated": "2026-10-18T10:05:00+07:00",
+ "updated": "2026-10-18T09:56:25+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -866,26 +888,16 @@
    "name": "Extras Ideas Deck",
    "answered": 10,
    "total": 10
+  },
+  {
+   "id": "upkeep-member-app-account-and-empty-states-deck",
+   "at": "2026-10-18T09:49:00+07:00",
+   "name": "Member App: Account And Empty States",
+   "answered": 10,
+   "total": 10
   }
  ],
  "queued": [
-  {
-   "id": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
-   "name": "Tech App Readings: Moisture Scale And Walk Recap",
-   "url": "https://webermanapps.github.io/style-swipe/tech-app-readings-123qgm/",
-   "total": 10,
-   "topic": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
-   "added": "2026-10-18T03:40:52+07:00",
-   "tag": "Tech App",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "blurb": "10 cards: tech app walk, check-in and readings",
-   "new": true,
-   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
-   "queued_at": "2026-10-18T03:40:52+07:00",
-   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot"
-  },
   {
    "id": "upkeep-care-cards-and-water-protection-follow-up-deck",
    "name": "Care Cards And Water Protection Follow-Up",
