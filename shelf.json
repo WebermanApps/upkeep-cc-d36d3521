@@ -934,7 +934,7 @@
    "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
   }
  ],
- "updated": "2026-10-18T20:59:21+07:00",
+ "updated": "2026-10-18T21:03:13+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1501,6 +1501,23 @@
   }
  ],
  "queued": [
+  {
+   "id": "upkeep-home-page-hero-headline-and-layout-deck",
+   "name": "Home Page: Hero Headline And Layout",
+   "url": "https://webermanapps.github.io/style-swipe/home-hero-headline-layout-u1d0oc/",
+   "total": 10,
+   "topic": "upkeep-home-page-hero-headline-and-layout-deck",
+   "added": "2026-10-18T21:03:13+07:00",
+   "tag": "Home Page",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:49:00+07:00",
+   "blurb": "10 cards: hero headline order, alignment, size, button, quote link, trust pills, spacing",
+   "new": true,
+   "note": "Home page hero deck (requested Oct 18 20:49 ICT); drawn mockups only, live home page locked and unchanged, picks logged only; style-swipe 71fd1ca",
+   "queued_at": "2026-10-18T21:03:13+07:00",
+   "queue_note": "All 10 slots full at build (no unfinished deck bumped); first in line, fills the next open slot"
+  },
   {
    "id": "upkeep-investor-pitch-scroll-previews-and-anonymous-founder-deck",
    "name": "Investor Pitch: Scroll Previews And Anonymous Founder",
