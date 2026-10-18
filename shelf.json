@@ -541,15 +541,17 @@
    "topic": "upkeep-investor-pitch-app-navigation-and-key-points-deck",
    "added": "2026-10-18T03:40:52+07:00",
    "tag": "Investor",
-   "answered": 0,
+   "answered": 8,
    "requested": true,
    "requested_at": "2026-10-18T03:11:00+07:00",
    "blurb": "10 cards: pitch and forecast app looks, sample numbers only",
-   "new": true,
    "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
    "queued_at": "2026-10-18T03:40:52+07:00",
    "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
-   "filled_from_queue": "2026-10-18T11:42:10+07:00"
+   "filled_from_queue": "2026-10-18T11:42:10+07:00",
+   "status": "done",
+   "done_at": "2026-10-18T15:33:27+07:00",
+   "done_note": "Finished by Max (8/10, 2 skipped); taken off the board, kept on counters. Results not applied (routed.json branding-refresh-only-oct18)."
   },
   {
    "id": "upkeep-investor-pitch-honest-valuation-and-blob-chart-deck",
@@ -604,9 +606,27 @@
    "queued_at": "2026-10-18T03:40:52+07:00",
    "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
    "filled_from_queue": "2026-10-18T11:42:10+07:00"
+  },
+  {
+   "id": "upkeep-crew-uniform-new-options-deck",
+   "name": "Crew Uniform: New Options",
+   "url": "https://webermanapps.github.io/style-swipe/crew-uniform-new-options-a5szu0/",
+   "total": 10,
+   "topic": "upkeep-crew-uniform-new-options-deck",
+   "added": "2026-10-18T03:40:52+07:00",
+   "tag": "Crew",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "blurb": "10 cards, new questions from Oct 17",
+   "new": true,
+   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
+   "queued_at": "2026-10-18T03:40:52+07:00",
+   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
+   "filled_from_queue": "2026-10-18T15:37:34+07:00"
   }
  ],
- "updated": "2026-10-18T11:42:10+07:00",
+ "updated": "2026-10-18T15:37:34+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -1005,6 +1025,13 @@
    "name": "Tech App Readings: Moisture Scale And Walk Recap",
    "answered": 10,
    "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-app-navigation-and-key-points-deck",
+   "at": "2026-10-18T15:33:27+07:00",
+   "name": "Investor Pitch App: Navigation And Key Points",
+   "answered": 8,
+   "total": 10
   }
  ],
  "queued": [
@@ -1075,23 +1102,6 @@
    "requested": true,
    "requested_at": "2026-10-18T03:11:00+07:00",
    "blurb": "10 cards: trust tags and What We Take Care Of",
-   "new": true,
-   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
-   "queued_at": "2026-10-18T03:40:52+07:00",
-   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot"
-  },
-  {
-   "id": "upkeep-crew-uniform-new-options-deck",
-   "name": "Crew Uniform: New Options",
-   "url": "https://webermanapps.github.io/style-swipe/crew-uniform-new-options-a5szu0/",
-   "total": 10,
-   "topic": "upkeep-crew-uniform-new-options-deck",
-   "added": "2026-10-18T03:40:52+07:00",
-   "tag": "Crew",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "blurb": "10 cards, new questions from Oct 17",
    "new": true,
    "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
    "queued_at": "2026-10-18T03:40:52+07:00",
