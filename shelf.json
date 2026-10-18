@@ -636,22 +636,34 @@
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
    "url": "https://webermanapps.github.io/style-swipe/pitch-cover-problem-plans-03sxkf/",
-   "total": 10
+   "total": 10,
+   "permanent": true,
+   "pinned_at": "2026-10-18T16:05:00+07:00",
+   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue"
   },
   {
    "name": "Investor Pitch: Org Chart, Timeline And Ask",
    "url": "https://webermanapps.github.io/style-swipe/pitch-org-timeline-ask-7w6dxw/",
-   "total": 10
+   "total": 10,
+   "permanent": true,
+   "pinned_at": "2026-10-18T16:05:00+07:00",
+   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue"
   },
   {
    "name": "Funnel: Gathering Client Info",
    "url": "https://webermanapps.github.io/style-swipe/funnel-client-info-wfoub3/",
-   "total": 10
+   "total": 10,
+   "permanent": true,
+   "pinned_at": "2026-10-18T16:05:00+07:00",
+   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue"
   },
   {
    "name": "Funnel: Subscribe And Pay",
    "url": "https://webermanapps.github.io/style-swipe/funnel-subscribe-pay-aoshok/",
-   "total": 10
+   "total": 10,
+   "permanent": true,
+   "pinned_at": "2026-10-18T16:05:00+07:00",
+   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue"
   }
  ],
  "done": [
