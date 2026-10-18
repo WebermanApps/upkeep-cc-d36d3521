@@ -934,7 +934,7 @@
    "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
   }
  ],
- "updated": "2026-10-18T22:45:17+07:00",
+ "updated": "2026-10-18T22:46:24+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1501,6 +1501,23 @@
   }
  ],
  "queued": [
+  {
+   "id": "upkeep-investor-pitch-built-by-a-builder-founder-slide-deck",
+   "name": "Pitch: Built By A Builder Founder Slide",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-built-by-builder-founder-134a8q/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-built-by-a-builder-founder-slide-deck",
+   "added": "2026-10-18T22:46:24+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T22:33:00+07:00",
+   "blurb": "10 cards: which new fact earns a tile, languages swap, lead line, 4 vs 6 tiles, timeline, tone, banner, home count",
+   "new": true,
+   "note": "Founder slide deck (asked directly Oct 18 22:33 ICT); drawn mockups of the live founder slide (bb2e154 slide 9), founder unnamed, Economics and accounting corrected, home count is a labelled SAMPLE with a Notes prompt for the real number; picks logged only; style-swipe 4a8bd19",
+   "queued_at": "2026-10-18T22:46:24+07:00",
+   "queue_note": "All 10 slots full at build (no unfinished deck bumped); first in line, fills the next open slot"
+  },
   {
    "id": "upkeep-pitch-forecast-pace-and-problem-copy-deck",
    "name": "Pitch: Forecast Pace And Problem Copy",
