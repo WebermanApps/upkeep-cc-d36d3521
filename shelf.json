@@ -726,7 +726,7 @@
    "done_at": "2026-10-18T16:13:34+07:00"
   }
  ],
- "updated": "2026-10-18T17:25:00+07:00",
+ "updated": "2026-10-18T18:40:29+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1251,6 +1251,23 @@
   }
  ],
  "queued": [
+  {
+   "id": "upkeep-tagline-home-maintenance-membership-deck",
+   "name": "Tagline: Home Maintenance Membership",
+   "url": "https://webermanapps.github.io/style-swipe/tagline-home-maintenance-membership-idiag4/",
+   "total": 10,
+   "topic": "upkeep-tagline-home-maintenance-membership-deck",
+   "added": "2026-10-18T18:40:29+07:00",
+   "tag": "Brand",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T18:23:00+07:00",
+   "blurb": "10 cards: where Home Maintenance Membership sits with the wordmark",
+   "new": true,
+   "note": "Tagline deck (requested Oct 18 18:23 ICT); board full at build, so first in the queue for the next open slot; style-swipe 022d372",
+   "queued_at": "2026-10-18T18:40:29+07:00",
+   "queue_note": "All 10 slots full (no unfinished deck bumped); fills the next open slot"
+  },
   {
    "id": "upkeep-customer-profile-home-record-and-booking-deck",
    "name": "Customer Profile: Home Record And Booking",
