@@ -726,7 +726,7 @@
    "done_at": "2026-10-18T16:13:34+07:00"
   }
  ],
- "updated": "2026-10-18T18:40:29+07:00",
+ "updated": "2026-10-18T20:20:07+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1267,6 +1267,40 @@
    "note": "Tagline deck (requested Oct 18 18:23 ICT); board full at build, so first in the queue for the next open slot; style-swipe 022d372",
    "queued_at": "2026-10-18T18:40:29+07:00",
    "queue_note": "All 10 slots full (no unfinished deck bumped); fills the next open slot"
+  },
+  {
+   "id": "upkeep-investor-pitch-founder-hype-and-layout-deck",
+   "name": "Investor Pitch: Founder Hype And Layout",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-founder-hype-layout-tn0w7q/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-founder-hype-and-layout-deck",
+   "added": "2026-10-18T20:20:07+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:11:00+07:00",
+   "blurb": "10 cards: how to present the unnamed founder (layout, headline, lead fact, tone)",
+   "new": true,
+   "note": "Pitch deck v3 (requested Oct 18 20:11 ICT); board full at build, so queued right after the tagline deck; style-swipe 7c16954",
+   "queued_at": "2026-10-18T20:20:07+07:00",
+   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck"
+  },
+  {
+   "id": "upkeep-investor-pitch-timeline-refresh-deck",
+   "name": "Investor Pitch: Timeline Refresh",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-timeline-refresh-4e2h87/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-timeline-refresh-deck",
+   "added": "2026-10-18T20:20:07+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:11:00+07:00",
+   "blurb": "10 cards: fresh ways to show launch to Apr 1, forecasts labelled",
+   "new": true,
+   "note": "Pitch deck v3 (requested Oct 18 20:11 ICT); board full at build, so queued right after the tagline deck; style-swipe 7c16954",
+   "queued_at": "2026-10-18T20:20:07+07:00",
+   "queue_note": "All 10 slots full (no unfinished deck bumped); fills an open slot after the tagline deck"
   },
   {
    "id": "upkeep-customer-profile-home-record-and-booking-deck",
