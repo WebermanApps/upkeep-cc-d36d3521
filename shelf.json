@@ -12,10 +12,20 @@
    "blurb": "10 cards, requested by Max",
    "requested": true,
    "requested_at": "2026-10-17T22:09:00+07:00",
-   "answered": 0,
+   "answered": 9,
    "new": true,
    "replaces": "upkeep-what-we-take-care-of-fresh-look-and-more-info-deck",
-   "note": "Replaces the submitted Fresh Look And More Info deck (21:58 ICT). A = section with every settled pick applied (tight rows, plain non-tappable rows, plan chips, fade-up and arrow nudge, See All under, flat white). Every card its own colour re-ask, card face, colour strength, icon style, shadow, See All style, header, chip style, section background, slide dots. Built by Branding, style-swipe 145f45d; topped up to 10 picks (R86) in 7a88883"
+   "note": "Replaces the submitted Fresh Look And More Info deck (21:58 ICT). A = section with every settled pick applied (tight rows, plain non-tappable rows, plan chips, fade-up and arrow nudge, See All under, flat white). Every card its own colour re-ask, card face, colour strength, icon style, shadow, See All style, header, chip style, section background, slide dots. Built by Branding, style-swipe 145f45d; topped up to 10 picks (R86) in 7a88883",
+   "status": "done",
+   "done_at": "2026-10-18T09:24:00+07:00",
+   "results_in": true,
+   "skipped": [
+    "07"
+   ],
+   "skip_notes": {
+    "07": "What do you think ?"
+   },
+   "results": "ops/brand/results-2026-10-18/upkeep-what-we-take-care-of-card-colors-and-finish-deck.md"
   },
   {
    "id": "upkeep-site-trust-and-launch-dates-deck",
@@ -40,12 +50,16 @@
    "topic": "operator-console-alerts-and-test-data",
    "added": "2026-10-17T22:15:50+07:00",
    "tag": "Operator Console",
-   "answered": 0,
+   "answered": 10,
    "requested": true,
    "requested_at": "2026-10-17T21:43:00+07:00",
    "blurb": "10 cards: console alerts, test data and launch view",
    "new": true,
-   "note": "Max 21:43 ICT: review all UpKeep pages/apps and make fresh decks; from ops/brand/upkeep-full-review-2026-10-17.md, style-swipe a2a5860"
+   "note": "Max 21:43 ICT: review all UpKeep pages/apps and make fresh decks; from ops/brand/upkeep-full-review-2026-10-17.md, style-swipe a2a5860",
+   "status": "done",
+   "done_at": "2026-10-18T09:31:00+07:00",
+   "results_in": true,
+   "results": "ops/brand/results-2026-10-18/upkeep-operator-console-alerts-and-test-data-deck.md"
   },
   {
    "id": "upkeep-member-app-account-and-empty-states-deck",
@@ -70,12 +84,27 @@
    "topic": "extras-ideas",
    "added": "2026-10-17T22:15:51+07:00",
    "tag": "Extras",
-   "answered": 0,
+   "answered": 10,
    "requested": true,
    "requested_at": "2026-10-17T21:43:00+07:00",
    "blurb": "10 cards: new add-on ideas for the Extras list",
    "new": true,
-   "note": "Max 21:43 ICT: review all UpKeep pages/apps and make fresh decks; from ops/brand/upkeep-full-review-2026-10-17.md, style-swipe a2a5860; Max 22:11 ICT standing rule: new add-on ideas for the smartupkeep.ai Extras list"
+   "note": "Max 21:43 ICT: review all UpKeep pages/apps and make fresh decks; from ops/brand/upkeep-full-review-2026-10-17.md, style-swipe a2a5860; Max 22:11 ICT standing rule: new add-on ideas for the smartupkeep.ai Extras list",
+   "status": "done",
+   "done_at": "2026-10-18T09:26:00+07:00",
+   "results_in": true,
+   "both": [
+    "01"
+   ],
+   "neither": [
+    "02",
+    "03",
+    "04",
+    "08",
+    "09",
+    "10"
+   ],
+   "results": "ops/brand/results-2026-10-18/upkeep-extras-ideas-deck.md"
   },
   {
    "id": "upkeep-operator-dash-section-pages-deck",
@@ -435,9 +464,45 @@
    "queued_at": "2026-10-17T15:44:09+07:00",
    "queue_note": "R97: queued (shelf full at 10); new Branding follow-on deck, style-swipe ce06805",
    "filled_from_queue": "2026-10-17T19:58:48+07:00"
+  },
+  {
+   "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
+   "name": "Tech App Walkthrough: Full List And Step Screens",
+   "url": "https://webermanapps.github.io/style-swipe/tech-app-walkthrough-unhu80/",
+   "total": 10,
+   "topic": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
+   "added": "2026-10-18T03:40:52+07:00",
+   "tag": "Tech App",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "blurb": "10 cards: tech app walk, check-in and readings",
+   "new": true,
+   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
+   "queued_at": "2026-10-18T03:40:52+07:00",
+   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
+   "filled_from_queue": "2026-10-18T09:45:27+07:00"
+  },
+  {
+   "id": "upkeep-tech-app-check-in-and-before-photos-deck",
+   "name": "Tech App Check-In: Arrival And Before Photos",
+   "url": "https://webermanapps.github.io/style-swipe/tech-app-check-in-07bhbn/",
+   "total": 10,
+   "topic": "upkeep-tech-app-check-in-and-before-photos-deck",
+   "added": "2026-10-18T03:40:52+07:00",
+   "tag": "Tech App",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "blurb": "10 cards: tech app walk, check-in and readings",
+   "new": true,
+   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
+   "queued_at": "2026-10-18T03:40:52+07:00",
+   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
+   "filled_from_queue": "2026-10-18T09:45:27+07:00"
   }
  ],
- "updated": "2026-10-18T03:40:52+07:00",
+ "updated": "2026-10-18T10:05:00+07:00",
  "pinned": [
   {
    "name": "UpKeep Board Deck 2",
@@ -780,43 +845,30 @@
    "name": "What We Take Care Of: Fresh Look And More Info",
    "answered": 7,
    "total": 8
+  },
+  {
+   "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
+   "at": "2026-10-18T09:24:00+07:00",
+   "name": "What We Take Care Of: Card Colors And Finish",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-operator-console-alerts-and-test-data-deck",
+   "at": "2026-10-18T09:31:00+07:00",
+   "name": "Operator Console: Alerts And Test Data",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-extras-ideas-deck",
+   "at": "2026-10-18T09:26:00+07:00",
+   "name": "Extras Ideas Deck",
+   "answered": 10,
+   "total": 10
   }
  ],
  "queued": [
-  {
-   "id": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
-   "name": "Tech App Walkthrough: Full List And Step Screens",
-   "url": "https://webermanapps.github.io/style-swipe/tech-app-walkthrough-unhu80/",
-   "total": 10,
-   "topic": "upkeep-tech-app-walkthrough-full-list-and-step-screens-deck",
-   "added": "2026-10-18T03:40:52+07:00",
-   "tag": "Tech App",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "blurb": "10 cards: tech app walk, check-in and readings",
-   "new": true,
-   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
-   "queued_at": "2026-10-18T03:40:52+07:00",
-   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot"
-  },
-  {
-   "id": "upkeep-tech-app-check-in-and-before-photos-deck",
-   "name": "Tech App Check-In: Arrival And Before Photos",
-   "url": "https://webermanapps.github.io/style-swipe/tech-app-check-in-07bhbn/",
-   "total": 10,
-   "topic": "upkeep-tech-app-check-in-and-before-photos-deck",
-   "added": "2026-10-18T03:40:52+07:00",
-   "tag": "Tech App",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "blurb": "10 cards: tech app walk, check-in and readings",
-   "new": true,
-   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
-   "queued_at": "2026-10-18T03:40:52+07:00",
-   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot"
-  },
   {
    "id": "upkeep-tech-app-moisture-readings-and-walk-recap-deck",
    "name": "Tech App Readings: Moisture Scale And Walk Recap",
@@ -833,6 +885,27 @@
    "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
    "queued_at": "2026-10-18T03:40:52+07:00",
    "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot"
+  },
+  {
+   "id": "upkeep-care-cards-and-water-protection-follow-up-deck",
+   "name": "Care Cards And Water Protection Follow-Up",
+   "url": "https://webermanapps.github.io/style-swipe/care-cards-water-follow-up-dfh1r0/",
+   "total": 10,
+   "topic": "care-cards-and-water-protection-follow-up",
+   "added": "2026-10-18T10:05:00+07:00",
+   "tag": "Home Page",
+   "blurb": "10 cards, follow-up on Max's picks",
+   "requested": true,
+   "requested_at": "2026-10-18T09:24:00+07:00",
+   "answered": 0,
+   "new": true,
+   "follow_on_of": [
+    "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
+    "upkeep-extras-ideas-deck"
+   ],
+   "note": "Follow-up to Card Colors And Finish (09:24 ICT) and Extras Ideas (09:26 ICT): skipped 07 Section Header re-asked with Branding's Bold Khand recommendation; WWTCO winner details; Extras winners presentation and wording. Built by Branding, style-swipe 48da52b",
+   "queued_at": "2026-10-18T10:05:00+07:00",
+   "queue_note": "R97: queued right after Tech App Readings (shelf full at 10 open)"
   },
   {
    "id": "upkeep-trust-tags-loop-wording-colour-and-motion-deck",
