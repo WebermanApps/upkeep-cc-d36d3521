@@ -2,6 +2,36 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
+   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
+   "total": 10,
+   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "added": "2026-10-17T15:32:15+07:00",
+   "tag": "Member App",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
+   "filled_from_queue": "2026-10-18T16:25:00+07:00",
+   "bumped_to_queue": "2026-10-17T22:18:14+07:00",
+   "refill": true
+  },
+  {
+   "id": "upkeep-investor-pitch-story-flow-and-app-format-deck",
+   "name": "Investor Pitch: Story Flow And App Format",
+   "url": "https://webermanapps.github.io/style-swipe/investor-pitch-story-app-djrrgg/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-story-flow-and-app-format-deck",
+   "added": "2026-10-17T15:34:05+07:00",
+   "tag": "Investor Pitch",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
+   "filled_from_queue": "2026-10-18T16:25:00+07:00",
+   "bumped_to_queue": "2026-10-17T22:18:14+07:00",
+   "refill": true
+  },
+  {
    "id": "upkeep-what-we-take-care-of-card-colors-and-finish-deck",
    "name": "What We Take Care Of: Card Colors And Finish",
    "url": "https://webermanapps.github.io/style-swipe/what-we-take-care-of-card-colors-and-finish-lyo47y/",
@@ -615,34 +645,6 @@
    "queued_at": "2026-10-18T03:40:52+07:00",
    "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
    "filled_from_queue": "2026-10-18T16:25:00+07:00"
-  },
-  {
-   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
-   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
-   "total": 10,
-   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "added": "2026-10-17T15:32:15+07:00",
-   "tag": "Member App",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
-   "filled_from_queue": "2026-10-18T16:25:00+07:00",
-   "bumped_to_queue": "2026-10-17T22:18:14+07:00"
-  },
-  {
-   "id": "upkeep-investor-pitch-story-flow-and-app-format-deck",
-   "name": "Investor Pitch: Story Flow And App Format",
-   "url": "https://webermanapps.github.io/style-swipe/investor-pitch-story-app-djrrgg/",
-   "total": 10,
-   "topic": "upkeep-investor-pitch-story-flow-and-app-format-deck",
-   "added": "2026-10-17T15:34:05+07:00",
-   "tag": "Investor Pitch",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
-   "filled_from_queue": "2026-10-18T16:25:00+07:00",
-   "bumped_to_queue": "2026-10-17T22:18:14+07:00"
   }
  ],
  "updated": "2026-10-18T16:30:00+07:00",
