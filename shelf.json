@@ -561,7 +561,7 @@
    "topic": "upkeep-investor-pitch-honest-valuation-and-blob-chart-deck",
    "added": "2026-10-18T03:40:52+07:00",
    "tag": "Investor",
-   "answered": 0,
+   "answered": 9,
    "requested": true,
    "requested_at": "2026-10-18T03:11:00+07:00",
    "blurb": "10 cards: pitch and forecast app looks, sample numbers only",
@@ -569,7 +569,9 @@
    "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
    "queued_at": "2026-10-18T03:40:52+07:00",
    "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
-   "filled_from_queue": "2026-10-18T11:42:10+07:00"
+   "filled_from_queue": "2026-10-18T11:42:10+07:00",
+   "status": "done",
+   "done_at": "2026-10-18T16:16:46+07:00"
   },
   {
    "id": "upkeep-forecast-app-charts-scenarios-and-runway-deck",
@@ -615,6 +617,26 @@
    "topic": "upkeep-crew-uniform-new-options-deck",
    "added": "2026-10-18T03:40:52+07:00",
    "tag": "Crew",
+   "answered": 10,
+   "requested": true,
+   "requested_at": "2026-10-18T03:11:00+07:00",
+   "blurb": "10 cards, new questions from Oct 17",
+   "new": true,
+   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
+   "queued_at": "2026-10-18T03:40:52+07:00",
+   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
+   "filled_from_queue": "2026-10-18T15:37:34+07:00",
+   "status": "done",
+   "done_at": "2026-10-18T16:13:34+07:00"
+  },
+  {
+   "id": "upkeep-sign-up-form-cancel-notice-steps-and-pay-deck",
+   "name": "Sign Up Form: Cancel Notice, Steps And Pay",
+   "url": "https://webermanapps.github.io/style-swipe/sign-up-cancel-steps-pay-892gy1/",
+   "total": 10,
+   "topic": "upkeep-sign-up-form-cancel-notice-steps-and-pay-deck",
+   "added": "2026-10-18T03:40:52+07:00",
+   "tag": "Sign Up",
    "answered": 0,
    "requested": true,
    "requested_at": "2026-10-18T03:11:00+07:00",
@@ -623,10 +645,38 @@
    "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
    "queued_at": "2026-10-18T03:40:52+07:00",
    "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot",
-   "filled_from_queue": "2026-10-18T15:37:34+07:00"
+   "filled_from_queue": "2026-10-18T16:25:00+07:00"
+  },
+  {
+   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
+   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
+   "total": 10,
+   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
+   "added": "2026-10-17T15:32:15+07:00",
+   "tag": "Member App",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
+   "filled_from_queue": "2026-10-18T16:25:00+07:00",
+   "bumped_to_queue": "2026-10-17T22:18:14+07:00"
+  },
+  {
+   "id": "upkeep-investor-pitch-story-flow-and-app-format-deck",
+   "name": "Investor Pitch: Story Flow And App Format",
+   "url": "https://webermanapps.github.io/style-swipe/investor-pitch-story-app-djrrgg/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-story-flow-and-app-format-deck",
+   "added": "2026-10-17T15:34:05+07:00",
+   "tag": "Investor Pitch",
+   "blurb": "10 cards, follow-on requested by Max",
+   "queued_at": "2026-10-17T15:44:09+07:00",
+   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
+   "filled_from_queue": "2026-10-18T16:25:00+07:00",
+   "bumped_to_queue": "2026-10-17T22:18:14+07:00"
   }
  ],
- "updated": "2026-10-18T16:05:00+07:00",
+ "updated": "2026-10-18T16:25:00+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -662,7 +712,11 @@
    "permanent": true,
    "pinned_at": "2026-10-18T16:05:00+07:00",
    "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue",
-   "tag": "Sign Up"
+   "tag": "Sign Up",
+   "id": "upkeep-funnel-subscribe-and-pay-deck",
+   "status": "done",
+   "answered": 10,
+   "done_at": "2026-10-18T16:10:41+07:00"
   },
   {
    "name": "UpKeep Board Deck 2",
@@ -1069,6 +1123,27 @@
    "name": "Investor Pitch App: Navigation And Key Points",
    "answered": 8,
    "total": 10
+  },
+  {
+   "id": "upkeep-investor-pitch-honest-valuation-and-blob-chart-deck",
+   "at": "2026-10-18T16:16:46+07:00",
+   "name": "Investor Pitch: Honest Valuation And Blob Chart",
+   "answered": 9,
+   "total": 10
+  },
+  {
+   "id": "upkeep-crew-uniform-new-options-deck",
+   "at": "2026-10-18T16:13:34+07:00",
+   "name": "Crew Uniform: New Options",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "upkeep-funnel-subscribe-and-pay-deck",
+   "at": "2026-10-18T16:10:41+07:00",
+   "name": "Funnel: Subscribe And Pay",
+   "answered": 10,
+   "total": 10
   }
  ],
  "queued": [
@@ -1145,37 +1220,6 @@
    "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot"
   },
   {
-   "id": "upkeep-sign-up-form-cancel-notice-steps-and-pay-deck",
-   "name": "Sign Up Form: Cancel Notice, Steps And Pay",
-   "url": "https://webermanapps.github.io/style-swipe/sign-up-cancel-steps-pay-892gy1/",
-   "total": 10,
-   "topic": "upkeep-sign-up-form-cancel-notice-steps-and-pay-deck",
-   "added": "2026-10-18T03:40:52+07:00",
-   "tag": "Sign Up",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T03:11:00+07:00",
-   "blurb": "10 cards, new questions from Oct 17",
-   "new": true,
-   "note": "Branding morning decks Oct 18 from the Oct 17 daily work report",
-   "queued_at": "2026-10-18T03:40:52+07:00",
-   "queue_note": "R97: shelf full (10 open, unanswered); queued ahead, heavy first; fills the next free slot"
-  },
-  {
-   "id": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "name": "Clear Picks: Tabs, Headlines And Add-On Step",
-   "url": "https://webermanapps.github.io/style-swipe/clear-picks-tabs-headlines-jpmgcn/",
-   "total": 10,
-   "topic": "upkeep-clear-picks-tabs-headlines-and-add-on-step-deck",
-   "added": "2026-10-17T15:32:15+07:00",
-   "tag": "Member App",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
-   "filled_from_queue": "2026-10-17T21:40:37+07:00",
-   "bumped_to_queue": "2026-10-17T22:18:14+07:00"
-  },
-  {
    "id": "upkeep-trust-tags-chip-look-and-heading-deck",
    "name": "Trust Tags: Chip Look And Heading",
    "url": "https://webermanapps.github.io/style-swipe/trust-tags-chip-look-ndyarq/",
@@ -1183,20 +1227,6 @@
    "topic": "upkeep-trust-tags-chip-look-and-heading-deck",
    "added": "2026-10-17T15:33:28+07:00",
    "tag": "Home Page",
-   "blurb": "10 cards, follow-on requested by Max",
-   "queued_at": "2026-10-17T15:44:09+07:00",
-   "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
-   "filled_from_queue": "2026-10-17T19:58:48+07:00",
-   "bumped_to_queue": "2026-10-17T22:18:14+07:00"
-  },
-  {
-   "id": "upkeep-investor-pitch-story-flow-and-app-format-deck",
-   "name": "Investor Pitch: Story Flow And App Format",
-   "url": "https://webermanapps.github.io/style-swipe/investor-pitch-story-app-djrrgg/",
-   "total": 10,
-   "topic": "upkeep-investor-pitch-story-flow-and-app-format-deck",
-   "added": "2026-10-17T15:34:05+07:00",
-   "tag": "Investor Pitch",
    "blurb": "10 cards, follow-on requested by Max",
    "queued_at": "2026-10-17T15:44:09+07:00",
    "queue_note": "R97: moved off the shelf to the ready queue (shelf full at 10) to make room for the 4 UpKeep full-review decks (style-swipe a2a5860); oldest unstarted, not deleted",
