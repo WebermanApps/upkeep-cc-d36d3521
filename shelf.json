@@ -2,24 +2,6 @@
  "agent": "upkeep",
  "decks": [
   {
-   "id": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
-   "name": "Investor Pitch: Founder Timeline And Tiles",
-   "url": "https://webermanapps.github.io/style-swipe/pitch-founder-timeline-tiles-ylkt3m/",
-   "total": 10,
-   "topic": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
-   "added": "2026-10-18T20:50:00+07:00",
-   "tag": "Investor Pitch",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T20:34:00+07:00",
-   "blurb": "10 cards: timeline plus tiles, builder headline, platform first, quiet look; re-asks carousel",
-   "new": true,
-   "note": "Follow-up to the finished pitch v3 deck (requested Oct 18 20:34 ICT); style-swipe fa6cd68",
-   "refill": true,
-   "filled_from_queue": "2026-10-18T20:59:21+07:00",
-   "replaces_slot_of": "upkeep-investor-pitch-wordmark-cover-problem-photo-and-plan-tabs-deck"
-  },
-  {
    "id": "upkeep-investor-pitch-wordmark-cover-problem-photo-and-plan-tabs-deck",
    "name": "Investor Pitch: Wordmark Cover, Problem Photo And Plan Tabs",
    "url": "https://webermanapps.github.io/style-swipe/pitch-cover-photo-tabs-3hbo44/",
@@ -932,9 +914,96 @@
    ],
    "dequeued_at": "2026-10-18T20:59:21+07:00",
    "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
+  },
+  {
+   "id": "upkeep-investor-pitch-built-by-a-builder-founder-slide-deck",
+   "name": "Pitch: Built By A Builder Founder Slide",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-built-by-builder-founder-134a8q/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-built-by-a-builder-founder-slide-deck",
+   "added": "2026-10-18T22:46:24+07:00",
+   "tag": "Investor Pitch",
+   "answered": 9,
+   "requested": true,
+   "requested_at": "2026-10-18T22:33:00+07:00",
+   "blurb": "10 cards: which new fact earns a tile, languages swap, lead line, 4 vs 6 tiles, timeline, tone, banner, home count",
+   "new": true,
+   "note": "Founder slide deck (asked directly Oct 18 22:33 ICT); drawn mockups of the live founder slide (bb2e154 slide 9), founder unnamed, Economics and accounting corrected, home count is a labelled SAMPLE with a Notes prompt for the real number; picks logged only; style-swipe 4a8bd19",
+   "queued_at": "2026-10-18T22:46:24+07:00",
+   "queue_note": "All 10 slots full at build (no unfinished deck bumped); first in line, fills the next open slot",
+   "was_queued": true,
+   "status": "done",
+   "done_at": "2026-10-18T22:52:30+07:00",
+   "skipped": [
+    "06"
+   ]
+  },
+  {
+   "id": "upkeep-tech-graphics-illustration-style-deck",
+   "name": "Tech Graphics: Illustration Style",
+   "url": "https://webermanapps.github.io/style-swipe/tech-graphics-illustration-style-nstznk/",
+   "total": 10,
+   "topic": "upkeep-tech-graphics-illustration-style-deck",
+   "added": "2026-10-18T22:47:47+07:00",
+   "tag": "Tech Graphics",
+   "answered": 9,
+   "requested": true,
+   "requested_at": "2026-10-18T22:30:00+07:00",
+   "blurb": "10 cards: how the techs are drawn: shading, outline, crop, faces, pose, backdrop, variety",
+   "new": true,
+   "note": "Tech graphics decks (asked directly Oct 18 22:30 ICT): drawn SVG tech mockups for the investor pitch and brand graphics, not the tech app; fixed uniform picks drawn in, not re-asked; picks logged only; style-swipe c6a3189",
+   "queued_at": "2026-10-18T22:47:47+07:00",
+   "queue_note": "All 10 slots full at build (no unfinished deck bumped); added at the front of the queue, fills the next open slot",
+   "was_queued": true,
+   "status": "done",
+   "done_at": "2026-10-18T23:00:14+07:00",
+   "skipped": [
+    "09"
+   ]
+  },
+  {
+   "id": "upkeep-tech-graphics-uniform-and-gear-details-deck",
+   "name": "Tech Graphics: Uniform And Gear Details",
+   "url": "https://webermanapps.github.io/style-swipe/tech-graphics-uniform-gear-details-fas606/",
+   "total": 10,
+   "topic": "upkeep-tech-graphics-uniform-and-gear-details-deck",
+   "added": "2026-10-18T22:47:47+07:00",
+   "tag": "Tech Graphics",
+   "answered": 9,
+   "requested": true,
+   "requested_at": "2026-10-18T22:30:00+07:00",
+   "blurb": "10 cards: uniform and gear in tech art: back wordmark, name, belt, tablet, covers, cap, callouts",
+   "new": true,
+   "note": "Tech graphics decks (asked directly Oct 18 22:30 ICT): drawn SVG tech mockups for the investor pitch and brand graphics, not the tech app; fixed uniform picks drawn in, not re-asked; picks logged only; style-swipe c6a3189",
+   "queued_at": "2026-10-18T22:47:47+07:00",
+   "queue_note": "All 10 slots full at build (no unfinished deck bumped); added at the front of the queue, fills the next open slot",
+   "was_queued": true,
+   "status": "done",
+   "done_at": "2026-10-18T23:02:57+07:00",
+   "skipped": [
+    "03"
+   ]
+  },
+  {
+   "id": "upkeep-pitch-forecast-pace-and-problem-copy-deck",
+   "name": "Pitch: Forecast Pace And Problem Copy",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-forecast-pace-problem-copy-nagf4a/",
+   "total": 10,
+   "topic": "upkeep-pitch-forecast-pace-and-problem-copy-deck",
+   "added": "2026-10-18T22:45:17+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T21:20:00+07:00",
+   "blurb": "10 cards: forecast pace, Beta homes, revenue style, quarter readout, techs on chart, problem headline and subline, to-do end, furnace example, fact style",
+   "new": true,
+   "note": "Fresh deck about the live version after the 9:20 PM ICT republish (2 pitch, 2 member, 2 technician); results logged only, never applied; style-swipe c3377fd",
+   "queued_at": "2026-10-18T22:45:17+07:00",
+   "queue_note": "All 10 slots full at build (no unfinished deck bumped); queued at the front, existing order kept",
+   "filled_from_queue": "2026-10-18T23:09:59+07:00"
   }
  ],
- "updated": "2026-10-18T22:47:47+07:00",
+ "updated": "2026-10-18T23:09:59+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1498,77 +1567,30 @@
    "name": "Funnel: Price Lock Photos, Home Tiles And Contact",
    "answered": 7,
    "total": 10
-  }
- ],
- "queued": [
-  {
-   "id": "upkeep-tech-graphics-illustration-style-deck",
-   "name": "Tech Graphics: Illustration Style",
-   "url": "https://webermanapps.github.io/style-swipe/tech-graphics-illustration-style-nstznk/",
-   "total": 10,
-   "topic": "upkeep-tech-graphics-illustration-style-deck",
-   "added": "2026-10-18T22:47:47+07:00",
-   "tag": "Tech Graphics",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T22:30:00+07:00",
-   "blurb": "10 cards: how the techs are drawn: shading, outline, crop, faces, pose, backdrop, variety",
-   "new": true,
-   "note": "Tech graphics decks (asked directly Oct 18 22:30 ICT): drawn SVG tech mockups for the investor pitch and brand graphics, not the tech app; fixed uniform picks drawn in, not re-asked; picks logged only; style-swipe c6a3189",
-   "queued_at": "2026-10-18T22:47:47+07:00",
-   "queue_note": "All 10 slots full at build (no unfinished deck bumped); added at the front of the queue, fills the next open slot"
-  },
-  {
-   "id": "upkeep-tech-graphics-uniform-and-gear-details-deck",
-   "name": "Tech Graphics: Uniform And Gear Details",
-   "url": "https://webermanapps.github.io/style-swipe/tech-graphics-uniform-gear-details-fas606/",
-   "total": 10,
-   "topic": "upkeep-tech-graphics-uniform-and-gear-details-deck",
-   "added": "2026-10-18T22:47:47+07:00",
-   "tag": "Tech Graphics",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T22:30:00+07:00",
-   "blurb": "10 cards: uniform and gear in tech art: back wordmark, name, belt, tablet, covers, cap, callouts",
-   "new": true,
-   "note": "Tech graphics decks (asked directly Oct 18 22:30 ICT): drawn SVG tech mockups for the investor pitch and brand graphics, not the tech app; fixed uniform picks drawn in, not re-asked; picks logged only; style-swipe c6a3189",
-   "queued_at": "2026-10-18T22:47:47+07:00",
-   "queue_note": "All 10 slots full at build (no unfinished deck bumped); added at the front of the queue, fills the next open slot"
   },
   {
    "id": "upkeep-investor-pitch-built-by-a-builder-founder-slide-deck",
+   "at": "2026-10-18T22:52:30+07:00",
    "name": "Pitch: Built By A Builder Founder Slide",
-   "url": "https://webermanapps.github.io/style-swipe/pitch-built-by-builder-founder-134a8q/",
-   "total": 10,
-   "topic": "upkeep-investor-pitch-built-by-a-builder-founder-slide-deck",
-   "added": "2026-10-18T22:46:24+07:00",
-   "tag": "Investor Pitch",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T22:33:00+07:00",
-   "blurb": "10 cards: which new fact earns a tile, languages swap, lead line, 4 vs 6 tiles, timeline, tone, banner, home count",
-   "new": true,
-   "note": "Founder slide deck (asked directly Oct 18 22:33 ICT); drawn mockups of the live founder slide (bb2e154 slide 9), founder unnamed, Economics and accounting corrected, home count is a labelled SAMPLE with a Notes prompt for the real number; picks logged only; style-swipe 4a8bd19",
-   "queued_at": "2026-10-18T22:46:24+07:00",
-   "queue_note": "All 10 slots full at build (no unfinished deck bumped); first in line, fills the next open slot"
+   "answered": 9,
+   "total": 10
   },
   {
-   "id": "upkeep-pitch-forecast-pace-and-problem-copy-deck",
-   "name": "Pitch: Forecast Pace And Problem Copy",
-   "url": "https://webermanapps.github.io/style-swipe/pitch-forecast-pace-problem-copy-nagf4a/",
-   "total": 10,
-   "topic": "upkeep-pitch-forecast-pace-and-problem-copy-deck",
-   "added": "2026-10-18T22:45:17+07:00",
-   "tag": "Investor Pitch",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-18T21:20:00+07:00",
-   "blurb": "10 cards: forecast pace, Beta homes, revenue style, quarter readout, techs on chart, problem headline and subline, to-do end, furnace example, fact style",
-   "new": true,
-   "note": "Fresh deck about the live version after the 9:20 PM ICT republish (2 pitch, 2 member, 2 technician); results logged only, never applied; style-swipe c3377fd",
-   "queued_at": "2026-10-18T22:45:17+07:00",
-   "queue_note": "All 10 slots full at build (no unfinished deck bumped); queued at the front, existing order kept"
+   "id": "upkeep-tech-graphics-illustration-style-deck",
+   "at": "2026-10-18T23:00:14+07:00",
+   "name": "Tech Graphics: Illustration Style",
+   "answered": 9,
+   "total": 10
   },
+  {
+   "id": "upkeep-tech-graphics-uniform-and-gear-details-deck",
+   "at": "2026-10-18T23:02:57+07:00",
+   "name": "Tech Graphics: Uniform And Gear Details",
+   "answered": 9,
+   "total": 10
+  }
+ ],
+ "queued": [
   {
    "id": "upkeep-pitch-founder-tiles-brand-art-and-ask-layout-deck",
    "name": "Pitch: Founder Tiles, Brand Art And Ask Layout",
@@ -2345,6 +2367,31 @@
    "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT, 14 of 14). A = live Operator Dash hub (upkeep-owner-xhcdx0 78d1e3d), B = one change: section page layout and order, assigned look, Grok Bot 2 card and page, section tabs, empty-state copy, trend style, order of operations, Document Center. Built by Branding, style-swipe a220af2",
    "held_at": "2026-10-18T16:30:00+07:00",
    "held_note": "Set aside (Max via Branding Oct 18 16:20 ICT): Command Center area (off-limits to Branding); not open, not queued; page, file and any votes kept"
+  }
+ ],
+ "removed": [
+  {
+   "id": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
+   "name": "Investor Pitch: Founder Timeline And Tiles",
+   "url": "https://webermanapps.github.io/style-swipe/pitch-founder-timeline-tiles-ylkt3m/",
+   "total": 10,
+   "topic": "upkeep-investor-pitch-founder-timeline-and-tiles-deck",
+   "added": "2026-10-18T20:50:00+07:00",
+   "tag": "Investor Pitch",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T20:34:00+07:00",
+   "blurb": "10 cards: timeline plus tiles, builder headline, platform first, quiet look; re-asks carousel",
+   "new": true,
+   "note": "Follow-up to the finished pitch v3 deck (requested Oct 18 20:34 ICT); style-swipe fa6cd68",
+   "refill": true,
+   "filled_from_queue": "2026-10-18T20:59:21+07:00",
+   "replaces_slot_of": "upkeep-investor-pitch-wordmark-cover-problem-photo-and-plan-tabs-deck",
+   "status": "removed",
+   "removed_at": "2026-10-18T21:08:39+07:00",
+   "removed_from": "decks",
+   "board": "upkeep-cc-d36d3521",
+   "removed_by": "Max (one-click remove)"
   }
  ]
 }
