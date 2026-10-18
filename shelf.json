@@ -934,7 +934,7 @@
    "dequeue_note": "Finished deck taken out of the ready queue (already in done[], still counted)"
   }
  ],
- "updated": "2026-10-18T22:46:24+07:00",
+ "updated": "2026-10-18T22:47:47+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1501,6 +1501,40 @@
   }
  ],
  "queued": [
+  {
+   "id": "upkeep-tech-graphics-illustration-style-deck",
+   "name": "Tech Graphics: Illustration Style",
+   "url": "https://webermanapps.github.io/style-swipe/tech-graphics-illustration-style-nstznk/",
+   "total": 10,
+   "topic": "upkeep-tech-graphics-illustration-style-deck",
+   "added": "2026-10-18T22:47:47+07:00",
+   "tag": "Tech Graphics",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T22:30:00+07:00",
+   "blurb": "10 cards: how the techs are drawn: shading, outline, crop, faces, pose, backdrop, variety",
+   "new": true,
+   "note": "Tech graphics decks (asked directly Oct 18 22:30 ICT): drawn SVG tech mockups for the investor pitch and brand graphics, not the tech app; fixed uniform picks drawn in, not re-asked; picks logged only; style-swipe c6a3189",
+   "queued_at": "2026-10-18T22:47:47+07:00",
+   "queue_note": "All 10 slots full at build (no unfinished deck bumped); added at the front of the queue, fills the next open slot"
+  },
+  {
+   "id": "upkeep-tech-graphics-uniform-and-gear-details-deck",
+   "name": "Tech Graphics: Uniform And Gear Details",
+   "url": "https://webermanapps.github.io/style-swipe/tech-graphics-uniform-gear-details-fas606/",
+   "total": 10,
+   "topic": "upkeep-tech-graphics-uniform-and-gear-details-deck",
+   "added": "2026-10-18T22:47:47+07:00",
+   "tag": "Tech Graphics",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-18T22:30:00+07:00",
+   "blurb": "10 cards: uniform and gear in tech art: back wordmark, name, belt, tablet, covers, cap, callouts",
+   "new": true,
+   "note": "Tech graphics decks (asked directly Oct 18 22:30 ICT): drawn SVG tech mockups for the investor pitch and brand graphics, not the tech app; fixed uniform picks drawn in, not re-asked; picks logged only; style-swipe c6a3189",
+   "queued_at": "2026-10-18T22:47:47+07:00",
+   "queue_note": "All 10 slots full at build (no unfinished deck bumped); added at the front of the queue, fills the next open slot"
+  },
   {
    "id": "upkeep-investor-pitch-built-by-a-builder-founder-slide-deck",
    "name": "Pitch: Built By A Builder Founder Slide",
