@@ -28,21 +28,6 @@
    "results": "ops/brand/results-2026-10-18/upkeep-what-we-take-care-of-card-colors-and-finish-deck.md"
   },
   {
-   "id": "upkeep-site-trust-and-launch-dates-deck",
-   "name": "Site: Trust And Launch Dates",
-   "url": "https://webermanapps.github.io/style-swipe/site-trust-and-launch-dates-560sh2/",
-   "total": 10,
-   "topic": "site-trust-and-launch-dates",
-   "added": "2026-10-17T22:15:49+07:00",
-   "tag": "Home Page",
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-17T21:43:00+07:00",
-   "blurb": "10 cards: site trust, launch dates and sign-up path",
-   "new": true,
-   "note": "Max 21:43 ICT: review all UpKeep pages/apps and make fresh decks; from ops/brand/upkeep-full-review-2026-10-17.md, style-swipe a2a5860"
-  },
-  {
    "id": "upkeep-operator-console-alerts-and-test-data-deck",
    "name": "Operator Console: Alerts And Test Data",
    "url": "https://webermanapps.github.io/style-swipe/operator-console-alerts-and-test-data-3ocg7p/",
@@ -109,22 +94,6 @@
     "10"
    ],
    "results": "ops/brand/results-2026-10-18/upkeep-extras-ideas-deck.md"
-  },
-  {
-   "id": "upkeep-operator-dash-section-pages-deck",
-   "name": "Operator Dash: Section Pages And Chief Card",
-   "url": "https://webermanapps.github.io/style-swipe/operator-dash-section-pages-7locu2/",
-   "total": 10,
-   "topic": "operator-dash-section-pages",
-   "added": "2026-10-17T22:09:37+07:00",
-   "tag": "Operator Dash",
-   "blurb": "10 cards, next Operator Dash picks",
-   "requested": true,
-   "requested_at": "2026-10-17T22:09:37+07:00",
-   "answered": 0,
-   "new": true,
-   "replaces": "upkeep-company-dashboard-deck",
-   "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT, 14 of 14). A = live Operator Dash hub (upkeep-owner-xhcdx0 78d1e3d), B = one change: section page layout and order, assigned look, Grok Bot 2 card and page, section tabs, empty-state copy, trend style, order of operations, Document Center. Built by Branding, style-swipe a220af2"
   },
   {
    "id": "upkeep-tech-app-day-flow-deck",
@@ -676,7 +645,7 @@
    "bumped_to_queue": "2026-10-17T22:18:14+07:00"
   }
  ],
- "updated": "2026-10-18T16:25:00+07:00",
+ "updated": "2026-10-18T16:30:00+07:00",
  "pinned": [
   {
    "name": "Investor Pitch: Cover, Problem And Plans",
@@ -1686,5 +1655,41 @@
    "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
   }
  ],
- "held": []
+ "held": [
+  {
+   "id": "upkeep-site-trust-and-launch-dates-deck",
+   "name": "Site: Trust And Launch Dates",
+   "url": "https://webermanapps.github.io/style-swipe/site-trust-and-launch-dates-560sh2/",
+   "total": 10,
+   "topic": "site-trust-and-launch-dates",
+   "added": "2026-10-17T22:15:49+07:00",
+   "tag": "Home Page",
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-17T21:43:00+07:00",
+   "blurb": "10 cards: site trust, launch dates and sign-up path",
+   "new": true,
+   "note": "Max 21:43 ICT: review all UpKeep pages/apps and make fresh decks; from ops/brand/upkeep-full-review-2026-10-17.md, style-swipe a2a5860",
+   "held_at": "2026-10-18T16:30:00+07:00",
+   "held_note": "Set aside (Max via Branding Oct 18 16:20 ICT): home page (locked); not open, not queued; page, file and any votes kept"
+  },
+  {
+   "id": "upkeep-operator-dash-section-pages-deck",
+   "name": "Operator Dash: Section Pages And Chief Card",
+   "url": "https://webermanapps.github.io/style-swipe/operator-dash-section-pages-7locu2/",
+   "total": 10,
+   "topic": "operator-dash-section-pages",
+   "added": "2026-10-17T22:09:37+07:00",
+   "tag": "Operator Dash",
+   "blurb": "10 cards, next Operator Dash picks",
+   "requested": true,
+   "requested_at": "2026-10-17T22:09:37+07:00",
+   "answered": 0,
+   "new": true,
+   "replaces": "upkeep-company-dashboard-deck",
+   "note": "Replaces the submitted Company Dashboard Hub Deck (21:49 ICT, 14 of 14). A = live Operator Dash hub (upkeep-owner-xhcdx0 78d1e3d), B = one change: section page layout and order, assigned look, Grok Bot 2 card and page, section tabs, empty-state copy, trend style, order of operations, Document Center. Built by Branding, style-swipe a220af2",
+   "held_at": "2026-10-18T16:30:00+07:00",
+   "held_note": "Set aside (Max via Branding Oct 18 16:20 ICT): Command Center area (off-limits to Branding); not open, not queued; page, file and any votes kept"
+  }
+ ]
 }
