@@ -629,17 +629,13 @@
  "updated": "2026-10-18T16:05:00+07:00",
  "pinned": [
   {
-   "name": "UpKeep Board Deck 2",
-   "url": "https://webermanapps.github.io/style-swipe/?date=upkeep-board-2",
-   "total": 20
-  },
-  {
    "name": "Investor Pitch: Cover, Problem And Plans",
    "url": "https://webermanapps.github.io/style-swipe/pitch-cover-problem-plans-03sxkf/",
    "total": 10,
    "permanent": true,
    "pinned_at": "2026-10-18T16:05:00+07:00",
-   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue"
+   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue",
+   "tag": "Investor Pitch"
   },
   {
    "name": "Investor Pitch: Org Chart, Timeline And Ask",
@@ -647,7 +643,8 @@
    "total": 10,
    "permanent": true,
    "pinned_at": "2026-10-18T16:05:00+07:00",
-   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue"
+   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue",
+   "tag": "Investor Pitch"
   },
   {
    "name": "Funnel: Gathering Client Info",
@@ -655,7 +652,8 @@
    "total": 10,
    "permanent": true,
    "pinned_at": "2026-10-18T16:05:00+07:00",
-   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue"
+   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue",
+   "tag": "Sign Up"
   },
   {
    "name": "Funnel: Subscribe And Pay",
@@ -663,7 +661,14 @@
    "total": 10,
    "permanent": true,
    "pinned_at": "2026-10-18T16:05:00+07:00",
-   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue"
+   "note": "Pinned by Max Oct 18 15:52 ICT; permanent so kit deck-shelf.js v11 shows it first, outside the fill/queue",
+   "tag": "Sign Up"
+  },
+  {
+   "name": "UpKeep Board Deck 2",
+   "url": "https://webermanapps.github.io/style-swipe/?date=upkeep-board-2",
+   "total": 20,
+   "permanent": true
   }
  ],
  "done": [
