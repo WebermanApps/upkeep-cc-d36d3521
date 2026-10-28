@@ -2,101 +2,6 @@
  "agent": "upkeep",
  "decks": [
   {
-   "id": "member-home-phone-layout-locked-deck-uhk5v9",
-   "name": "Member Home Phone Layout (locked)",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-phone-layout-locked-deck-uhk5v9/",
-   "total": 7,
-   "topic": "member-home-phone-layout-locked-deck",
-   "added": "2026-10-28T13:12:47+07:00",
-   "tag": "Member",
-   "pinned": true,
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-28T13:04:00+07:00",
-   "blurb": "7 cards, ready now, with Notes",
-   "new": true,
-   "status": "open",
-   "made": "2026-10-28",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
-   "agent": "upkeep"
-  },
-  {
-   "id": "tech-app-phone-shell-locked-deck-mrs4op",
-   "name": "Tech App Phone Shell (locked)",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-app-phone-shell-locked-deck-mrs4op/",
-   "total": 5,
-   "topic": "tech-app-phone-shell-locked-deck",
-   "added": "2026-10-28T13:12:47+07:00",
-   "tag": "Tech",
-   "pinned": true,
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-28T13:04:00+07:00",
-   "blurb": "5 cards, ready now, with Notes",
-   "new": true,
-   "status": "open",
-   "made": "2026-10-28",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
-   "agent": "upkeep"
-  },
-  {
-   "id": "tech-next-session-panel-locked-deck-09d4q4",
-   "name": "Tech Next Session Panel (locked)",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-next-session-panel-locked-deck-09d4q4/",
-   "total": 7,
-   "topic": "tech-next-session-panel-locked-deck",
-   "added": "2026-10-28T13:12:47+07:00",
-   "tag": "Tech",
-   "pinned": true,
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-28T13:04:00+07:00",
-   "blurb": "7 cards, ready now, with Notes",
-   "new": true,
-   "status": "open",
-   "made": "2026-10-28",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
-   "agent": "upkeep"
-  },
-  {
-   "id": "tech-visit-report-locked-deck-z8uspk",
-   "name": "Tech Visit Report (locked)",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-visit-report-locked-deck-z8uspk/",
-   "total": 6,
-   "topic": "tech-visit-report-locked-deck",
-   "added": "2026-10-28T13:12:47+07:00",
-   "tag": "Tech",
-   "pinned": true,
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-28T13:04:00+07:00",
-   "blurb": "6 cards, ready now, with Notes",
-   "new": true,
-   "status": "open",
-   "made": "2026-10-28",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
-   "agent": "upkeep"
-  },
-  {
-   "id": "member-onboarding-equipment-locked-deck-v9i4to",
-   "name": "Member Onboarding & Equipment (locked)",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-onboarding-equipment-locked-deck-v9i4to/",
-   "total": 6,
-   "topic": "member-onboarding-equipment-locked-deck",
-   "added": "2026-10-28T13:12:47+07:00",
-   "tag": "Member",
-   "pinned": true,
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-28T13:04:00+07:00",
-   "blurb": "6 cards, ready now, with Notes",
-   "new": true,
-   "status": "open",
-   "made": "2026-10-28",
-   "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
-   "agent": "upkeep"
-  },
-  {
    "id": "quote-accept-membership-deck-cws91m",
    "name": "Quote & Accept Membership",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/quote-accept-membership-deck-cws91m/",
@@ -211,7 +116,7 @@
    "agent": "upkeep"
   }
  ],
- "updated": "2026-10-28T13:12:47+07:00",
+ "updated": "2026-10-28T14:16:42+07:00",
  "pinned": [],
  "done": [
   {
@@ -737,6 +642,42 @@
    "name": "Tech Graphics: Uniform And Gear Details",
    "answered": 9,
    "total": 10
+  },
+  {
+   "id": "member-home-phone-layout-locked-deck-uhk5v9",
+   "at": "2026-10-28T14:16:42+07:00",
+   "name": "Member Home Phone Layout (locked)",
+   "answered": 7,
+   "total": 7,
+   "note": "Machan confirmed finished Oct 28 ~2:14; submit not in inbox yet"
+  },
+  {
+   "id": "tech-app-phone-shell-locked-deck-mrs4op",
+   "at": "2026-10-28T14:06:00+07:00",
+   "name": "Tech App Phone Shell (locked)",
+   "answered": 3,
+   "total": 5
+  },
+  {
+   "id": "tech-next-session-panel-locked-deck-09d4q4",
+   "at": "2026-10-28T14:09:00+07:00",
+   "name": "Tech Next Session Panel (locked)",
+   "answered": 7,
+   "total": 7
+  },
+  {
+   "id": "tech-visit-report-locked-deck-z8uspk",
+   "at": "2026-10-28T14:11:00+07:00",
+   "name": "Tech Visit Report (locked)",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "member-onboarding-equipment-locked-deck-v9i4to",
+   "at": "2026-10-28T14:13:00+07:00",
+   "name": "Member Onboarding & Equipment (locked)",
+   "answered": 5,
+   "total": 6
   }
  ],
  "queued": [],
