@@ -10,15 +10,16 @@
    "added": "2026-10-28T20:00:24+07:00",
    "tag": "Member",
    "pinned": true,
-   "answered": 0,
+   "answered": 10,
    "requested": true,
    "requested_at": "2026-10-28T19:53:00+07:00",
    "blurb": "10 cards, ready now, with Notes",
    "new": true,
-   "status": "open",
+   "status": "done",
    "made": "2026-10-28",
    "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
-   "agent": "upkeep"
+   "agent": "upkeep",
+   "done_at": "2026-10-28T20:20:00+07:00"
   },
   {
    "id": "your-plan-look-deck-4hqpmw",
@@ -29,15 +30,16 @@
    "added": "2026-10-28T20:00:24+07:00",
    "tag": "Member",
    "pinned": true,
-   "answered": 0,
+   "answered": 7,
    "requested": true,
    "requested_at": "2026-10-28T19:53:00+07:00",
    "blurb": "7 cards, ready now, with Notes",
    "new": true,
-   "status": "open",
+   "status": "done",
    "made": "2026-10-28",
    "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
-   "agent": "upkeep"
+   "agent": "upkeep",
+   "done_at": "2026-10-28T20:21:00+07:00"
   },
   {
    "id": "account-menu-deck-xb0464",
@@ -48,15 +50,16 @@
    "added": "2026-10-28T20:00:24+07:00",
    "tag": "Member",
    "pinned": true,
-   "answered": 0,
+   "answered": 5,
    "requested": true,
    "requested_at": "2026-10-28T19:53:00+07:00",
    "blurb": "6 cards, ready now, with Notes",
    "new": true,
-   "status": "open",
+   "status": "done",
    "made": "2026-10-28",
    "note": "Machan via UpKeep Develop Oct 28 ~7:53 PM ICT — Member appearance polish (Next Visit Look, Your Plan Look, Account Menu). Taste/appearance only; no app bake. No tech personal names. Account Menu add-on: avatar dropdown = Profile & Account Information + Log Out only.",
-   "agent": "upkeep"
+   "agent": "upkeep",
+   "done_at": "2026-10-28T20:22:00+07:00"
   },
   {
    "id": "quote-accept-membership-deck-cws91m",
@@ -99,7 +102,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-10-28T20:00:24+07:00",
+ "updated": "2026-10-28T20:26:41+07:00",
  "pinned": [],
  "done": [
   {
@@ -703,6 +706,27 @@
    "name": "Ask Anything Triage & Urgency Handoff",
    "total": 6,
    "answered": 6
+  },
+  {
+   "id": "next-visit-look-deck-6261e7",
+   "at": "2026-10-28T20:20:00+07:00",
+   "name": "Next Visit Look",
+   "total": 10,
+   "answered": 10
+  },
+  {
+   "id": "your-plan-look-deck-4hqpmw",
+   "at": "2026-10-28T20:21:00+07:00",
+   "name": "Your Plan Look",
+   "total": 7,
+   "answered": 7
+  },
+  {
+   "id": "account-menu-deck-xb0464",
+   "at": "2026-10-28T20:22:00+07:00",
+   "name": "Account Menu",
+   "total": 6,
+   "answered": 5
   }
  ],
  "queued": [],
