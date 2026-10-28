@@ -2,6 +2,25 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "member-home-phone-layout-final-deck-6tmjwy",
+   "name": "Member Home Phone Layout (final)",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-phone-layout-final-deck-6tmjwy/",
+   "total": 7,
+   "topic": "member-home-phone-layout-final-deck",
+   "added": "2026-10-28T12:58:28+07:00",
+   "tag": "Member",
+   "pinned": true,
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-28T12:53:00+07:00",
+   "blurb": "7 cards, ready now, with Notes",
+   "new": true,
+   "status": "open",
+   "made": "2026-10-28",
+   "note": "Machan via UpKeep Develop Oct 28 ~12:53 PM ICT — Member final-lock phone layout (smaller hero, house scooted up / less sky, no reschedule in hero; Next Visit has no tech name — add-on ~12:54 PM ICT). Plan/Reports/Chat/footer/dock kept. Decks only until he says implement.",
+   "agent": "upkeep"
+  },
+  {
    "id": "tech-app-phone-shell-deck-xp0hsj",
    "name": "Tech App Phone Shell",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-app-phone-shell-deck-xp0hsj/",
@@ -115,25 +134,6 @@
    "added": "2026-10-27T22:01:19+07:00"
   },
   {
-   "id": "member-home-layout-deck-pm3muj",
-   "name": "Member Home Layout",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-layout-deck-pm3muj/",
-   "total": 8,
-   "topic": "UpKeep",
-   "added": "2026-10-27T22:01:14+07:00",
-   "tag": "UpKeep Member",
-   "pinned": true,
-   "answered": 0,
-   "requested": true,
-   "requested_at": "2026-10-27T22:01:14+07:00",
-   "blurb": "8 cards · phone-only · crop-fixed",
-   "new": true,
-   "made": "2026-10-27",
-   "note": "Edge-safe crop-fixed layout deck.",
-   "status": "open",
-   "agent": "upkeep"
-  },
-  {
    "id": "member-plan-chat-layout-deck-dgcotr",
    "name": "Member Plan & Chat Layout",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-plan-chat-layout-deck-dgcotr/",
@@ -210,7 +210,7 @@
    "agent": "upkeep"
   }
  ],
- "updated": "2026-10-28T12:51:23+07:00",
+ "updated": "2026-10-28T12:58:28+07:00",
  "pinned": [],
  "done": [
   {
@@ -2191,6 +2191,26 @@
    "status": "cleared_for_tech_layout_1028",
    "agent": "upkeep",
    "cleared_at": "2026-10-28T12:51:23+07:00"
+  },
+  {
+   "id": "member-home-layout-deck-pm3muj",
+   "name": "Member Home Layout",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-layout-deck-pm3muj/",
+   "total": 8,
+   "topic": "UpKeep",
+   "added": "2026-10-27T22:01:14+07:00",
+   "tag": "UpKeep Member",
+   "pinned": true,
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-27T22:01:14+07:00",
+   "blurb": "8 cards · phone-only · crop-fixed",
+   "new": true,
+   "made": "2026-10-27",
+   "note": "Edge-safe crop-fixed layout deck.",
+   "status": "cleared_for_member_final_lock",
+   "agent": "upkeep",
+   "cleared_at": "2026-10-28T12:57:21+07:00"
   }
  ]
 }
