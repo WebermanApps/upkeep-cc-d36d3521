@@ -2,6 +2,24 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "business-card-deck",
+   "name": "Business Card Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/business-card-deck/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Branding",
+   "status": "open",
+   "added": "2026-11-01T12:07:11+07:00",
+   "note": "Machan Nov 1 2026 — Smart Upkeep business card layout, back side with QR, second line, accent, shape; taglines open (Home Care, On Schedule and Your Home, Looked After shown as working options).",
+   "requested_at": "2026-11-01T12:07:11+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "5 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-01",
+   "topic": "business-card-deck"
+  },
+  {
    "id": "member-agreement-final-deck",
    "name": "Member Agreement Final Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-agreement-final-deck/",
@@ -293,7 +311,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-11-01T12:04:20+07:00",
+ "updated": "2026-11-01T12:07:11+07:00",
  "pinned": [],
  "done": [
   {
