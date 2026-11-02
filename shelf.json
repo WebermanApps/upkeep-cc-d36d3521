@@ -2,6 +2,60 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "essentials-plan-ideas-deck",
+   "name": "Essentials Plan Ideas Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/essentials-plan-ideas-deck/",
+   "total": 35,
+   "answered": 0,
+   "tag": "Branding",
+   "status": "open",
+   "added": "2026-11-02T21:14:34+07:00",
+   "note": "Machan Nov 2 2026 (UpKeep Develop) — Smart Upkeep plan and extras ideas: tap a choice per card, Notes optional.",
+   "requested_at": "2026-11-02T21:14:34+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "35 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-02",
+   "topic": "essentials-plan-ideas-deck"
+  },
+  {
+   "id": "plus-and-complete-ideas-deck",
+   "name": "Plus And Complete Ideas Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plus-and-complete-ideas-deck/",
+   "total": 36,
+   "answered": 0,
+   "tag": "Branding",
+   "status": "open",
+   "added": "2026-11-02T21:14:34+07:00",
+   "note": "Machan Nov 2 2026 (UpKeep Develop) — Smart Upkeep plan and extras ideas: tap a choice per card, Notes optional.",
+   "requested_at": "2026-11-02T21:14:34+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "36 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-02",
+   "topic": "plus-and-complete-ideas-deck"
+  },
+  {
+   "id": "extras-ideas-deck",
+   "name": "Extras Ideas Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/extras-ideas-deck/",
+   "total": 37,
+   "answered": 0,
+   "tag": "Branding",
+   "status": "open",
+   "added": "2026-11-02T21:14:34+07:00",
+   "note": "Machan Nov 2 2026 (UpKeep Develop) — Smart Upkeep plan and extras ideas: tap a choice per card, Notes optional.",
+   "requested_at": "2026-11-02T21:14:34+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "37 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-02",
+   "topic": "extras-ideas-deck"
+  },
+  {
    "id": "covered-this-month-deck",
    "name": "Covered This Month Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/covered-this-month-deck/",
@@ -545,7 +599,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-11-02T14:50:07+07:00",
+ "updated": "2026-11-02T21:14:34+07:00",
  "pinned": [],
  "done": [
   {
