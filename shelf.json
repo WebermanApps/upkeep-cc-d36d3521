@@ -2,6 +2,24 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "van-front-deck",
+   "name": "Van Front Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-deck/",
+   "total": 6,
+   "answered": 0,
+   "tag": "UpKeep",
+   "status": "open",
+   "requested_at": "2026-11-03T12:20:09+07:00",
+   "added": "2026-11-03T12:20:09+07:00",
+   "note": "Machan Nov 3 2026: small front-of-van touches on the locked white Transit (mirror caps, hood logo, windshield stripe, header colour, bumper line).",
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "develop",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T12:20:09+07:00"
+  },
+  {
    "id": "founding-25-invite-deck",
    "name": "Founding 25 Invite Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/founding-25-invite-deck/",
@@ -313,7 +331,7 @@
    "requested": true
   }
  ],
- "updated": "2026-11-03T04:09:17+07:00",
+ "updated": "2026-11-03T12:20:09+07:00",
  "pinned": [],
  "done": [
   {
