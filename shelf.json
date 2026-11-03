@@ -2,6 +2,24 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "van-rear-deck",
+   "name": "Van Rear Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-rear-deck/",
+   "total": 6,
+   "answered": 0,
+   "tag": "UpKeep",
+   "status": "open",
+   "requested_at": "2026-11-03T12:30:11+07:00",
+   "added": "2026-11-03T12:30:11+07:00",
+   "note": "Machan Nov 3 2026: rear of the van, 3 full options vs the current rear (top line, bigger logo and QR, bumper bar, QR frame).",
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "develop",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T12:30:11+07:00"
+  },
+  {
    "id": "van-sides-deck",
    "name": "Van Sides Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-sides-deck/",
@@ -349,7 +367,7 @@
    "requested": true
   }
  ],
- "updated": "2026-11-03T12:20:09+07:00",
+ "updated": "2026-11-03T12:30:11+07:00",
  "pinned": [],
  "done": [
   {
