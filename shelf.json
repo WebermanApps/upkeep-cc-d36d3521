@@ -2,58 +2,22 @@
  "agent": "upkeep",
  "decks": [
   {
-   "id": "pen-smooth-writing-deck",
-   "name": "Pen Smooth Writing Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-smooth-writing-deck/",
-   "total": 4,
+   "id": "pen-final-pick-deck",
+   "name": "Pen Final Pick Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-final-pick-deck/",
+   "total": 1,
    "answered": 0,
    "tag": "UpKeep",
    "status": "open",
-   "requested_at": "2026-11-03T22:58:55+07:00",
-   "added": "2026-11-03T22:58:55+07:00",
-   "note": "Machan Nov 3 2026: next pen round from his Pen Deck swipes (G2 led; white barrel, charcoal full lockup locked). Smooth writing: tip, ink, G2 barrel, and which pen he owns.",
+   "requested_at": "2026-11-03T23:07:03+07:00",
+   "added": "2026-11-03T23:07:03+07:00",
+   "note": "Machan Nov 3 2026: last pen head-to-head at 1.0 mm (his Z-Grip vs G2 Bold); black ink, white barrel, charcoal full lockup locked.",
    "pinned": true,
    "new": true,
-   "blurb": "4 cards, ready now, with Notes",
+   "blurb": "1 card, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
-   "updated": "2026-11-03T22:58:55+07:00"
-  },
-  {
-   "id": "mailer-back-colour-deck",
-   "name": "Mailer Back Colour Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-back-colour-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "UpKeep",
-   "status": "open",
-   "requested_at": "2026-11-03T22:58:55+07:00",
-   "added": "2026-11-03T22:58:55+07:00",
-   "note": "Machan Nov 3 2026: mailer back, terracotta vs charcoal two-tone plus headline spacing. Front locked.",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T22:58:55+07:00"
-  },
-  {
-   "id": "yard-sign-polish-deck",
-   "name": "Yard Sign Polish Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/yard-sign-polish-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "UpKeep",
-   "status": "open",
-   "requested_at": "2026-11-03T22:58:55+07:00",
-   "added": "2026-11-03T22:58:55+07:00",
-   "note": "Machan Nov 3 2026: small refinements around yard sign v4 (wordmark size, tagline position, band height).",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T22:58:55+07:00"
+   "updated": "2026-11-03T23:07:03+07:00"
   },
   {
    "id": "bumper-sticker-persimmon-and-gag-lines-deck",
@@ -403,7 +367,7 @@
    "requested": true
   }
  ],
- "updated": "2026-11-03T22:58:55+07:00",
+ "updated": "2026-11-03T23:07:03+07:00",
  "pinned": [],
  "done": [
   {
@@ -1885,6 +1849,33 @@
    "done_at": "2026-11-03T20:33:42+07:00",
    "answered": 4,
    "total": 2
+  },
+  {
+   "id": "pen-smooth-writing-deck",
+   "name": "Pen Smooth Writing Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-smooth-writing-deck/",
+   "at": "2026-11-03T23:02:32+07:00",
+   "done_at": "2026-11-03T23:02:32+07:00",
+   "answered": 2,
+   "total": 4
+  },
+  {
+   "id": "mailer-back-colour-deck",
+   "name": "Mailer Back Colour Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-back-colour-deck/",
+   "at": "2026-11-03T23:02:54+07:00",
+   "done_at": "2026-11-03T23:02:54+07:00",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "yard-sign-polish-deck",
+   "name": "Yard Sign Polish Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/yard-sign-polish-deck/",
+   "at": "2026-11-03T23:03:38+07:00",
+   "done_at": "2026-11-03T23:03:38+07:00",
+   "answered": 3,
+   "total": 3
   }
  ],
  "queued": [],
