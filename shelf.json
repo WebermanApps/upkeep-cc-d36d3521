@@ -2,6 +2,24 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "pen-deck",
+   "name": "Pen Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-deck/",
+   "total": 8,
+   "answered": 0,
+   "tag": "UpKeep",
+   "status": "open",
+   "requested_at": "2026-11-03T22:39:23+07:00",
+   "added": "2026-11-03T22:39:23+07:00",
+   "note": "Machan Nov 3 2026: Smart Upkeep branded pen for welcome boxes and tech kits. Base: his Zebra Z-Grip. 5 real promo pens head to head (Z-Grip custom, Pilot G2, uni-ball Jetstream Sport, Vera Soft Touch Gel Metal, Sharpie S-Gel Metal) plus barrel colour, imprint colour and imprint size. Unit cost, minimum order and ink on every card.",
+   "pinned": true,
+   "new": true,
+   "blurb": "8 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T22:39:23+07:00"
+  },
+  {
    "id": "bumper-sticker-persimmon-and-gag-lines-deck",
    "name": "Bumper Sticker Persimmon And Gag Lines Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-persimmon-and-gag-lines-deck/",
@@ -349,7 +367,7 @@
    "requested": true
   }
  ],
- "updated": "2026-11-03T22:50:00+07:00",
+ "updated": "2026-11-03T22:39:23+07:00",
  "pinned": [],
  "done": [
   {
