@@ -56,24 +56,6 @@
    "updated": "2026-11-03T23:07:03+07:00"
   },
   {
-   "id": "bumper-sticker-persimmon-and-gag-lines-deck",
-   "name": "Bumper Sticker Persimmon And Gag Lines Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-persimmon-and-gag-lines-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "UpKeep",
-   "status": "open",
-   "requested_at": "2026-11-03T22:50:00+07:00",
-   "added": "2026-11-03T22:50:00+07:00",
-   "note": "Machan Nov 3 2026: remake of the open bumper-sticker-lines-deck cards (Persimmon Puns, Big Laughs, both neither). Gutter ladder cards locked.",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "develop",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T22:50:00+07:00"
-  },
-  {
    "id": "welcome-box-branded-items-deck",
    "name": "Welcome Box Branded Items Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-branded-items-deck/",
@@ -403,7 +385,7 @@
    "requested": true
   }
  ],
- "updated": "2026-11-03T23:08:40+07:00",
+ "updated": "2026-11-03T23:11:20+07:00",
  "pinned": [],
  "done": [
   {
