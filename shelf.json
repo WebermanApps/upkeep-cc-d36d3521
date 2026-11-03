@@ -23,7 +23,7 @@
    "id": "van-sides-deck",
    "name": "Van Sides Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-sides-deck/",
-   "total": 6,
+   "total": 12,
    "answered": 0,
    "tag": "UpKeep",
    "status": "open",
@@ -32,10 +32,10 @@
    "note": "Machan Nov 3 2026: van sides polish, bigger logo, wordmark, QR and tagline, each in one flat panel; 3 options per side vs current.",
    "pinned": true,
    "new": true,
-   "blurb": "6 cards, ready now, with Notes",
+   "blurb": "12 cards, ready now, with Notes (6 new spacing-polish cards)",
    "agent": "develop",
    "made": "2026-11-03",
-   "updated": "2026-11-03T13:00:00+07:00"
+   "updated": "2026-11-03T13:10:00+07:00"
   },
   {
    "id": "van-front-deck",
