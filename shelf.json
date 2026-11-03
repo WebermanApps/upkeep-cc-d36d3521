@@ -2,6 +2,42 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "welcome-box-packaging-deck",
+   "name": "Welcome Box Packaging Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-packaging-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "UpKeep",
+   "status": "open",
+   "requested_at": "2026-11-03T23:15:58+07:00",
+   "added": "2026-11-03T23:15:58+07:00",
+   "note": "Machan Nov 3 2026: open packaging details on the locked ribbon lid box (inside lid, tissue, seal sticker, base).",
+   "pinned": true,
+   "new": true,
+   "blurb": "4 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T23:15:58+07:00"
+  },
+  {
+   "id": "welcome-letter-deck",
+   "name": "Welcome Letter Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-letter-deck/",
+   "total": 6,
+   "answered": 0,
+   "tag": "UpKeep",
+   "status": "open",
+   "requested_at": "2026-11-03T23:15:58+07:00",
+   "added": "2026-11-03T23:15:58+07:00",
+   "note": "Machan Nov 3 2026: welcome letter with the Home Record QR printed on it (format, QR, header, signature, paper, opening line).",
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T23:15:58+07:00"
+  },
+  {
    "id": "branded-tape-measure-deck",
    "name": "Branded Tape Measure Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/branded-tape-measure-deck/",
@@ -54,24 +90,6 @@
    "agent": "branding",
    "made": "2026-11-03",
    "updated": "2026-11-03T23:07:03+07:00"
-  },
-  {
-   "id": "welcome-box-branded-items-deck",
-   "name": "Welcome Box Branded Items Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-branded-items-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "UpKeep",
-   "status": "open",
-   "requested_at": "2026-11-03T22:50:00+07:00",
-   "added": "2026-11-03T22:50:00+07:00",
-   "note": "Machan Nov 3 2026: remake of the open welcome-box-items-deck card (battery: neither, note: more branded items).",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "develop",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T22:50:00+07:00"
   },
   {
    "id": "founding-25-invite-deck",
@@ -385,7 +403,7 @@
    "requested": true
   }
  ],
- "updated": "2026-11-03T23:11:20+07:00",
+ "updated": "2026-11-03T23:15:58+07:00",
  "pinned": [],
  "done": [
   {
