@@ -2,6 +2,42 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "branded-tape-measure-deck",
+   "name": "Branded Tape Measure Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/branded-tape-measure-deck/",
+   "total": 6,
+   "answered": 0,
+   "tag": "UpKeep",
+   "status": "open",
+   "requested_at": "2026-11-03T23:08:40+07:00",
+   "added": "2026-11-03T23:08:40+07:00",
+   "note": "Machan Nov 3 2026: welcome box tape measure. Real 4imprint models (Mini 10-ft $1.62 @250, Multifunction $2.49 @150, Tuff Stuff 16-ft $8.45 @50), colour, logo colour, placement, logo version.",
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T23:08:40+07:00"
+  },
+  {
+   "id": "branded-flashlight-deck",
+   "name": "Branded Flashlight Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/branded-flashlight-deck/",
+   "total": 6,
+   "answered": 0,
+   "tag": "UpKeep",
+   "status": "open",
+   "requested_at": "2026-11-03T23:08:40+07:00",
+   "added": "2026-11-03T23:08:40+07:00",
+   "note": "Machan Nov 3 2026: welcome box flashlight. Real 4imprint models (Destin $2.99 @100, Pocket LED $3.69 @100, Arica $2.97 @100), colour, logo colour, placement, logo version.",
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T23:08:40+07:00"
+  },
+  {
    "id": "pen-final-pick-deck",
    "name": "Pen Final Pick Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-final-pick-deck/",
@@ -367,7 +403,7 @@
    "requested": true
   }
  ],
- "updated": "2026-11-03T23:07:03+07:00",
+ "updated": "2026-11-03T23:08:40+07:00",
  "pinned": [],
  "done": [
   {
