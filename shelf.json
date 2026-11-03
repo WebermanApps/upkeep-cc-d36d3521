@@ -2,40 +2,22 @@
  "agent": "upkeep",
  "decks": [
   {
-   "id": "welcome-box-packaging-deck",
-   "name": "Welcome Box Packaging Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-packaging-deck/",
-   "total": 4,
+   "id": "van-front-accent-deck",
+   "name": "Van Front Accent Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-accent-deck/",
+   "total": 8,
    "answered": 0,
    "tag": "UpKeep",
    "status": "open",
-   "requested_at": "2026-11-03T23:15:58+07:00",
-   "added": "2026-11-03T23:15:58+07:00",
-   "note": "Machan Nov 3 2026: open packaging details on the locked ribbon lid box (inside lid, tissue, seal sticker, base).",
+   "requested_at": "2026-11-03T23:26:20+07:00",
+   "added": "2026-11-03T23:26:20+07:00",
+   "note": "Machan Nov 3 2026: subtle crisp front accents for the Smart Upkeep van; headlight wrap (true outline), grille, bumper, fender sweep, double pinstripe, clean, vs windshield line control.",
    "pinned": true,
    "new": true,
-   "blurb": "4 cards, ready now, with Notes",
+   "blurb": "8 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
-   "updated": "2026-11-03T23:15:58+07:00"
-  },
-  {
-   "id": "welcome-letter-deck",
-   "name": "Welcome Letter Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-letter-deck/",
-   "total": 6,
-   "answered": 0,
-   "tag": "UpKeep",
-   "status": "open",
-   "requested_at": "2026-11-03T23:15:58+07:00",
-   "added": "2026-11-03T23:15:58+07:00",
-   "note": "Machan Nov 3 2026: welcome letter with the Home Record QR printed on it (format, QR, header, signature, paper, opening line).",
-   "pinned": true,
-   "new": true,
-   "blurb": "6 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T23:15:58+07:00"
+   "updated": "2026-11-03T23:26:20+07:00"
   },
   {
    "id": "branded-tape-measure-deck",
@@ -403,7 +385,7 @@
    "requested": true
   }
  ],
- "updated": "2026-11-03T23:15:58+07:00",
+ "updated": "2026-11-03T23:26:20+07:00",
  "pinned": [],
  "done": [
   {
@@ -1912,6 +1894,24 @@
    "done_at": "2026-11-03T23:03:38+07:00",
    "answered": 3,
    "total": 3
+  },
+  {
+   "id": "welcome-box-packaging-deck",
+   "name": "Welcome Box Packaging Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-packaging-deck/",
+   "at": "2026-11-03T23:22:37+07:00",
+   "done_at": "2026-11-03T23:22:37+07:00",
+   "answered": 4,
+   "total": 4
+  },
+  {
+   "id": "welcome-letter-deck",
+   "name": "Welcome Letter Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-letter-deck/",
+   "at": "2026-11-03T23:23:25+07:00",
+   "done_at": "2026-11-03T23:23:25+07:00",
+   "answered": 6,
+   "total": 6
   }
  ],
  "queued": [],
