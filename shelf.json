@@ -2,24 +2,6 @@
  "agent": "upkeep",
  "decks": [
   {
-   "id": "member-notifications-deck-d80kt0",
-   "name": "Member Notifications",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-notifications-deck-d80kt0/",
-   "total": 5,
-   "answered": 0,
-   "tag": "Branding",
-   "status": "open",
-   "added": "2026-11-06T13:07:15+07:00",
-   "note": "Machan Nov 6 2026 ~1:06 PM ICT — publish four Member account phone decks (Profile, Notifications, Billing, Help And FAQ) prepared from bc0d29d polish base. Decks only; no live app implementation.",
-   "requested_at": "2026-11-06T13:07:15+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "5 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-11-06",
-   "topic": "member-notifications-deck-d80kt0"
-  },
-  {
    "id": "main-app-desktop-tablet-tiebreak-deck-ctme83",
    "name": "Main App Desktop And Tablet Tiebreak",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-desktop-tablet-tiebreak-deck-ctme83/",
@@ -585,7 +567,7 @@
    "title": "Yard Sign Persimmon Deck"
   }
  ],
- "updated": "2026-11-06T13:50:44+07:00",
+ "updated": "2026-11-06T13:53:06+07:00",
  "pinned": [],
  "done": [
   {
@@ -2139,6 +2121,15 @@
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-help-and-faq-deck-sv527x/",
    "at": "2026-11-06T13:44:54+07:00",
    "done_at": "2026-11-06T13:44:54+07:00",
+   "answered": 5,
+   "total": 5
+  },
+  {
+   "id": "member-notifications-deck-d80kt0",
+   "name": "Member Notifications",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-notifications-deck-d80kt0/",
+   "at": "2026-11-06T13:51:22+07:00",
+   "done_at": "2026-11-06T13:51:22+07:00",
    "answered": 5,
    "total": 5
   }
