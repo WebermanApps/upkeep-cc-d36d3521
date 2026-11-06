@@ -2,6 +2,42 @@
  "agent": "upkeep",
  "decks": [
   {
+   "id": "member-home-hero-deck-368g22",
+   "name": "Member Home Hero",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-hero-deck-368g22/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Branding",
+   "status": "open",
+   "added": "2026-11-06T14:21:52+07:00",
+   "note": "Machan approved Nov 6 14:16 ICT: publish Member Home Hero and Desktop Chrome Default when ready. Hero uses 62a03c6 header lock (logo 58px, share 48px, avatar 40px). Desktop chrome is the skipped Nov 5 cross-page utility question, now next to the chosen sidebar. Preference only; no app bake.",
+   "requested_at": "2026-11-06T14:16:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "6 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-11-06",
+   "topic": "member-home-hero-deck-368g22"
+  },
+  {
+   "id": "main-app-desktop-chrome-default-deck-r2197f",
+   "name": "Main App Desktop Chrome Default",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-desktop-chrome-default-deck-r2197f/",
+   "total": 1,
+   "answered": 0,
+   "tag": "Branding",
+   "status": "open",
+   "added": "2026-11-06T14:21:52+07:00",
+   "note": "Machan approved Nov 6 14:16 ICT: publish Member Home Hero and Desktop Chrome Default when ready. Hero uses 62a03c6 header lock (logo 58px, share 48px, avatar 40px). Desktop chrome is the skipped Nov 5 cross-page utility question, now next to the chosen sidebar. Preference only; no app bake.",
+   "requested_at": "2026-11-06T14:16:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "1 card, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-11-06",
+   "topic": "main-app-desktop-chrome-default-deck-r2197f"
+  },
+  {
    "id": "main-app-desktop-tablet-tiebreak-deck-ctme83",
    "name": "Main App Desktop And Tablet Tiebreak",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-desktop-tablet-tiebreak-deck-ctme83/",
@@ -567,7 +603,7 @@
    "title": "Yard Sign Persimmon Deck"
   }
  ],
- "updated": "2026-11-06T13:53:06+07:00",
+ "updated": "2026-11-06T14:21:52+07:00",
  "pinned": [],
  "done": [
   {
