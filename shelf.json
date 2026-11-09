@@ -56,42 +56,6 @@
       "topic": "member-app-desktop-tablet-pages-deck-njmw1m"
     },
     {
-      "id": "new-prices-deck",
-      "name": "New Prices Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-prices-deck/",
-      "total": 4,
-      "answered": 0,
-      "tag": "Branding",
-      "status": "open",
-      "added": "2026-11-05T13:36:44+07:00",
-      "note": "Machan Nov 5 2026 (UpKeep Develop) — price + scope remake: Essentials $139, Plus $209, Complete $379; Starting At $139/Month; Nov 5 service scope.",
-      "requested_at": "2026-11-05T13:36:44+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "4 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-11-05",
-      "topic": "new-prices-deck"
-    },
-    {
-      "id": "plan-services-deck",
-      "name": "Plan Services Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-services-deck/",
-      "total": 90,
-      "answered": 0,
-      "tag": "Branding",
-      "status": "open",
-      "added": "2026-11-05T13:36:44+07:00",
-      "note": "Machan Nov 5 2026 (UpKeep Develop) — price + scope remake: Essentials $139, Plus $209, Complete $379; Starting At $139/Month; Nov 5 service scope.",
-      "requested_at": "2026-11-05T13:36:44+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "90 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-11-05",
-      "topic": "plan-services-deck"
-    },
-    {
       "id": "plans-page-deck-nov5",
       "name": "Plans Page Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/plans-page-deck-nov5/",
@@ -108,60 +72,6 @@
       "agent": "branding",
       "made": "2026-11-05",
       "topic": "plans-page-deck-nov5"
-    },
-    {
-      "id": "mailer-deck",
-      "name": "Mailer Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-deck/",
-      "total": 3,
-      "answered": 0,
-      "tag": "Branding",
-      "status": "open",
-      "added": "2026-11-05T13:36:44+07:00",
-      "note": "Machan Nov 5 2026 (UpKeep Develop) — price + scope remake: Essentials $139, Plus $209, Complete $379; Starting At $139/Month; Nov 5 service scope.",
-      "requested_at": "2026-11-05T13:36:44+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "3 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-11-05",
-      "topic": "mailer-deck"
-    },
-    {
-      "id": "mailer-refine-deck",
-      "name": "Mailer Refine Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-refine-deck/",
-      "total": 2,
-      "answered": 0,
-      "tag": "Branding",
-      "status": "open",
-      "added": "2026-11-05T13:36:44+07:00",
-      "note": "Machan Nov 5 2026 (UpKeep Develop) — price + scope remake: Essentials $139, Plus $209, Complete $379; Starting At $139/Month; Nov 5 service scope.",
-      "requested_at": "2026-11-05T13:36:44+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "2 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-11-05",
-      "topic": "mailer-refine-deck"
-    },
-    {
-      "id": "door-hanger-and-mailer-deck",
-      "name": "Door Hanger And Mailer Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/door-hanger-and-mailer-deck/",
-      "total": 5,
-      "answered": 0,
-      "tag": "Branding",
-      "status": "open",
-      "added": "2026-11-05T13:36:44+07:00",
-      "note": "Machan Nov 5 2026 (UpKeep Develop) — price + scope remake: Essentials $139, Plus $209, Complete $379; Starting At $139/Month; Nov 5 service scope.",
-      "requested_at": "2026-11-05T13:36:44+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "5 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-11-05",
-      "topic": "door-hanger-and-mailer-deck"
     },
     {
       "id": "pitch-flow-deck-nov5",
@@ -200,7 +110,7 @@
       "topic": "personal-mailer-deck"
     }
   ],
-  "updated": "2026-11-07T04:09:04+07:00",
+  "updated": "2026-11-09T15:10:35+07:00",
   "pinned": [],
   "done": [
     {
@@ -1837,6 +1747,56 @@
       "done_at": "2026-11-06T14:54:09+07:00",
       "answered": 6,
       "total": 6
+    },
+    {
+      "id": "new-prices-deck",
+      "name": "New Prices Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-prices-deck/",
+      "at": "2026-11-02T20:29:41+07:00",
+      "done_at": "2026-11-02T20:29:41+07:00",
+      "answered": 4,
+      "total": 4,
+      "note": "Cleared Nov 9 2026 (Machan 2:59 PM ICT: check all decks). Already answered by receipt inbox/branding/new-prices-deck-20261102-2029-e3e7df48.json at 2026-11-02T20:29:41+07:00; the Nov 5 re-add was a price/scope refresh of the same questions, so his answers stand."
+    },
+    {
+      "id": "plan-services-deck",
+      "name": "Plan Services Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-services-deck/",
+      "at": "2026-11-02T21:58:59+07:00",
+      "done_at": "2026-11-02T21:58:59+07:00",
+      "answered": 93,
+      "total": 90,
+      "note": "Cleared Nov 9 2026 (Machan 2:59 PM ICT: check all decks). Already answered by receipt inbox/branding/plan-services-deck-20261102-2159-207dd010.json at 2026-11-02T21:58:59+07:00; the Nov 5 re-add was a price/scope refresh of the same questions, so his answers stand."
+    },
+    {
+      "id": "mailer-deck",
+      "name": "Mailer Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-deck/",
+      "at": "2026-11-03T14:31:10+07:00",
+      "done_at": "2026-11-03T14:31:10+07:00",
+      "answered": 3,
+      "total": 3,
+      "note": "Cleared Nov 9 2026 (Machan 2:59 PM ICT: check all decks). Already answered by receipt inbox/develop/mailer-deck-20261103-1431-67a06803.json at 2026-11-03T14:31:10+07:00; the Nov 5 re-add was a price/scope refresh of the same questions, so his answers stand."
+    },
+    {
+      "id": "mailer-refine-deck",
+      "name": "Mailer Refine Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-refine-deck/",
+      "at": "2026-11-03T19:41:51+07:00",
+      "done_at": "2026-11-03T19:41:51+07:00",
+      "answered": 2,
+      "total": 2,
+      "note": "Cleared Nov 9 2026 (Machan 2:59 PM ICT: check all decks). Already answered by receipt inbox/develop/mailer-refine-deck-20261103-1941-8d782a2a.json at 2026-11-03T19:41:51+07:00; the Nov 5 re-add was a price/scope refresh of the same questions, so his answers stand."
+    },
+    {
+      "id": "door-hanger-and-mailer-deck",
+      "name": "Door Hanger And Mailer Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/door-hanger-and-mailer-deck/",
+      "at": "2026-11-01T21:03:11+07:00",
+      "done_at": "2026-11-01T21:03:11+07:00",
+      "answered": 5,
+      "total": 5,
+      "note": "Cleared Nov 9 2026 (Machan 2:59 PM ICT: check all decks). Already answered by receipt inbox/branding/door-hanger-and-mailer-deck-20261101-2103-5ff88981.json at 2026-11-01T21:03:11+07:00; the Nov 5 re-add was a price/scope refresh of the same questions, so his answers stand."
     }
   ],
   "queued": [],
